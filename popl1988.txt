@@ -1,0 +1,28 @@
+Bowen Alpern, Mark N. Wegman, F. Kenneth Zadeck
+Barry K. Rosen, Mark N. Wegman, F. Kenneth Zadeck
+John C. Mitchell, Robert Harper
+John M. Lucassen, David K. Gifford
+A. J. Kfoury, Jerzy Tiuryn, Pawel Urzyczyn
+Luca Cardelli
+Samuel N. Kamin
+Ryan Stansifer
+Hanne Riis Nielson, Flemming Nielson
+Paul Hudak, Jonathan Young
+Philip Wadler
+Susan Horwitz, Jan F. Prins, Thomas W. Reps
+Susan Horwitz, Jan F. Prins, Thomas W. Reps
+Gregory F. Johnson, Dominic Duggan
+John H. Williams, Edward L. Wimmers
+Matthias Felleisen
+Albert R. Meyer, Kurt Sieber
+Margaret Montenyohl, Mitchell Wand
+Stephen J. Garland, John V. Guttag
+Bard Bloom, Sorin Istrail, Albert R. Meyer
+Luc Bougé, Nissim Francez
+Moshe Y. Vardi
+Saumya K. Debray
+Martin D. Carroll, Barbara G. Ryder
+Cristina Ruggieri, Thomas P. Murtagh
+Eduardo Pelegrí-Llopart, Susan L. Graham
+Monica S. Lam
+François Irigoin, Rémi Triolet

@@ -1,0 +1,59 @@
+Noam Nisan, Avi Wigderson
+Oded Goldreich, Hugo Krawczyk, Michael Luby
+Joe Kilian
+Leonid A. Levin
+Claude Crépeau, Joe Kilian
+Yishay Mansour, Baruch Schieber, Prasoon Tiwari
+Nader H. Bshouty
+Jeff Kahn, Gil Kalai, Nathan Linial
+László Lovász, Michael E. Saks
+Andrew Chi-Chih Yao
+David Haussler, Nick Littlestone, Manfred K. Warmuth
+Alfredo De Santis, George Markowsky, Mark N. Wegman
+Nathan Linial, Yishay Mansour, Ronald L. Rivest
+William I. Gasarch, Carl H. Smith
+János Komlós, Ramamohan Paturi
+Philip N. Klein
+Michael Luby
+Andrew V. Goldberg, Serge A. Plotkin, Pravin M. Vaidya
+Elias Dahlhaus, Péter Hajnal, Marek Karpinski
+Noga Alon, Yossi Azar
+Baruch Awerbuch, Michael Sipser
+Richard A. Koch
+Baruch Awerbuch
+Yoram Moses, Orli Waarts
+Frank Thomson Leighton, Bruce M. Maggs, Satish Rao
+László Babai, Eugene M. Luks, Ákos Seress
+Victor Shoup
+James Renegar
+Erich Kaltofen, Barry M. Trager
+John F. Canny, Bruce Randall Donald, John H. Reif, Patrick G. Xavier
+Shmuel Safra
+E. Allen Emerson, Charanjit S. Jutla
+Costas Courcoubetis, Mihalis Yannakakis
+Miklós Ajtai
+Miklós Ajtai, Ronald Fagin
+Luke Ong
+David A. McAllester, Prakash Panangaden, Vasant Shanbhogue
+Lenore Blum, Mike Shub, Steve Smale
+Rajeev Motwani, Arvind Raghunathan, Huzur Saran
+Paul Dagum, Michael Luby, Milena Mihail, Umesh V. Vazirani
+Frank Thomson Leighton, Satish Rao
+Andrew V. Goldberg, Serge A. Plotkin, Éva Tardos
+Olivier Goldschmidt, Dorit S. Hochbaum
+Kenneth L. Clarkson
+Seth M. Malitz
+Sandeep N. Bhatt, Jin-yi Cai
+Andrei Z. Broder, Anna R. Karlin
+David Eppstein, Zvi Galil, Raffaele Giancarlo
+Alok Aggarwal, James K. Park
+Michael L. Fredman, Deborah L. Goldsmith
+Martin Dietzfelbinger, Anna R. Karlin, Kurt Mehlhorn, Friedhelm Meyer, Hans Rohnert, Robert Endre Tarjan
+Amir M. Ben-Amram, Zvi Galil
+Bernard Chazelle, Joel Friedman
+Mark H. Overmars, Chee-Keng Yap
+Franco P. Preparata, Roberto Tamassia
+Kenneth L. Clarkson, Herbert Edelsbrunner, Leonidas J. Guibas, Micha Sharir, Emo Welzl
+Ketan Mulmuley
+Bernard Chazelle, Herbert Edelsbrunner
+Joseph C. Culberson, Robert A. Reckhow

@@ -1,0 +1,30 @@
+William Baxter, Henry R. Bauer III
+Rebecca Parsons Selke
+Ron Cytron, Jeanne Ferrante, Barry K. Rosen, Mark N. Wegman, F. Kenneth Zadeck
+Shmuel Sagiv, Orit Edelstein, Nissim Francez, Michael Rodeh
+Keith D. Cooper, Ken Kennedy
+Philip Wadler, Stephen Blott
+Didier Rémy
+Christine Paulin-Mohring
+Paris C. Kanellakis, John C. Mitchell
+Katherine A. Yelick, Joseph L. Zachary
+Timothy J. Hickey
+Haim Gaifman, Ehud Shapiro
+Bent Thomsen
+Bengt Jonsson
+E. Allen Emerson, Tom Sadler, Jai Srinivasan
+Amir Pnueli, Roni Rosner
+Paul C. Attie, E. Allen Emerson
+Luca Cardelli, James E. Donahue, Mick J. Jordan, Bill Kalsow, Greg Nelson
+Martín Abadi, Luca Cardelli, Benjamin C. Pierce, Gordon D. Plotkin
+José Meseguer
+Gennaro Monteleone
+Nachum Dershowitz, Stéphane Kaplan
+Douglas Stott Parker Jr.
+Marianne Baudinet
+Richard Kelsey, Paul Hudak
+Andrew W. Appel, Trevor Jim
+K. Gopinath, John L. Hennessy
+William Pugh, Tim Teitelbaum
+Peter D. Mosses
+Kim Guldstrand Larsen, Arne Skou

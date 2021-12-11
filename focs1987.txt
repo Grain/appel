@@ -1,0 +1,55 @@
+Bernard Chazelle
+Subir Kumar Ghosh, David M. Mount
+David P. Dobkin, Steven J. Friedman, Kenneth J. Supowit
+Herbert Edelsbrunner, János Pach, Jacob T. Schwartz, Micha Sharir
+John F. Canny
+John F. Canny, John H. Reif
+Piotr Berman, Robert Roos
+Nick Littlestone
+Ronald L. Rivest, Robert E. Schapire
+Vince Grolmusz, Prabhakar Ragde
+András Hajnal, Wolfgang Maass, Pavel Pudlák, Mario Szegedy, György Turán
+Yuri Gurevich
+Manuel Blum, Russell Impagliazzo
+Joachim von zur Gathen, Dexter Kozen, Susan Landau
+Lajos Rónyai
+Michael Kaminski, Nader H. Bshouty
+Roland Mirwald, Claus-Peter Schnorr
+Mikhail J. Atallah, Richard Cole, Michael T. Goodrich
+Mark K. Goldberg, Thomas H. Spencer
+Dima Grigoriev, Marek Karpinski
+Victor Y. Pan, John H. Reif
+Abhiram G. Ranade
+Mihály Geréb-Graus, Danny Krizanc
+Alok Aggarwal, Ashok K. Chandra, Marc Snir
+Jan Karel Lenstra, David B. Shmoys, Éva Tardos
+Satish Rao
+Hillel Gazit, Gary L. Miller
+David W. Matula
+Arkady Kanevsky, Vijaya Ramachandran
+Don Coppersmith, Prabhakar Raghavan, Martin Tompa
+Ludek Kucera
+Ravi B. Boppana
+Andrei Z. Broder, Eli Shamir
+Miklós Ajtai
+Joe Kilian, Shlomo Kipnis, Charles E. Leiserson
+Shaodi Gao, Michael Kaufmann
+Pavol Duris, Zvi Galil
+Nathan Linial
+Hagit Attiya, Amotz Bar-Noy, Danny Dolev, Daphne Koller, David Peleg, Rüdiger Reischuk
+Yehuda Afek, Baruch Awerbuch, Serge A. Plotkin, Michael E. Saks
+Yehuda Afek, Baruch Awerbuch, Eli Gafni
+Amos Israeli, Ming Li
+Gary L. Peterson, James E. Burns
+Andrew Chi-Chih Yao
+Michael D. Hirsch, Stephen A. Vavasis
+Stavros S. Cosmadakis
+Jacques Stern
+Paul Feldman
+William Aiello, Johan Håstad
+Oded Goldreich, Yishay Mansour, Michael Sipser
+Yair Oren
+Martin Tompa, Heather Woll
+Robert Endre Tarjan, Christopher J. Van Wyk
+Paul M. B. Vitányi, Baruch Awerbuch
+Noga Alon, Yossi Azar

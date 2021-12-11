@@ -1,0 +1,29 @@
+Zohar Manna, Amir Pnueli
+Maurice Herlihy, Jeannette M. Wing
+Jennifer Widom, David Gries, Fred B. Schneider
+Pierre Jouvelot
+Vijay A. Saraswat
+Randy Allen, David Callahan, Ken Kennedy
+Eugene E. Kohlbecker, Mitchell Wand
+Jiazhen Cai, Robert Paige
+David Gelernter, Suresh Jagannathan, Thomas London
+Joxan Jaffar, Jean-Louis Lassez
+Flemming Nielson
+Cordelia V. Hall, David S. Wise
+Tsung-Min Kuo, Prateek Mishra
+M. Drew Moshier, William C. Rounds
+David R. Chase
+Paul Caspi, Daniel Pilaud, Nicolas Halbwachs, John Plaice
+Krzysztof R. Apt, Nissim Francez, Shmuel Katz
+Eugene W. Stark
+Frank J. Oles
+Cornelis Huizing, Rob Gerth, Willem P. de Roever
+Val Tannen, Albert R. Meyer
+Daniel Leivant, Tim Fernando
+Albert R. Meyer, John C. Mitchell, Eugenio Moggi, Richard Statman
+David Bernstein, Jeffrey M. Jaffe, Michael Rodeh
+Anne Neirynck, Prakash Panangaden, Alan J. Demers
+Peter Lee, Uwe F. Pleban
+David R. Cheriton, Michael E. Wolf
+Philip Wadler
+Matthias Felleisen, Daniel P. Friedman

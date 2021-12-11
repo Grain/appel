@@ -1,0 +1,31 @@
+R. S. Sundaresh, Paul Hudak
+Charles Consel, Olivier Danvy
+Martin Odersky
+R. C. Sekar, Prateek Mishra, I. V. Ramakrishnan
+Samson Abramsky, Thomas P. Jensen
+Jong-Deok Choi, Ron Cytron, Jeanne Ferrante
+Keshav Pingali, Micah Beck, Richard Johnson, Mayan Moudgill, Paul Stodghill
+Shlomit S. Pinter, Ron Y. Pinter
+William Landi, Barbara G. Ryder
+Roberto M. Amadio, Luca Cardelli
+Fritz Henglein, Harry G. Mairson
+Robert Harper, Benjamin C. Pierce
+Jiazhen Cai, Robert Paige
+William D. Clinger, Jonathan Rees
+Bruce F. Duba, Robert Harper, David B. MacQueen
+Christian Queinnec, Bernard P. Serpette
+Dorai Sitaram, Matthias Felleisen
+Steven Lucco, Oliver Sharp
+Yuh-Jzer Joung, Scott A. Smolka
+Alon Kleinman, Yael Moscowitz, Amir Pnueli, Ehud Shapiro
+Erik Crank, Matthias Felleisen
+Jon G. Riecke
+Luc Maranget
+John C. Mitchell, Sigurd Meldal, Neel Madhav
+Alexander Aiken, Brian R. Murphy
+Xavier Leroy, Pierre Weis
+Pierre Jouvelot, David K. Gifford
+Vaughan R. Pratt
+Martín Abadi, Gordon D. Plotkin
+Vijay A. Saraswat, Martin C. Rinard, Prakash Panangaden
+Thomas A. Henzinger, Zohar Manna, Amir Pnueli

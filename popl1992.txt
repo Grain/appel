@@ -1,0 +1,31 @@
+Philip Wadler
+Georges Gonthier, Martín Abadi, Jean-Jacques Lévy
+Andrzej Filinski
+Bernard Lang, Christian Queinnec, José M. Piquer
+Daniel R. Edelson
+Thomas Ball, James R. Larus
+Hanne Riis Nielson, Flemming Nielson
+Patrick Cousot, Radhia Cousot
+Roberto Barbuti, Michael Codish, Roberto Giacobazzi, Giorgio Levi
+Martin C. Rinard, Monica S. Lam
+Dave Berry, Robin Milner, David N. Turner
+Jyh-Herng Chow, Williams Ludwell Harrison III
+Yuh-Jzer Joung, Scott A. Smolka
+Atsushi Ohori
+Didier Rémy
+Xavier Leroy
+Mads Tofte
+Roberto Di Cosmo
+Charles Farnum
+Rodney Farrow, Thomas J. Marlowe, Daniel M. Yellin
+Joseph Bates, Alon Lavie
+Rajiv Gupta
+Jesper Jørgensen
+Vivek Nirkhe, William Pugh
+QingMing Ma
+Patrick Lincoln, John C. Mitchell
+Benjamin C. Pierce
+Kim B. Bruce, John C. Mitchell
+Robert Cartwright, Matthias Felleisen
+Edmund M. Clarke, Orna Grumberg, David E. Long
+Radha Jagadeesan, Keshav Pingali
