@@ -1,0 +1,64 @@
+Denis Kuperberg, Laureline Pinault, Damien Pous
+Patrick Bahr, Christian Uldal Graulund, Rasmus Ejlers Møgelberg
+Benjamin Sherman, Jesse Michel, Michael Carbin
+Roy Margalit, Ori Lahav
+Frantisek Farka, Aleksandar Nanevski, Anindya Banerjee, Germán Andrés Delbianco, Ignacio Fábregas
+Aïna Linn Georges, Armaël Guéneau, Thomas Van Strydonck, Amin Timany, Alix Trieu, Sander Huyghebaert, Dominique Devriese, Lars Birkedal
+Koen Jacobs, Amin Timany, Dominique Devriese
+Gilles Barthe, Rohit Chadha, Paul Krogmeier, A. Prasad Sistla, Mahesh Viswanathan
+Chao-Hong Chen, Amr Sabry
+Simon Oddershede Gregersen, Johan Bay, Amin Timany, Lars Birkedal
+Marcin Sabok, Sam Staton, Dario Stein, Michael Wolman
+Carlo Angiuli, Evan Cavallo, Anders Mörtberg, Max Zeuner
+Simon Spies, Neel Krishnaswami, Derek Dreyer
+Michael Benedikt, Pierre Pradic
+Yotam M. Y. Feldman, Mooly Sagiv, Sharon Shoham, James R. Wilcox
+Silvia Ghilezan, Jovanka Pantovic, Ivan Prokic, Alceste Scalas, Nobuko Yoshida
+Kostas Ferles, Jon Stephens, Isil Dillig
+Jatin Arora, Sam Westrick, Umut A. Acar
+Zvonimir Pavlinovic, Yusen Su, Thomas Wies
+Cambridge Yang, Eric Atkinson, Michael Carbin
+Marco Patrignani, Eric Mark Martin, Dominique Devriese
+Arjen Rouvoet, Robbert Krebbers, Eelco Visser
+Max Willsey, Chandrakana Nandi, Yisu Remy Wang, Oliver Flatt, Zachary Tatlock, Pavel Panchekha
+Danel Ahman, Matija Pretnar
+Stefan K. Muller, Jan Hoffmann
+Lucas Silver, Steve Zdancewic
+Vineet Rajani, Marco Gaboardi, Deepak Garg, Jan Hoffmann
+Damiano Mazza, Michele Pagani
+Jay P. Lim, Mridul Aanjaneya, John Gustafson, Santosh Nagarakatte
+Jinwoo Kim, Qinheping Hu, Loris D'Antoni, Thomas W. Reps
+Julian Rosemann, Simon Moll, Sebastian Hack
+Ugo Dal Lago, Claudia Faggian, Simona RonchiDellaRocca
+Paulo Emílio de Vilhena, François Pottier
+Anders Alnor Mathiasen, Andreas Pavlogiannis
+Andrew K. Hirsch, Ethan Cecchetti
+Umang Mathur, Andreas Pavlogiannis, Mahesh Viswanathan
+Kesha Hietala, Robert Rand, Shih-Han Hung, Xiaodi Wu, Michael Hicks
+Jens Gutsfeld, Markus Müller-Olm, Christoph Ohrem
+Kevin Batz, Benjamin Lucien Kaminski, Joost-Pieter Katoen, Christoph Matheja
+Nathanaël Courant, Xavier Leroy
+Ryan Doenges, Mina Tahmasbi Arashloo, Santiago Bautista, Alexander Chang, Newton Ni, Samwise Parkinson, Rudy Peterson, Alaia Solko-Breslin, Amanda Xu, Nate Foster
+Léon Gondelman, Simon Oddershede Gregersen, Abel Nieto, Amin Timany, Lars Birkedal
+Michalis Kokologiannakis, Ilya Kaysin, Azalea Raad, Viktor Vafeiadis
+Pascal Baumann, Rupak Majumdar, Ramanathan S. Thinniyam, Georg Zetzsche
+Alban Reynaud, Gabriel Scherer, Jeremy Yallop
+Aurèle Barrière, Sandrine Blazy, Olivier Flückiger, David Pichardie, Jan Vitek
+Artem Khyzha, Ori Lahav
+Shaull Almagor, Toghrul Karimov, Edon Kelmendi, Joël Ouaknine, James Worrell
+Marco Vassena, Craig Disselkoen, Klaus v. Gleissenthall, Sunjay Cauligi, Rami Gökhan Kici, Ranjit Jhala, Dean M. Tullsen, Deian Stefan
+Pritam Choudhury, Harley Eades III, Richard A. Eisenberg, Stephanie Weirich
+Beniamino Accattoli, Ugo Dal Lago, Gabriele Vanoni
+Alejandro Aguirre, Gilles Barthe, Justin Hsu, Benjamin Lucien Kaminski, Joost-Pieter Katoen, Christoph Matheja
+Cameron Moy, Phuc C. Nguyen, Sam Tobin-Hochstadt, David Van Horn
+Woosuk Lee
+Eddie Jones, Steven J. Ramsay
+Parosh Aziz Abdulla, Mohamed Faouzi Atig, Ahmed Bouajjani, K. Narayan Kumar, Prakash Saivasan
+Ivan Di Liberti, Fosco Loregiàn, Chad Nester, Pawel Sobocinski
+Jules Jacobs
+Yuanbo Li, Qirun Zhang, Thomas W. Reps
+Jesper Cockx, Nicolas Tabareau, Théo Winterhalter
+Felipe Bañados Schwerter, Alison M. Clark, Khurram A. Jafery, Ronald Garcia
+Shivam Handa, Konstantinos Kallas, Nikos Vasilakis, Martin C. Rinard
+Adam Paszke, Daniel D. Johnson, David Duvenaud, Dimitrios Vytiniotis, Alexey Radul, Matthew J. Johnson, Jonathan Ragan-Kelley, Dougal Maclaurin
+Manuel Serrano
