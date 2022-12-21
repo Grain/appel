@@ -1,0 +1,39 @@
+Dror E. Maydan, Saman P. Amarasinghe, Monica S. Lam
+Siddhartha Chatterjee, John R. Gilbert, Robert Schreiber, Shang-Hua Teng
+Qi Ning, Guang R. Gao
+Martin Odersky, Dan Rabin, Paul Hudak
+Stephen Weeks, Matthias Felleisen
+Simon L. Peyton Jones, Philip Wadler
+Gérard Berry, S. Ramesh, R. K. Shyamasundar
+Atsushi Ohori, Kazuhiko Kato
+Damien Doligez, Xavier Leroy
+Julia L. Lawall, Olivier Danvy
+Mitchell Wand
+John Launchbury
+Martín Abadi, Luca Cardelli, Pierre-Louis Curien
+Peter W. O'Hearn, Robert D. Tennent
+Jon G. Riecke, Ramesh Subrahmanyam
+Nils Klarlund, Michael I. Schwartzbach
+Robert Harper, Mark Lillibridge
+Xavier Leroy
+Jong-Deok Choi, Michael G. Burke, Paul R. Carini
+Kwangkeun Yi, Williams Ludwell Harrison III
+Harini Srinivasan, James Hook, Michael Wolfe
+Arun Lakhotia
+Kim B. Bruce
+Benjamin C. Pierce, David N. Turner
+Harry G. Mairson
+Daniel Leivant
+Kim Marriott, Peter J. Stuckey
+Éric Villemonte de la Clergerie
+Annalisa Bossi, Michele Bugliesi, Maurizio Gabbrielli, Giorgio Levi, Maria Chiara Meo
+Ali-Reza Adl-Tabatabai, Thomas R. Gross
+Samual Bates, Susan Horwitz
+Dhananjay M. Dhamdhere, Uday P. Khedker
+Tobias Nipkow, Christian Prehofer
+Dexter Kozen, Jens Palsberg, Michael I. Schwartzbach
+Simon J. Gay
+Zhong Shao, Andrew W. Appel
+Michael Codish, Saumya K. Debray, Roberto Giacobazzi
+Maria-Virginia Aponte
+Shinn-Der Lee, Daniel P. Friedman

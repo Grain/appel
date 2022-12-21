@@ -1,0 +1,22 @@
+Amelia C. Fong, John B. Kam, Jeffrey D. Ullman
+Ken Kennedy
+Susan L. Graham, Mark N. Wegman
+Jacob T. Schwartz
+George T. Ligler
+Susan L. Gerhart
+Irene Greif, Carl Hewitt
+Richard J. Lipton
+Ellis S. Cohen
+Peter E. Lauer, Roy H. Campbell
+Neil D. Jones, Steven S. Muchnick
+Mehdi Jazayeri, William F. Ogden, William C. Rounds
+Harry B. Hunt III, Thomas G. Szymanski, Jeffrey D. Ullman
+Peter Naur
+Marvin H. Solomon
+Stephen A. Cook, Derek C. Oppen
+Glenn F. Stewart
+Bruce P. Lester
+D. M. Symes
+John B. Goodenough
+Patrick A. V. Hall, Peter Hitchcock, Stephen Todd
+Martin Mikelsons

@@ -1,0 +1,39 @@
+Amer Diwan, David Tarditi, J. Eliot B. Moss
+Norman Ramsey
+Hiralal Agrawal
+Jacques Garrigue, Hassan Aït-Kaci
+Martin Odersky
+Pierre Lescanne
+Damien Doligez, Georges Gonthier
+Hanne Riis Nielson, Flemming Nielson
+Frank S. de Boer, Maurizio Gabbrielli, Elena Marchiori, Catuscia Palamidessi
+Xavier Leroy
+Robert Harper, Mark Lillibridge
+Dinesh Katiyar, David C. Luckham, John C. Mitchell
+Giuseppe Castagna, Benjamin C. Pierce
+Alexander Aiken, Edward L. Wimmers, T. K. Lakshman
+Satish Thatté
+Mads Tofte, Jean-Pierre Talpin
+Chris Hankin, Daniel Le Métayer
+Fritz Henglein, Jesper Jørgensen
+Agostino Cortesi, Baudouin LeCharlier, Pascal Van Hentenryck
+Kim Marriott, Maria J. García de la Banda, Manuel V. Hermenegildo
+Zhenyu Qian
+Sergio Antoy, Rachid Echahed, Michael Hanus
+Todd A. Proebsting, Christopher W. Fraser
+G. Ramalingam, Thomas W. Reps
+Daniel Weise, Roger F. Crew, Michael D. Ernst, Bjarne Steensgaard
+Vadim Maslov
+Rance Cleaveland, Daniel Yankelevich
+Bard Bloom
+Kohei Honda, Nobuko Yoshida
+Jukka Paakki
+John Boyland, Susan L. Graham
+Robert Muller
+Brad Calder, Dirk Grunwald
+Koenraad De Bosschere, Saumya K. Debray, David Gudeman, Sampath Kannan
+Lawrence Feigen, David Klappholz, Robert Casazza, Xing Xue
+Mitchell Wand, Paul Steckler
+Andrzej Filinski
+John Hatcliff, Olivier Danvy
+Guy L. Steele Jr.

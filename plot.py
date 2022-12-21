@@ -10,7 +10,7 @@ ph = []
 
 with open("out.txt") as f:
     lines = f.readlines()
-    # lines.reverse()
+    lines.reverse()
 
     for line in lines:
         [a, b, c, d] = line.split()
@@ -18,8 +18,6 @@ with open("out.txt") as f:
         p.append(float(b))
         pl.append(float(c))
         ph.append(float(d))
-
-print(pl)
 
 # fig, ax = plt.subplots()
 plt.errorbar(p, labels, None, [pl, ph], "o")

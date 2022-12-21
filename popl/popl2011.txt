@@ -1,0 +1,49 @@
+Ondrej Lhoták, Kwok-Chiang Andrew Chung
+Yannis Smaragdakis, Martin Bravenboer, Ondrej Lhoták
+Percy Liang, Omer Tripp, Mayur Naik
+Jaroslav Sevcík, Viktor Vafeiadis, Francesco Zappa Nardelli, Suresh Jagannathan, Peter Sewell
+Mark Batty, Scott Owens, Susmit Sarkar, Peter Sewell, Tjark Weber
+Tahina Ramananandro, Gabriel Dos Reis, Xavier Leroy
+Wontae Choi, Baris Aktemur, Kwangkeun Yi, Makoto Tatsuta
+Martin D. Schwarz, Helmut Seidl, Vesal Vojdani, Peter Lammich, Markus Müller-Olm
+Patrick Cousot, Radhia Cousot, Francesco Logozzo
+Lars Birkedal, Bernhard Reus, Jan Schwinghammer, Kristian Støvring, Jacob Thamsborg, Hongseok Yang
+Chung-Kil Hur, Derek Dreyer
+François Pottier
+Dimitrios Prountzos, Roman Manevich, Keshav Pingali, Kathryn S. McKinley
+Xavier Rival, Bor-Yuh Evan Chang
+Isil Dillig, Thomas Dillig, Alex Aiken
+Amal Ahmed, Robert Bruce Findler, Jeremy G. Siek, Philip Wadler
+Christos Dimoulas, Robert Bruce Findler, Cormac Flanagan, Matthias Felleisen
+Stephanie Weirich, Dimitrios Vytiniotis, Simon L. Peyton Jones, Steve Zdancewic
+Aaron Joseph Turon, Mitchell Wand
+Mike Dodds, Suresh Jagannathan, Matthew J. Parkinson
+Bart Jacobs, Frank Piessens
+P. Madhusudan, Gennaro Parlato
+Nikos Tzevelekos
+Jérôme Leroux
+Sumit Gulwani
+Ashutosh Gupta, Corneliu Popeea, Andrey Rybalchenko
+Dan R. Ghica, Alex I. Smith
+Jan Hoffmann, Klaus Aehlig, Martin Hofmann
+Martin Hofmann, Benjamin C. Pierce, Daniel Wagner
+Fritz Henglein, Lasse Nielsen
+Byron Cook, Eric Koskinen
+Michael Emmi, Shaz Qadeer, Zvonimir Rakamaric
+Nishant Sinha, Chao Wang
+Pierre-Malo Deniélou, Nobuko Yoshida
+Jesse A. Tov, Riccardo Pucella
+Jong-hoon (David) An, Avik Chaudhuri, Jeffrey S. Foster, Michael Hicks
+Anna Bendersky, Erez Petrank
+Hagit Attiya, Rachid Guerraoui, Danny Hendler, Petr Kuznetsov, Maged M. Michael, Martin T. Vechev
+Javier Esparza, Pierre Ganty
+Tarun Prabhu, Shreyas Ramalingam, Matthew Might, Mary W. Hall
+Yuan Feng, Runyao Duan, Mingsheng Ying
+Robert L. Bocchino Jr., Stephen Heumann, Nima Honarmand, Sarita V. Adve, Vikram S. Adve, Adam Welc, Tatiana Shpeisman
+Louis-Noël Pouchet, Uday Bondhugula, Cédric Bastoul, Albert Cohen, J. Ramanujam, P. Sadayappan, Nicolas Vasilache
+Shu-yu Guo, Jens Palsberg
+Norman Ramsey, João Dias
+C.-H.Luke Ong, Steven J. Ramsay
+Rajeev Alur, Pavol Cerný
+P. Madhusudan, Gennaro Parlato, Xiaokang Qiu
+Pramod G. Joisha, Robert S. Schreiber, Prithviraj Banerjee, Hans-Juergen Boehm, Dhruva R. Chakrabarti

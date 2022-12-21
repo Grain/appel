@@ -1,0 +1,31 @@
+Javier Esparza, Andreas Podelski
+Patrick Cousot, Radhia Cousot
+Nevin Heintze, Joxan Jaffar, Razvan Voicu
+Johan Agat
+Thomas Colcombet, Pascal Fradet
+Robert Muth, Saumya K. Debray
+Zhendong Su, Manuel Fähndrich, Alexander Aiken
+Andrea Asperti, Paolo Coppola, Simone Martini
+Jeffrey R. Lewis, John Launchbury, Erik Meijer, Mark Shields
+Ralf Hinze
+Alan Bawden
+Hanne Riis Nielson, Flemming Nielson
+Raghavan Komondoor, Susan Horwitz
+Oliver Rüthing, Jens Knoop, Bernhard Steffen
+Karl Crary, Stephanie Weirich
+Ben Liblit, Alexander Aiken
+Christopher A. Stone, Robert Harper
+Todd B. Knoblock, Jakob Rehof
+Andrew W. Appel, Amy P. Felty
+David Walker
+Dennis M. Volpano, Geoffrey Smith
+Craig Chambers, Bill Harrison, John M. Vlissides
+Anders Sandholm, Michael I. Schwartzbach
+Martín Abadi, Cédric Fournet, Georges Gonthier
+Carl A. Gunter, Trevor Jim
+Witold Charatonik, Andreas Podelski, Jean-Marc Talbot
+Timothy J. Hickey
+Francesca Levi, Davide Sangiorgi
+Luca Cardelli, Andrew D. Gordon
+Yoo C. Chung, Soo-Mook Moon, Kemal Ebcioglu, Dan Sahlin
+Rajeev Alur, Radu Grosu

@@ -1,0 +1,31 @@
+Manuel M. T. Chakravarty, Gabriele Keller, Simon L. Peyton Jones, Simon Marlow
+Richard Cobbe, Matthias Felleisen
+Davide Ancona, Ferruccio Damiani, Sophia Drossopoulou, Elena Zucca
+Juan Chen, David Tarditi
+Haruo Hosoya, Alain Frisch, Giuseppe Castagna
+Eijiro Sumii, Benjamin C. Pierce
+Healfdene Goguen
+Dan R. Ghica
+Rajeev Alur, Pavol Cerný, P. Madhusudan, Wonhong Nam
+Cormac Flanagan, Patrice Godefroid
+Orna Grumberg, Flavio Lerda, Ofer Strichman, Michael Theobald
+Andreas Podelski, Andrey Rybalchenko
+Simon J. Gay, Rajagopal Nagarajan
+Peng Li, Steve Zdancewic
+Sungwoo Park, Frank Pfenning, Sebastian Thrun
+Gareth Paul Stoyle, Michael W. Hicks, Gavin M. Bierman, Peter Sewell, Iulian Neamtiu
+John Field, Carlos A. Varela
+Roberto Bruni, Hernán C. Melgratti, Ugo Montanari
+Matthias Neubauer, Peter Thiemann
+J. Nathan Foster, Michael B. Greenwald, Jonathan T. Moore, Benjamin C. Pierce, Alan Schmitt
+Matthew J. Parkinson, Gavin M. Bierman
+Richard Bornat, Cristiano Calcagno, Peter W. O'Hearn, Matthew J. Parkinson
+Cristiano Calcagno, Philippa Gardner, Uri Zarfaty
+John Tang Boyland, William Retert
+Noam Rinetzky, Jörg Bauer, Thomas W. Reps, Shmuel Sagiv, Reinhard Wilhelm
+Brian Hackett, Radu Rugina
+Sumit Gulwani, George C. Necula
+Denis Gopan, Thomas W. Reps, Shmuel Sagiv
+Yichen Xie, Alexander Aiken
+Sorin Lerner, Todd D. Millstein, Erika Rice, Craig Chambers
+Jeremy Manson, William W. Pugh, Sarita V. Adve

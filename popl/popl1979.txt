@@ -1,0 +1,27 @@
+Christopher W. Fraser
+Robert L. Constable, Scott Johnson
+Amelia C. Fong
+John Banning
+Donald I. Good, Richard M. Cohen, James G. Keeton-Williams
+Stanley Lee, Willem P. de Roever, Susan L. Gerhart
+Robert Cartwright, John McCarthy
+David Harel
+Vaughan R. Pratt
+Marco A. Casanova, Philip A. Bernstein
+Alfred V. Aho, Jeffrey D. Ullman
+Rina S. Cohen, E. Harry
+Sowmitri Swamy, John E. Savage
+Norman H. Cohen
+Adrienne Critcher
+Christoph M. Hoffmann, Michael J. O'Donnell
+Irene Greif, Albert R. Meyer
+W. E. Gull, Michael A. Jenkins
+Edmond Schonberg, Jacob T. Schwartz, Micha Sharir
+Edmund M. Clarke
+Ken C. Liu, Arthur C. Fleck
+Sten Andler
+Terrence C. Miller
+Neil D. Jones, Steven S. Muchnick
+John H. Reif
+Patrick Cousot, Radhia Cousot
+Richard P. Reitman, Gregory R. Andrews

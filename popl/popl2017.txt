@@ -1,0 +1,64 @@
+Jade Alglave, Patrick Cousot
+Kimball Germane, Matthew Might
+Huisong Li, Francois Berenger, Bor-Yuh Evan Chang, Xavier Rival
+Gagandeep Singh, Markus Püschel, Martin T. Vechev
+Stephen Dolan, Alan Mycroft
+Radu Grigore
+Cyrus Omar, Ian Voysey, Michael Hilton, Jonathan Aldrich, Matthew A. Hammer
+Karl Crary
+Leonidas Lampropoulos, Diane Gallois-Wong, Catalin Hritcu, John Hughes, Benjamin C. Pierce, Li-yao Xia
+Chung-chieh Shan, Norman Ramsey
+Krishnendu Chatterjee, Petr Novotný, Dorde Zikelic
+Gilles Barthe, Benjamin Grégoire, Justin Hsu, Pierre-Yves Strub
+Jeehoon Kang, Chung-Kil Hur, Ori Lahav, Viktor Vafeiadis, Derek Dreyer
+John Wickerson, Mark Batty, Tyler Sorensen, George A. Constantinides
+Robbert Krebbers, Amin Timany, Lars Birkedal
+Morten Krogh-Jespersen, Kasper Svendsen, Lars Birkedal
+Loris D'Antoni, Margus Veanes
+Naoki Kobayashi, Étienne Lozes, Florian Bruse
+Laura Kovács, Simon Robillard, Andrei Voronkov
+Ziv Scully, Adam Chlipala
+Oleg Kiselyov, Aggelos Biboudis, Nick Palladinos, Yannis Smaragdakis
+Wei-Fan Chiang, Mark Baranowski, Ian Briggs, Alexey Solovyev, Ganesh Gopalakrishnan, Zvonimir Rakamaric
+Ezgi Çiçek, Gilles Barthe, Marco Gaboardi, Deepak Garg, Jan Hoffmann
+Ravichandhran Madhavan, Sumith Kulal, Viktor Kuncak
+Qirun Zhang, Zhendong Su
+Jan Hoffmann, Ankush Das, Shu-Chun Weng
+Gabriel Scherer
+Danko Ilik
+Paul Blain Levy
+Matt Brown, Jens Palsberg
+Shaked Flur, Susmit Sarkar, Christopher Pulte, Kyndylan Nienhuis, Luc Maranget, Kathryn E. Gray, Ali Sezgin, Mark Batty, Peter Sewell
+Christopher Lidbury, Alastair F. Donaldson
+Lucas Brutschy, Dimitar K. Dimitrov, Peter Müller, Martin T. Vechev
+Jochen Hoenicke, Rupak Majumdar, Andreas Podelski
+Daan Leijen
+Sam Lindley, Conor McBride, Craig McLaughlin
+Danel Ahman, Catalin Hritcu, Kenji Maillard, Guido Martínez, Gordon D. Plotkin, Jonathan Protzenko, Aseem Rastogi, Nikhil Swamy
+Taro Sekiyama, Atsushi Igarashi
+Arthur Azevedo de Amorim, Marco Gaboardi, Justin Hsu, Shin-ya Katsumata, Ikram Cherigui
+Steffen Smolka, Praveen Kumar, Nate Foster, Dexter Kozen, Alexandra Silva
+Kausik Subramanian, Loris D'Antoni, Aditya Akella
+Eryk Kopczynski, Szymon Torunczyk
+Yu Feng, Ruben Martins, Yuepeng Wang, Isil Dillig, Thomas W. Reps
+Joshua Moerman, Matteo Sammartino, Alexandra Silva, Bartek Klin, Michal Szynwelski
+Ahmed Bouajjani, Constantin Enea, Rachid Guerraoui, Jad Hamza
+Akhilesh Srikanth, Burak Sahin, William R. Harris
+Andrej Dudenhefner, Jakob Rehof
+Nada Amin, Tiark Rompf
+Carlo Angiuli, Robert Harper, Todd Wilson
+Stephen Chang, Alex Knauth, Ben Greenman
+Ananya Kumar, Guy E. Blelloch, Robert Harper
+Igor V. Konnov, Marijana Lazic, Helmut Veith, Josef Widder
+Xinxin Liu, Tingting Yu, Wenhui Zhang
+Julien Lange, Nicholas Ng, Bernardo Toninho, Nobuko Yoshida
+Michael M. Vitousek, Cameron Swords, Jeremy G. Siek
+Nico Lehmann, Éric Tanter
+Matteo Cimini, Jeremy G. Siek
+Khurram A. Jafery, Jana Dunfield
+Mingsheng Ying, Shenggang Ying, Xiaodi Wu
+Ugo Dal Lago, Claudia Faggian, Benoît Valiron, Akira Yoshimizu
+Jennifer Paykin, Robert Rand, Steve Zdancewic
+Nada Amin, Tiark Rompf
+Mounir Assaf, David A. Naumann, Julien Signoles, Eric Totel, Frédéric Tronel
+Danfeng Zhang, Daniel Kifer

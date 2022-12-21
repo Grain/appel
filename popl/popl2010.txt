@@ -1,0 +1,39 @@
+Mohamed Faouzi Atig, Ahmed Bouajjani, Sebastian Burckhardt, Madanlal Musuvathi
+Eric Koskinen, Matthew J. Parkinson, Maurice Herlihy
+Hagit Attiya, G. Ramalingam, Noam Rinetzky
+Patrice Godefroid, Aditya V. Nori, Sriram K. Rajamani, SaiDeep Tetali
+Swarat Chaudhuri, Sumit Gulwani, Roberto Lublinerman
+William R. Harris, Sriram Sankaranarayanan, Franjo Ivancic, Aarti Gupta
+Jean-Baptiste Tristan, Xavier Leroy
+Adam Chlipala
+Magnus O. Myreen
+Tachio Terauchi
+Patrick Maxim Rondon, Ming Kawaguchi, Ranjit Jhala
+Max Schäfer, Oege de Moor
+Andrew M. Pitts
+Aquinas Hobor, Robert Dockins, Andrew W. Appel
+Derek Dreyer, Georg Neis, Andreas Rossberg, Lars Birkedal
+Philippe Suter, Mirco Dotta, Viktor Kuncak
+Stephen Magill, Ming-Hsien Tsai, Peter Lee, Yih-Kuen Tsay
+Steffen Jost, Kevin Hammond, Hans-Wolfgang Loidl, Martin Hofmann
+J. Gregory Malecha, Greg Morrisett, Avraham Shinnar, Ryan Wisnesky
+Andreas Podelski, Thomas Wies
+Aleksandar Nanevski, Viktor Vafeiadis, Josh Berdine
+Limin Jia, Jianzhou Zhao, Vilhelm Sjöberg, Stephanie Weirich
+DeLesley S. Hutchins
+Simon J. Gay, Vasco Thudichum Vasconcelos, António Ravara, Nils Gesbert, Alexandre Z. Caldeira
+Saurabh Srivastava, Sumit Gulwani, Jeffrey S. Foster
+Martin T. Vechev, Eran Yahav, Greta Yorsh
+Rastislav Bodík, Satish Chandra, Joel Galenson, Doug Kimelman, Nicholas Tung, Shaon Barman, Casey Rodarmor
+Michael Greenberg, Benjamin C. Pierce, Stephanie Weirich
+Jeremy G. Siek, Philip Wadler
+Tobias Wrigstad, Francesco Zappa Nardelli, Sylvain Lebresne, Johan Östlund, Jan Vitek
+Ross Tate, Michael Stepp, Sorin Lerner
+João Dias, Norman Ramsey
+Trevor Jim, Yitzhak Mandelbaum, David Walker
+Niklas Broberg, David Sands
+Karthikeyan Bhargavan, Cédric Fournet, Andrew D. Gordon
+Jean-Phillipe Martin, Michael Hicks, Manuel Costa, Periklis Akritidis, Miguel Castro
+Matthias Heizmann, Jochen Hoenicke, Andreas Podelski
+Andrzej Filinski
+Naoki Kobayashi, Naoshi Tabuchi, Hiroshi Unno

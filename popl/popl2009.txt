@@ -1,0 +1,36 @@
+Tayfun Elmas, Shaz Qadeer, Serdar Tasiran
+Alexey Gotsman, Byron Cook, Matthew J. Parkinson, Viktor Vafeiadis
+Martín Abadi, Gordon D. Plotkin
+Dana N. Xu, Simon L. Peyton Jones, Koen Claessen
+Xin Qi, Andrew C. Myers
+Daan Leijen
+Roberto Lublinerman, Christian Szegedy, Stavros Tripakis
+Gilles Barthe, Benjamin Grégoire, Santiago Zanella Béguelin
+Pierre Ganty, Rupak Majumdar, Andrey Rybalchenko
+Julien Brunel, Damien Doligez, René Rydhof Hansen, Julia L. Lawall, Gilles Muller
+Sumit Gulwani, Krishna K. Mehra, Trishul M. Chilimbi
+David Monniaux
+Ronald Garcia, Andrew Lumsdaine, Amr Sabry
+Janis Voigtländer
+Akimasa Morihata, Kiminori Matsuzaki, Zhenjiang Hu, Masato Takeichi
+Ruy Ley-Wild, Umut A. Acar, Matthew Fluet
+Akihiko Tozawa, Michiaki Tatsubori, Tamiya Onodera, Yasuhiko Minamide
+Nathan Grasso Bronson, Christos Kozyrakis, Kunle Olukotun
+Ben Hardekopf, Calvin Lin
+Sumit Gulwani, Tal Lev-Ami, Mooly Sagiv
+Yin Wang, Stéphane Lafortune, Terence Kelly, Manjunath Kudlur, Scott A. Mahlke
+Ross Tate, Michael Stepp, Zachary Tatlock, Sorin Lerner
+Peter A. Jonsson, Johan Nordlander
+Cristiano Calcagno, Dino Distefano, Peter W. O'Hearn, Hongseok Yang
+Jeremy Condit, Brian Hackett, Shuvendu K. Lahiri, Shaz Qadeer
+Xinyu Feng
+James Brotherston, Cristiano Calcagno
+Amal Ahmed, Derek Dreyer, Andreas Rossberg
+Benoît Montagu, Didier Rémy
+Neelakantan R. Krishnaswami
+Susmit Sarkar, Peter Sewell, Francesco Zappa Nardelli, Scott Owens, Tom Ridge, Thomas Braibant, Magnus O. Myreen, Jade Alglave
+Gérard Boudol, Gustavo Petri
+Rachid Guerraoui, Michal Kapalka
+Naoki Kobayashi
+Tom Ridge
+Chris Hawblitzel, Erez Petrank

@@ -1,0 +1,34 @@
+Rakesh Ghiya, Laurie J. Hendren
+Shmuel Sagiv, Thomas W. Reps, Reinhard Wilhelm
+Bjarne Steensgaard
+Trevor Jim
+Martin Odersky, Konstantin Läufer
+Mark P. Jones
+Daniel Jackson, Somesh Jha, Craig Damon
+Kannan Govindarajan, Bharat Jayaraman, Surya Mantha
+Nicholas Pippenger
+Andrea Asperti
+Todd A. Proebsting, Scott A. Watterson
+Dawson R. Engler, Wilson C. Hsieh, M. Frans Kaashoek
+Charles Consel, François Noël
+Yanhong A. Liu, Scott D. Stoller, Tim Teitelbaum
+Lars Birkedal, Mads Tofte, Magnus Vejlstrup
+J. Michael Ashley
+Christopher Colby, Peter Lee
+Lal George, Andrew W. Appel
+Roger Hoover, F. Kenneth Zadeck
+Steven M. Kurlander, Charles N. Fischer
+Olivier Danvy
+Rowan Davies, Frank Pfenning
+Yasuhiko Minamide, J. Gregory Morrisett, Robert Harper
+Leonidas Fegaras, Tim Sheard
+Simon L. Peyton Jones, Andrew D. Gordon, Sigbjørn Finne
+John Greiner, Guy E. Blelloch
+Manish Gupta, Edith Schonberg
+Joachim Niehren
+Kohei Honda
+Naoki Kobayashi, Benjamin C. Pierce, David N. Turner
+Cédric Fournet, Georges Gonthier
+Andrew D. Gordon, Gareth D. Rees
+Martín Abadi, Luca Cardelli, Ramesh Viswanathan
+John Hughes, Lars Pareto, Amr Sabry

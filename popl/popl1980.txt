@@ -1,0 +1,25 @@
+Norihisa Suzuki
+Alan J. Demers, James E. Donahue
+Brian K. Reid
+James H. Morris Jr., Eric Schmidt, Philip Wadler
+Paul Klint
+A. J. Kfoury
+Zohar Manna, Amir Pnueli
+L. Howard Holley, Barry K. Rosen
+William E. Weihl
+Robert Endre Tarjan
+Vaughan R. Pratt
+Ravi Sethi
+Samuel N. Kamin
+Deepak Kapur, Mandayam K. Srivas
+David R. Musser
+Dov M. Gabbay, Amir Pnueli, Saharon Shelah, Jonathan Stavi
+Leslie Lamport
+Rohit Parikh
+John H. Reif, Gary L. Peterson
+Albert R. Meyer, Joseph Y. Halpern
+Harry B. Hunt III, Daniel J. Rosenkrantz
+Timothy A. Budd, Richard A. DeMillo, Richard J. Lipton, Frederick G. Sayward
+Alan J. Demers, James E. Donahue
+Daniel P. Friedman, David S. Wise
+John V. Guttag, James J. Horning

@@ -1,0 +1,30 @@
+Thomas W. Reps, Carla Marceau, Tim Teitelbaum
+Roger Hoover
+Takuya Katayama, Hisashi Sasaki
+Mitchell Wand
+Gregory F. Johnson, Janet A. Walz
+Larry G. Jones, Janos Simon
+Ron Cytron, Andy Lowry, F. Kenneth Zadeck
+Ulrik Jørring, William L. Scherlis
+Paul Hudak, Jonathan Young
+Deborah S. Coutant
+Philip J. Hatcher, Thomas W. Christopher
+Marina C. Chen
+Reino Kurki-Suonio
+Barbara Liskov, Maurice Herlihy, Lucy Gilbert
+Irene Greif, Robert Seliger, William E. Weihl
+Howard Barringer, Ruurd Kuiper, Amir Pnueli
+Pierre Wolper
+Pierre America, Jaco de Bakker, Joost N. Kok, JanJMM Rutten
+Jia-Huai You, P. A. Subrahmanyam
+Hassan Aït-Kaci, Roger Nasr
+Gregor Snelting, Wolfgang Henhapl
+Nicholas Carriero, David Gelernter, Jerrold Leichter
+Paul Hudak, Lauren Smith
+Raghu Ramakrishnan, Abraham Silberschatz
+John C. Mitchell
+David B. MacQueen
+Albert R. Meyer, Mark B. Reinhold
+Neil D. Jones, Alan Mycroft
+Christian Lengauer, Chua-Huang Huang
+Stan Jefferson, Samuel N. Kamin

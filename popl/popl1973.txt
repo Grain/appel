@@ -1,0 +1,22 @@
+Alfred V. Aho, Stephen C. Johnson, Jeffrey D. Ullman
+Matthew M. Geller, Michael A. Harrison
+Mario Schkolnick
+Vaughan R. Pratt
+Susan L. Graham, Steven P. Rhodes
+Mary Zosel
+John W. Backus
+David Beech
+Robert D. Tennent
+Louis Nolin, G. Ruggiu
+James H. Morris Jr.
+Clayton H. Lewis, Barry K. Rosen
+Alice E. Fischer, Michael J. Fischer
+F. Lockwood Morris
+Carl Hewitt, Peter Boehler Bishop, Irene Greif, Brian Cantwell Smith, Todd Matson, Richard Steiger
+Richard J. Waldinger, Karl N. Levitt
+Andrea Maggiolo-Schettini, Barry K. Rosen, H. Raymond Strong
+Gary A. Kildall
+Matthew S. Hecht, Jeffrey D. Ullman
+Arnold L. Rosenberg
+Gloria J. Lambert
+Ashok K. Chandra

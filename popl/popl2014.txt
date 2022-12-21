@@ -1,0 +1,51 @@
+Giuseppe Castagna, Kim Nguyen, Zhiwu Xu, Hyeonseung Im, Sergueï Lenglet, Luca Padovani
+Scott Kilpatrick, Derek Dreyer, Simon L. Peyton Jones, Simon Marlow
+Chris Casinghino, Vilhelm Sjöberg, Stephanie Weirich
+Stefano Dissegna, Francesco Logozzo, Francesco Ranzato
+Steven J. Ramsay, Robin P. Neatherway, C.-H.Luke Ong
+Devin Coughlin, Bor-Yuh Evan Chang
+Martin Bodin, Arthur Charguéraud, Daniele Filaretti, Philippa Gardner, Sergio Maffeis, Daiva Naudziuniene, Alan Schmitt, Gareth Smith
+Robbert Krebbers
+Carolyn Jane Anderson, Nate Foster, Arjun Guha, Jean-Baptiste Jeannin, Dexter Kozen, Cole Schlesinger, David Walker
+Rahul Sharma, Aditya V. Nori, Alex Aiken
+VijayVictor D'Silva, Leopold Haller, Daniel Kroening
+Azadeh Farzan, Zachary Kincaid, Andreas Podelski
+Arthur Azevedo de Amorim, Nathan Collins, André DeHon, Delphine Demange, Catalin Hritcu, David Pichardie, Benjamin C. Pierce, Randy Pollack, Andrew Tolmach
+Ramana Kumar, Magnus O. Myreen, Michael Norrish, Scott Owens
+Gilles Barthe, Cédric Fournet, Benjamin Grégoire, Pierre-Yves Strub, Nikhil Swamy, Santiago Zanella Béguelin
+Swarat Chaudhuri, Martin Clochard, Armando Solar-Lezama
+Tewodros A. Beyene, Swarat Chaudhuri, Corneliu Popeea, Andrey Rybalchenko
+Eva Darulova, Viktor Kuncak
+Lindsey Kuper, Aaron Turon, Neelakantan R. Krishnaswami, Ryan R. Newton
+Sebastian Burckhardt, Alexey Gotsman, Hongseok Yang, Marek Zawirski
+Ahmed Bouajjani, Constantin Enea, Jad Hamza
+Ugo Dal Lago, Davide Sangiorgi, Michele Alberti
+Thomas Ehrhard, Christine Tasson, Michele Pagani
+Andrew D. Gordon, Thore Graepel, Nicolas Rolland, Claudio V. Russo, Johannes Borgström, John Guiver
+Ilya Sergey, Dimitrios Vytiniotis, Simon L. Peyton Jones
+Stephen Chang, Matthias Felleisen
+Andrew Cave, Francisco Ferreira, Prakash Panangaden, Brigitte Pientka
+Parosh Aziz Abdulla, Stavros Aronis, Bengt Jonsson, Konstantinos Sagonas
+Shachar Itzhaky, Anindya Banerjee, Neil Immerman, Ori Lahav, Aleksandar Nanevski, Mooly Sagiv
+Nathan Chong, Alastair F. Donaldson, Jeroen Ketema
+Andrew Miller, Michael Hicks, Jonathan Katz, Elaine Shi
+Nikhil Swamy, Cédric Fournet, Aseem Rastogi, Karthikeyan Bhargavan, Juan Chen, Pierre-Yves Strub, Gavin M. Bierman
+Fan Long, Stelios Sidiroglou-Douskos, Deokhwan Kim, Martin C. Rinard
+James Brotherston, Jules Villard
+Zhe Hou, Ranald Clouston, Rajeev Goré, Alwen Tiu
+Wonyeol Lee, Sungwoo Park
+Robert Atkey
+Robert Atkey, Neil Ghani, Patricia Johann
+Andrzej S. Murawski, Nikos Tzevelekos
+Bertrand Jeannet, Peter Schrammel, Sriram Sankaranarayanan
+Loris D'Antoni, Margus Veanes
+Swarat Chaudhuri, Azadeh Farzan, Zachary Kincaid
+Danfeng Zhang, Andrew C. Myers
+Sheng Chen, Martin Erwig
+Udi Boker, Thomas A. Henzinger, Arjun Radhakrishna
+Yi Li, Aws Albarghouthi, Zachary Kincaid, Arie Gurfinkel, Marsha Chechik
+Nick Benton, Martin Hofmann, Vivek Nigam
+Shin-ya Katsumata
+Michele Pagani, Peter Selinger, Benoît Valiron
+Beniamino Accattoli, Eduardo Bonelli, Delia Kesner, Carlos Lombardi
+Richard A. Eisenberg, Dimitrios Vytiniotis, Simon L. Peyton Jones, Stephanie Weirich

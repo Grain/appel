@@ -1,0 +1,44 @@
+Stephan van Staden, Cristiano Calcagno, Bertrand Meyer
+Saurabh Joshi, Shuvendu K. Lahiri, Akash Lal
+Philippa Gardner, Sergio Maffeis, GarethDavid Smith
+Neelakantan R. Krishnaswami, Nick Benton, Jan Hoffmann
+Chung-Kil Hur, Derek Dreyer, Georg Neis, Viktor Vafeiadis
+Roshan P. James, Amr Sabry
+Jean Yang, Kuat Yessenov, Armando Solar-Lezama
+Gilles Barthe, Boris Köpf, Federico Olmedo, Santiago Zanella Béguelin
+Phillip Heidegger, Annette Bieniusa, Peter Thiemann
+Parthasarathy Madhusudan, Xiaokang Qiu, Andrei Stefanescu
+Margus Veanes, Pieter Hooimeijer, Benjamin Livshits, David Molnar, Nikolaj S. Bjørner
+Ali Sinan Köksal, Viktor Kuncak, Philippe Suter
+Thomas H. Austin, Cormac Flanagan
+Donald Ray, Jay Ligatti
+Samik Basu, Tevfik Bultan, Meriem Ouederni
+Ahmed Bouajjani, Michael Emmi
+Christopher Monsanto, Nate Foster, Rob Harrison, David Walker
+Ravi Chugh, Patrick Maxim Rondon, Ranjit Jhala
+Patrick Cousot, Radhia Cousot
+Krystof Hoder, Laura Kovács, Andrei Voronkov
+Antonis Stampoulis, Zhong Shao
+Casey Klein, John Clements, Christos Dimoulas, Carl Eastlund, Matthias Felleisen, Matthew Flatt, Jay A. McCarthy, Jon Rafkind, Sam Tobin-Hochstadt, Robert Bruce Findler
+Azadeh Farzan, Zachary Kincaid
+Matko Botincan, Mike Dodds, Suresh Jagannathan
+Uday S. Reddy, John C. Reynolds
+Daniel R. Licata, Robert Harper
+Ohad Kammar, Gordon D. Plotkin
+Julien Cretin, Didier Rémy
+Mayur Naik, Hongseok Yang, Ghila Castelnuovo, Mooly Sagiv
+Yannis Smaragdakis, Jacob Evans, Caitlin Sadowski, Jaeheon Yi, Cormac Flanagan
+Mikolaj Bojanczyk, Laurent Braud, Bartek Klin, Slawomir Lasota
+Andrew Cave, Brigitte Pientka
+Jianzhou Zhao, Santosh Nagarakatte, Milo M. K. Martin, Steve Zdancewic
+Zeyuan Allen Zhu, Sasa Misailovic, Jonathan A. Kelner, Martin C. Rinard
+Hongjin Liang, Xinyu Feng, Ming Fu
+Thibaut Balabonski
+Aseem Rastogi, Avik Chaudhuri, Basil Hosmer
+Martin Hofmann, Benjamin C. Pierce, Daniel Wagner
+Mark Batty, Kayvan Memarian, Scott Owens, Susmit Sarkar, Peter Sewell
+Tahina Ramananandro, Gabriel Dos Reis, Xavier Leroy
+Chucky Ellison, Grigore Rosu
+Sooraj Bhat, Ashish Agarwal, Richard W. Vuduc, Alexander G. Gray
+Karl Naden, Robert Bocchino, Jonathan Aldrich, Kevin Bierhoff
+Pierre-Yves Strub, Nikhil Swamy, Cédric Fournet, Juan Chen

@@ -26,7 +26,7 @@ Stefan K. Muller, Jan Hoffmann
 Lucas Silver, Steve Zdancewic
 Vineet Rajani, Marco Gaboardi, Deepak Garg, Jan Hoffmann
 Damiano Mazza, Michele Pagani
-Jay P. Lim, Mridul Aanjaneya, John Gustafson, Santosh Nagarakatte
+Jay P. Lim, Mridul Aanjaneya, John L. Gustafson, Santosh Nagarakatte
 Jinwoo Kim, Qinheping Hu, Loris D'Antoni, Thomas W. Reps
 Julian Rosemann, Simon Moll, Sebastian Hack
 Ugo Dal Lago, Claudia Faggian, Simona RonchiDellaRocca
@@ -35,7 +35,7 @@ Anders Alnor Mathiasen, Andreas Pavlogiannis
 Andrew K. Hirsch, Ethan Cecchetti
 Umang Mathur, Andreas Pavlogiannis, Mahesh Viswanathan
 Kesha Hietala, Robert Rand, Shih-Han Hung, Xiaodi Wu, Michael Hicks
-Jens Gutsfeld, Markus Müller-Olm, Christoph Ohrem
+JensOliver Gutsfeld, Markus Müller-Olm, Christoph Ohrem
 Kevin Batz, Benjamin Lucien Kaminski, Joost-Pieter Katoen, Christoph Matheja
 Nathanaël Courant, Xavier Leroy
 Ryan Doenges, Mina Tahmasbi Arashloo, Santiago Bautista, Alexander Chang, Newton Ni, Samwise Parkinson, Rudy Peterson, Alaia Solko-Breslin, Amanda Xu, Nate Foster
@@ -46,7 +46,7 @@ Alban Reynaud, Gabriel Scherer, Jeremy Yallop
 Aurèle Barrière, Sandrine Blazy, Olivier Flückiger, David Pichardie, Jan Vitek
 Artem Khyzha, Ori Lahav
 Shaull Almagor, Toghrul Karimov, Edon Kelmendi, Joël Ouaknine, James Worrell
-Marco Vassena, Craig Disselkoen, Klaus v. Gleissenthall, Sunjay Cauligi, Rami Gökhan Kici, Ranjit Jhala, Dean M. Tullsen, Deian Stefan
+Marco Vassena, Craig Disselkoen, Klaus Gleissenthall, Sunjay Cauligi, Rami Gökhan Kici, Ranjit Jhala, Dean M. Tullsen, Deian Stefan
 Pritam Choudhury, Harley Eades III, Richard A. Eisenberg, Stephanie Weirich
 Beniamino Accattoli, Ugo Dal Lago, Gabriele Vanoni
 Alejandro Aguirre, Gilles Barthe, Justin Hsu, Benjamin Lucien Kaminski, Joost-Pieter Katoen, Christoph Matheja
@@ -59,6 +59,3 @@ Jules Jacobs
 Yuanbo Li, Qirun Zhang, Thomas W. Reps
 Jesper Cockx, Nicolas Tabareau, Théo Winterhalter
 Felipe Bañados Schwerter, Alison M. Clark, Khurram A. Jafery, Ronald Garcia
-Shivam Handa, Konstantinos Kallas, Nikos Vasilakis, Martin C. Rinard
-Adam Paszke, Daniel D. Johnson, David Duvenaud, Dimitrios Vytiniotis, Alexey Radul, Matthew J. Johnson, Jonathan Ragan-Kelley, Dougal Maclaurin
-Manuel Serrano

@@ -1,0 +1,36 @@
+Jacob Matthews, Robert Bruce Findler
+Pavel Avgustinov, Elnar Hajiyev, Neil Ongkingco, Oege de Moor, Damien Sereni, Julian Tibble, Mathieu Verbaere
+Juan Chen
+Maria Jump, Kathryn S. McKinley
+Marina Polishchuk, Ben Liblit, Chloë W. Schulze
+Patrice Godefroid
+Xipeng Shen, Jonathan Shaw, Brian Meeker, Chen Ding
+Derek Dreyer, Robert Harper, Manuel M. T. Chakravarty, Gabriele Keller
+Jeffrey Mark Siskind, Barak A. Pearlmutter
+Yitzhak Mandelbaum, Kathleen Fisher, David Walker, Mary F. Fernández, Artem Gleyzer
+Andrew M. Pitts, Mark R. Shinwell
+Harvey Tuch, Gerwin Klein, Michael Norrish
+Andrew W. Appel, Paul-André Melliès, Christopher D. Richards, Jérôme Vouillon
+Cristiano Calcagno, Philippa Gardner, Uri Zarfaty
+Ralf Lämmel
+Atsushi Ohori, Isao Sasano
+Barak A. Pearlmutter, Jeffrey Mark Siskind
+Kristian Støvring, Søren B. Lassen
+Daniel K. Lee, Karl Crary, Robert Harper
+Matthew Might
+Ben Wiedermann, William R. Cook
+Josh Berdine, Aziem Chawdhary, Byron Cook, Dino Distefano, Peter W. O'Hearn
+Pasquale Malacaria
+Dachuan Yu, Ajay Chander, Nayeem Islam, Igor Serikov
+Michele Bugliesi, Marco Giunti
+Byron Cook, Alexey Gotsman, Andreas Podelski, Andrey Rybalchenko, Moshe Y. Vardi
+Sumit Gulwani, Nebojsa Jojic
+Michael Emmi, Jeffrey S. Fischer, Ranjit Jhala, Rupak Majumdar
+Matthew J. Parkinson, Richard Bornat, Peter W. O'Hearn
+Vineet Kahlon, Aarti Gupta
+John H. Reppy, Yingqi Xiao
+Mayur Naik, Alex Aiken
+Ranjit Jhala, Rupak Majumdar
+Kapil Vaswani, Aditya V. Nori, Trishul M. Chilimbi
+Dan R. Ghica
+Mila Dalla Preda, Mihai Christodorescu, Somesh Jha, Saumya K. Debray

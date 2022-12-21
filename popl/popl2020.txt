@@ -1,0 +1,68 @@
+Davide Barbarossa, Giulio Manzonetto
+Martin Clochard, Claude Marché, Andrei Paskevich
+Stephen Chang, Michael Ballantyne, Milo Turner, William J. Bowman
+Kenji Maillard, Catalin Hritcu, Exequiel Rivas, Antoine Van Muylder
+Yotam M. Y. Feldman, Neil Immerman, Mooly Sagiv, Sharon Shoham
+Jonas Kastberg Hinrichsen, Jesper Bengtson, Robbert Krebbers
+Gilles Barthe, Sandrine Blazy, Benjamin Grégoire, Rémi Hutin, Vincent Laporte, David Pichardie, Alix Trieu
+Matthieu Sozeau, Simon Boulier, Yannick Forster, Nicolas Tabareau, Théo Winterhalter
+Jason Z. S. Hu, Ondrej Lhoták
+Peter W. O'Hearn
+Azalea Raad, John Wickerson, Gil Neiger, Viktor Vafeiadis
+Zheng Guo, Michael James, David Justo, Jiaxiao Zhou, Ziteng Wang, Ranjit Jhala, Nadia Polikarpova
+Azadeh Farzan, Anthony Vandikas
+Sung Kook Kim, Arnaud J. Venet, Aditya V. Thakur
+G. A. Kavvos, Edward Morehouse, Daniel R. Licata, Norman Danner
+Wonyeol Lee, Hangyeol Yu, Xavier Rival, Hongseok Yang
+Andreas Pavlogiannis
+Federico Aschieri, Francesco A. Genco
+Alexander K. Lew, Marco F. Cusumano-Towner, Benjamin Sherman, Michael Carbin, Vikash K. Mansinghka
+Mengqi Liu, Lionel Rieg, Zhong Shao, Ronghui Gu, David Costanzo, Jung-Eun Kim, Man-Ki Yoon
+Gilles Barthe, Justin Hsu, Mingsheng Ying, Nengkun Yu, Li Zhou
+Michael Arntzenius, Neel Krishnaswami
+Youngju Song, Minki Cho, Dongjoo Kim, Yonghyun Kim, Jeehoon Kang, Chung-Kil Hur
+Martin A. T. Handley, Niki Vazou, Graham Hutton
+Peixin Wang, Hongfei Fu, Krishnendu Chatterjee, Yuxin Deng, Ming Xu
+Parosh Aziz Abdulla, Mohamed Faouzi Atig, Rojin Rezvan
+Yannick Forster, Fabian Kunze, Marc Roth
+Roberto Bruni, Roberto Giacobazzi, Roberta Gori, Isabel Garcia-Contreras, Dusko Pavlovic
+Zeina Migeed, Jens Palsberg
+David Binder, Julian Jabs, Ingo Skupin, Klaus Ostermann
+Benedikt Ahrens, André Hirschowitz, Ambroise Lafont, Marco Maggesi
+Michael Sammler, Deepak Garg, Derek Dreyer, Tadeusz Litak
+Paulo Emílio de Vilhena, François Pottier, Jacques-Henri Jourdan
+Hoang-Hai Dang, Jacques-Henri Jourdan, Jan-Oliver Kaiser, Derek Dreyer
+Umang Mathur, Adithya Murali, Paul Krogmeier, P. Madhusudan, Mahesh Viswanathan
+Feras A. Saad, Cameron E. Freer, Martin C. Rinard, Vikash K. Mansinghka
+Marcel Hark, Benjamin Lucien Kaminski, Jürgen Giesl, Joost-Pieter Katoen
+Martín Abadi, Gordon D. Plotkin
+Alexander Vandenbroucke, Tom Schrijvers
+Mark P. Jones, J. Garrett Morris, Richard A. Eisenberg
+Ralf Jung, Hoang-Hai Dang, Jeehoon Kang, Derek Dreyer
+Ryan Beckett, Aarti Gupta, Ratul Mahajan, David Walker
+Michael Greenberg, Austin J. Blatt
+Timothy Bourke, Lélio Brun, Marc Pouzet
+Ralf Jung, Rodolphe Lepigre, Gaurav Parthasarathy, Marianna Rapoport, Amin Timany, Derek Dreyer, Bart Jacobs
+Max S. New, Dustin Jamner, Amal Ahmed
+Sam Westrick, Rohan Yadav, Matthew Fluet, Umut A. Acar
+Dariusz Biernacki, Maciej Piróg, Piotr Polesiuk, Filip Sieczkowski
+Chenglong Wang, Yu Feng, Rastislav Bodík, Alvin Cheung, Isil Dillig
+David Darais, Ian Sweet, Chang Liu, Michael Hicks
+Li-yao Xia, Yannick Zakowski, Paul He, Chung-Kil Hur, Gregory Malecha, Benjamin C. Pierce, Steve Zdancewic
+Malavika Samak, Deokhwan Kim, Martin C. Rinard
+Ningning Xie, Richard A. Eisenberg, BrunoC.d.S. Oliveira
+Suguman Bansal, Kedar S. Namjoshi, Yaniv Sa'ar
+Gilles Barthe, Justin Hsu, Kevin Liao
+Shengwei An, Rishabh Singh, Sasa Misailovic, Roopsha Samanta
+Fredrik Dahlqvist, Dexter Kozen
+Pierre-Marie Pédrot, Nicolas Tabareau
+Guilhem Jaber
+Daming Zou, Muhan Zeng, Yingfei Xiong, Zhoulai Fu, Lu Zhang, Zhendong Su
+Steffen Smolka, Nate Foster, Justin Hsu, Tobias Kappé, Dexter Kozen, Alexandra Silva
+Mukund Raghothaman, Jonathan Mendelson, David Zhao, Mayur Naik, Bernhard Scholz
+Pierre Clairambault, Marc de Visme
+Aloïs Brunel, Damiano Mazza, Michele Pagani
+Lukas Lazarek, Alexis King, Samanvitha Sundar, Robert Bruce Findler, Christos Dimoulas
+Julian Mackay, Alex Potanin, Jonathan Aldrich, Lindsay Groves
+Peter Thiemann, Vasco T. Vasconcelos
+Roland Meyer, Sebastian Wolff

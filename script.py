@@ -16,11 +16,15 @@ def L(p):
     prob = 1.0
 
     for i in range(2, maxauthors + 1):
-        c = p/math.factorial(i)
+        c = p / math.factorial(i)
         prob *= pow(1 - p + c, alpha[i])
         prob *= pow(p - c, nonalpha[i])
         prob *= math.comb(alpha[i] + nonalpha[i], alpha[i])
 
+    if prob < 0:
+        print("hm")
+    if prob > 1:
+        print("hm")
     return prob
 
 def area():
@@ -38,12 +42,22 @@ with open(sys.argv[1]) as f:
         names = line.strip().split(", ")
         numauthors = len(names)
         maxauthors = max(maxauthors, numauthors)
+
+        ## For debugging when someone doesn't have a surname assigned...
+        # print(names)
+        # for name in names:
+        #     d = pp.tag(name, "person")[0]
+        #     for k, v in d.items():
+        #         print(k, v)
+
         surnames = [pp.tag(name, "person")[0]["Surname"] for name in names]
 
+        # TODO: handle when surnames are equal and we have to look at first name too
         if all(surnames[i] <= surnames[i+1] for i in range(numauthors-1)):
             alpha[numauthors] = alpha.get(numauthors, 0) + 1
         else:
             nonalpha[numauthors] = nonalpha.get(numauthors, 0) + 1
+            # print(surnames)
 
 for i in range(2, maxauthors + 1):
     alpha[i] = alpha.get(i, 0)
@@ -66,7 +80,9 @@ errorarea = area() / 3
 
 lowp = maxp
 area = 0
-while area < errorarea:
+# second conjunct is for issue where lowp goes below 0 and this goes into infinite loop.
+# TODO: might be needed on highp loop too?
+while area < errorarea and lowp >= STEP:
     area += L(lowp) * STEP
     lowp -= STEP
 

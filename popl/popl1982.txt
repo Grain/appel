@@ -1,0 +1,38 @@
+Sergiu Hart, Micha Sharir, Amir Pnueli
+Barbara Liskov, Robert Scheifler
+Pierre Wolper
+David W. Wall
+Nissim Francez
+John H. Reif, Paul G. Spirakis
+Richard J. Lipton, Robert Sedgewick, Jacobo Valdes
+Neil D. Jones, Steven S. Muchnick
+Robert Giegerich
+M. V. S. Ramanath, Marvin H. Solomon
+Rodney Farrow
+Mahadevan Ganapathi, Charles N. Fischer
+John L. Hennessy, Thomas R. Gross
+Jack W. Davidson, Christopher W. Fraser
+Alan Borning, Daniel H. H. Ingalls
+David Sandberg
+Erik Sandewall
+Paul J. Voda
+Thomas W. Reps
+Seppo Sippu, Eljas Soisalon-Soininen
+Gregory F. Johnson, Charles N. Fischer
+Fahimeh Jalili, Jean H. Gallier
+Luís Damas, Robin Milner
+Vaughan R. Pratt
+Lawrence C. Paulson
+Mitchell Wand
+Martin C. Henson, Raymond Turner
+Henryk Jan Komorowski
+Hans-Juergen Boehm
+Shaula Yemini
+E. Gansner, Joseph R. Horgan, Chandra M. R. Kintala, D. J. Moore, P. Surko
+Ehud Y. Shapiro
+Edmund M. Clarke, Steven M. German, Joseph Y. Halpern
+Brent Hailpern, Susan S. Owicki
+Albert R. Meyer, John C. Mitchell
+Rivi Sherman, Amir Pnueli, David Harel
+Eric C. Cooper
+Adrienne Critcher

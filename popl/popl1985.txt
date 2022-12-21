@@ -1,0 +1,30 @@
+Mitchell Wand
+Prateek Mishra, Uday S. Reddy
+Robert Cartwright
+John C. Mitchell, Gordon D. Plotkin
+Kokichi Futatsugi, Joseph A. Goguen, Jean-Pierre Jouannaud, José Meseguer
+Donald Sannella, Andrzej Tarlecki
+Leslie Lamport
+E. Allen Emerson, Chin-Laung Lei
+Orna Lichtenstein, Amir Pnueli
+Joseph Y. Halpern, John H. Williams, Edward L. Wimmers, Timothy C. Winkler
+Van Nguyen, David Gries, Susan S. Owicki
+Daniel Leivant
+Gregory F. Johnson, Charles N. Fischer
+Lori L. Pollock, Mary Lou Soffa
+Ray Ford, Duangkaew Sawamiphakdi
+Jeanne Ferrante, Mary E. Mace
+Thomas S. Anantharaman, Edmund M. Clarke, Michael J. Foster, Bud Mishra
+Leslie Lamport, Fred B. Schneider
+Christopher W. Fraser, David R. Hanson
+Michael B. Jones, Richard F. Rashid, Mary R. Thompson
+Walter F. Tichy, Mark C. Baker
+Daniel P. Friedman, Christopher T. Haynes
+Julian A. Padget, John P. Fitch
+Gary Lindstrom
+Keith D. Cooper
+Mark N. Wegman, F. Kenneth Zadeck
+Paul Hudak, Adrienne G. Bloss
+Andrew W. Appel
+David Bernstein, Ron Y. Pinter, Michael Rodeh
+Alfred V. Aho, Mahadevan Ganapathi

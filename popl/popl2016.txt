@@ -1,0 +1,59 @@
+Matt Brown, Jens Palsberg
+Thorsten Altenkirch, Ambrus Kaposi
+Yufei Cai, Paolo G. Giarrusso, Klaus Ostermann
+Pierre-Louis Curien, Marcelo P. Fiore, Guillaume Munch-Maccagnoni
+Akihiro Murase, Tachio Terauchi, Naoki Kobayashi, Ryosuke Sato, Hiroshi Unno
+Gordon D. Plotkin, Nikolaj S. Bjørner, Nuno P. Lopes, Andrey Rybalchenko, George Varghese
+James Brotherston, Nikos Gorogiannis, Max I. Kanovich, Reuben Rowe
+Eric Koskinen, Junfeng Yang
+Xin Zhang, Ravi Mangal, Aditya V. Nori, Mayur Naik
+Anthony Widjaja Lin, Pablo Barceló
+Luca Cardelli, Mirco Tribastone, Max Tschaikowski, Andrea Vandin
+Matthew Hague, Jonathan Kochems, C.-H.Luke Ong
+Dominique Devriese, Marco Patrignani, Frank Piessens
+Jeehoon Kang, Yoonseung Kim, Chung-Kil Hur, Derek Dreyer, Viktor Vafeiadis
+Edward Robbins, Andy King, Tom Schrijvers
+Florian Lorenzen, Sebastian Erdweg
+Oded Padon, Neil Immerman, Sharon Shoham, Aleksandr Karbyshev, Mooly Sagiv
+Rahman Lavaee
+Stéphane Gimenez, Georg Moser
+Nikhil Swamy, Catalin Hritcu, Chantal Keller, Aseem Rastogi, Antoine Delignat-Lavaud, Simon Forest, Karthikeyan Bhargavan, Cédric Fournet, Pierre-Yves Strub, Markulf Kohlweiss, Jean Karim Zinzindohoue, Santiago Zanella Béguelin
+Johannes Borgström, Andrew D. Gordon, Long Ouyang, Claudio V. Russo, Adam Scibior, Marcin Szymczak
+Niels Bjørn Bugge Grathwohl, Fritz Henglein, Ulrik Terp Rasmussen, Kristoffer Aalund Søholm, Sebastian Paaske Tørholm
+Fan Long, Martin C. Rinard
+Omer Katz, Ran El-Yaniv, Eran Yahav
+Krishnendu Chatterjee, Hongfei Fu, Petr Novotný, Rouzbeh Hasheminezhad
+Rishabh Singh, Sumit Gulwani
+Mohsen Lesani, Christian J. Bell, Adam Chlipala
+Alexey Gotsman, Hongseok Yang, Carla Ferreira, Mahsa Najafzadeh, Marc Shapiro
+Hongjin Liang, Xinyu Feng
+Cezara Dragoi, Thomas A. Henzinger, Damien Zufferey
+Sheng Chen, Martin Erwig
+Ronald Garcia, Alison M. Clark, Éric Tanter
+Matteo Cimini, Jeremy G. Siek
+Asumu Takikawa, Daniel Feltey, Ben Greenman, Max S. New, Jan Vitek, Matthias Felleisen
+Damien Octeau, Somesh Jha, Matthew L. Dering, Patrick D. McDaniel, Alexandre Bartel, Li Li, Jacques Klein, Yves Le Traon
+Radu Grigore, Hongseok Yang
+Pranav Garg, Daniel Neider, P. Madhusudan, Dan Roth
+Michael Emmi, Constantin Enea
+Somashekaracharya G. Bhaskaracharya, Uday Bondhugula, Albert Cohen
+Wenlei Bao, Sriram Krishnamoorthy, Louis-Noël Pouchet, Fabrice Rastello, P. Sadayappan
+Marc Andrysco, Ranjit Jhala, Sorin Lerner
+Dominic A. Orchard, Nobuko Yoshida
+Limin Jia, Hannah Gommerstadt, Frank Pfenning
+Davide Sangiorgi, Valeria Vignudelli
+Shaked Flur, Kathryn E. Gray, Christopher Pulte, Susmit Sarkar, Ali Sezgin, Luc Maranget, Will Deacon, Peter Sewell
+Jean Pichon-Pharabod, Peter Sewell
+Mark Batty, Alastair F. Donaldson, John Wickerson
+Ori Lahav, Nick Giannarakis, Viktor Vafeiadis
+Thomas W. Reps, Emma Turetsky, Prathmesh Prabhu
+Rongxin Wu, Xiao Xiao, Shing-Chi Cheung, Hongyu Zhang, Charles Zhang
+Thomas Gilray, Steven Lyde, Michael D. Adams, Matthew Might, David Van Horn
+Matthew Flatt
+Ichiro Hasuo, Shunsuke Shimizu, Corina Cîrstea
+Krishnendu Chatterjee, Amir Kafshdar Goharshady, Rasmus Ibsen-Jensen, Andreas Pavlogiannis
+Koko Muroya, Naohiko Hoshino, Ichiro Hasuo
+Veselin Raychev, Pavol Bielik, Martin T. Vechev, Andreas Krause
+James Bornholt, Emina Torlak, Dan Grossman, Luis Ceze
+Aws Albarghouthi, Isil Dillig, Arie Gurfinkel
+Jonathan Frankle, Peter-Michael Osera, David Walker, Steve Zdancewic

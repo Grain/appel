@@ -1,0 +1,38 @@
+Brian E. Aydemir, Arthur Charguéraud, Benjamin C. Pierce, Randy Pollack, Stephanie Weirich
+Jean-Baptiste Tristan, Xavier Leroy
+Janis Voigtländer
+Iulian Neamtiu, Michael Hicks, Jeffrey S. Foster, Polyvios Pratikakis
+Katherine F. Moore, Dan Grossman
+Martín Abadi, Andrew Birrell, Tim Harris, Michael Isard
+Matthew J. Parkinson, Gavin M. Bierman
+Wei-Ngan Chin, Cristina David, Huu Hai Nguyen, Shengchao Qin
+James Brotherston, Richard Bornat, Cristiano Calcagno
+Andrea Asperti
+Marco Gaboardi, Jean-Yves Marion, Simona RonchiDellaRocca
+Nils Anders Danielsson
+Ashutosh Gupta, Thomas A. Henzinger, Rupak Majumdar, Andrey Rybalchenko, Ru-Gang Xu
+Swarat Chaudhuri
+Shuvendu K. Lahiri, Shaz Qadeer
+Christopher Unkel, Monica S. Lam
+Xin Zheng, Radu Rugina
+Marius Nita, Dan Grossman, Craig Chambers
+Greta Yorsh, Eran Yahav, Satish Chandra
+Sumit Gulwani, Bill McCloskey, Ashish Tiwari
+Bor-Yuh Evan Chang, Xavier Rival
+Giuseppe Castagna, Nils Gesbert, Luca Padovani
+Kohei Honda, Nobuko Yoshida, Marco Carbone
+Conor McBride
+Patricia Johann, Neil Ghani
+Umut A. Acar, Amal Ahmed, Matthias Blume
+Cédric Fournet, Tamara Rezk
+Peeter Laud
+Hamed Seiied Alavi, Seth Gilbert, Rachid Guerraoui
+Noam Zeilberger
+Brigitte Pientka
+Hugo Herbelin, Silvia Ghilezan
+Sam Tobin-Hochstadt, Matthias Felleisen
+Aaron Bohannon, J. Nathan Foster, Benjamin C. Pierce, Alexandre Pilkiewicz, Alan Schmitt
+Kathleen Fisher, David Walker, Kenny Qili Zhu, Peter White
+Walter Fontana
+Kenneth L. McMillan
+Yaron Minsky

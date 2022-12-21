@@ -1,0 +1,32 @@
+Richard C. Waters
+Harold Ossher
+Brian Cantwell Smith
+Thomas W. Reps, Bowen Alpern
+Nissim Francez, Dexter Kozen
+Dennis E. Shasha, Amir Pnueli, W. Ewald
+Eugene W. Myers
+Jean-Jacques Thiel
+Jean-Pierre Jouannaud, Hélène Kirchner
+Ehud Shapiro
+Robert G. Bandes
+Christoph M. Hoffmann, Michael J. O'Donnell
+Paul Hudak, David A. Kranz
+Jerald S. Schwarz, Dean Rubine
+Reinhard Wilhelm
+Jean-Claude Raoult, Ravi Sethi
+Mitchell Wand
+David B. MacQueen, Gordon D. Plotkin, Ravi Sethi
+John C. Mitchell
+Robert P. Nix
+Don Milos, Uwe F. Pleban, George Loegel
+Mark Sherman
+Steven D. Johnson
+P. A. Subrahmanyam, Jia-Huai You
+Prateek Mishra, Robert M. Keller
+Joseph Y. Halpern, Albert R. Meyer, Boris A. Trakhtenbrot
+Michal Grabowski
+Joseph Y. Halpern
+Joe D. Warren
+Thomas P. Murtagh
+Norihisa Suzuki, Minoru Terada
+L. Peter Deutsch, Allan M. Schiffman

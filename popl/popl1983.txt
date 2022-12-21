@@ -1,0 +1,28 @@
+Vaughan R. Pratt
+Jeffrey Bonar, Elliot Soloway
+Stephen C. Johnson
+Ralph-Johan Back, Heikki Mannila, Kari-Jouko Räihä
+Leslie Lamport
+Greg Nelson
+John Nagle, Scott Johnson
+Alan J. Demers, James E. Donahue
+Robert Paige
+Daniel Leivant
+Pierre Lescanne
+Richard B. Kieburtz
+Edmund M. Clarke, E. Allen Emerson, A. Prasad Sistla
+E. Allen Emerson, Joseph Y. Halpern
+Zohar Manna, Amir Pnueli
+Daniel Leivant
+Barbara G. Ryder
+John R. Allen, Ken Kennedy, Carrie Porterfield, Joe D. Warren
+Mitchell Wand
+Janice E. Cuny, Lawrence Snyder
+Mark N. Wegman
+Jeanne Ferrante, Karl J. Ottenstein
+Butler W. Lampson, Eric E. Schmidt
+Peter Wegner
+LambertGLT Meertens
+Robert E. Strom
+Bent Bruun Kristensen, Ole Lehrmann Madsen, Birger Møller-Pedersen, Kristen Nygaard
+Naftaly H. Minsky

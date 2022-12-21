@@ -1,0 +1,27 @@
+Leonidas J. Guibas, Douglas K. Wyatt
+Daniel Ingalls
+Edward A. Ashcroft, William W. Wadge
+Alan J. Demers, James E. Donahue, Glenn Skinner
+Marvin H. Solomon
+John C. Reynolds
+Barry K. Rosen
+Marc A. Kaplan, Jeffrey D. Ullman
+John H. Reif
+Patrick Cousot, Nicolas Halbwachs
+Stephen C. Johnson
+Steven M. German
+Michael J. C. Gordon, Robin Milner, F. Lockwood Morris, Malcolm C. Newey, Christopher P. Wadsworth
+Robert Cartwright, Derek C. Oppen
+Charles G. Nelson, Derek C. Oppen
+Derek C. Oppen
+Peter J. Downey, Hanan Samet, Ravi Sethi
+David W. Mizell
+Karel Culík
+William F. Ogden, William E. Riddle, William C. Rounds
+Anders Haraldsson
+David Harel, Vaughan R. Pratt
+Paul R. Kosinki
+Bhaskaram Prabhala, Ravi Sethi
+R. Steven Glanville, Susan L. Graham
+Thomas J. Pennello, Frank DeRemer
+Aravind K. Joshi, Leon S. Levy, Kang Yueh

@@ -1,0 +1,34 @@
+Jon G. Riecke, Ramesh Viswanathan
+Stephen D. Brookes, Denis Dancanet
+John C. Reynolds
+Evelyn Duesterwald, Rajiv Gupta, Mary Lou Soffa
+Thomas W. Reps, Susan Horwitz, Shmuel Sagiv
+Vugranam C. Sreedhar, Guang R. Gao
+Rita Z. Altucher, William Landi
+E. Allen Emerson, Kedar S. Namjoshi
+Ahmed Bouajjani, Rachid Echahed, Peter Habermehl
+Bard Bloom
+Catherine Dubois, François Rouaix, Pierre Weis
+Robert Harper, J. Gregory Morrisett
+Xavier Leroy
+Sandip K. Biswas
+Sergei G. Vorobyov
+My Hoang, John C. Mitchell
+Martin Hofmann, Benjamin C. Pierce
+Ian Mackie
+Cormac Flanagan, Matthias Felleisen
+David Sands
+Zena M. Ariola, Matthias Felleisen, John Maraist, Martin Odersky, Philip Wadler
+Steven Dawson, C. R. Ramakrishnan, I. V. Ramakrishnan, Konstantinos Sagonas, Steven Skiena, Terrance Swift, David Scott Warren
+Klaus E. Schauser, David E. Culler, Seth Copen Goldstein
+Vijay A. Saraswat, Radha Jagadeesan, Vineet Gupta
+Luca Cardelli
+Mark W. Bailey, Jack W. Davidson
+John Plevyak, Xingbin Zhang, Andrew A. Chien
+Todd A. Proebsting
+Sheng Liang, Paul Hudak, Mark P. Jones
+David J. King, John Launchbury
+Patrick M. Sansom, Simon L. Peyton Jones
+Jens Palsberg, Patrick O'Keefe
+John Field, G. Ramalingam, Frank Tip
+Suresh Jagannathan, Stephen Weeks

@@ -1,0 +1,26 @@
+John C. Mitchell
+Davide Sangiorgi
+Samin S. Ishtiaq, Peter W. O'Hearn
+Eran Yahav
+Martin Odersky, Christoph Zenger, Matthias Zenger
+Jakob Rehof, Manuel Fähndrich
+Haruo Hosoya, Benjamin C. Pierce
+Chin Soon Lee, Neil D. Jones, Amir M. Ben-Amram
+David Monniaux
+Harald Ganzinger
+Martín Abadi, Cédric Fournet
+Asis Unyapoth, Peter Sewell
+Atsushi Igarashi, Naoki Kobayashi
+George C. Necula, Shree Prakash Rahul
+Cristiano Calcagno
+Daniel C. Wang, Andrew W. Appel
+Mahmut T. Kandemir
+Cormac Flanagan, James B. Saxe
+Karthikeyan Bhargavan, Satish Chandra, Peter J. McCann, Carl A. Gunter
+Robin Milner
+Michele Bugliesi, Giuseppe Castagna
+Peter Sewell
+Andrew D. Gordon, Don Syme
+Mark Shields, Erik Meijer
+Joseph Gil
+Jerome Vouillon

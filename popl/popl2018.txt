@@ -1,0 +1,66 @@
+Anders Miltner, Kathleen Fisher, Benjamin C. Pierce, David Walker, Steve Zdancewic
+Jeevana Priya Inala, Rishabh Singh
+Taolue Chen, Yan Chen, Matthew Hague, Anthony W. Lin, Zhilin Wu
+Lukás Holík, Petr Janku, Anthony W. Lin, Philipp Rümmer, Tomás Vojnar
+Jean-Philippe Bernardy, Mathieu Boespflug, Ryan R. Newton, Simon Peyton Jones, Arnaud Spiwack
+Damiano Mazza, Luc Pellissier, Pierre Vial
+Danel Ahman
+Dariusz Biernacki, Maciej Piróg, Piotr Polesiuk, Filip Sieczkowski
+Quang-Trung Ta, Ton Chanh Le, Siau-Cheng Khoo, Wei-Ngan Chin
+Christof Löding, P. Madhusudan, Lucas Peña
+Toby Cathcart Burn, C.-H.Luke Ong, Steven J. Ramsay
+Hiroshi Unno, Yuki Satake, Tachio Terauchi
+Lionel Parreaux, Antoine Voizard, Amir Shaikhha, Christoph E. Koch
+Matt Brown, Jens Palsberg
+John Peter Campora III, Sheng Chen, Martin Erwig, Eric Walkingshaw
+Casper Bach Poulsen, Arjen Rouvoet, Andrew Tolmach, Robbert Krebbers, Eelco Visser
+Michalis Kokologiannakis, Ori Lahav, Konstantinos Sagonas, Viktor Vafeiadis
+Brijesh Dongol, Radha Jagadeesan, James Riely
+Christopher Pulte, Shaked Flur, Will Deacon, Jon French, Susmit Sarkar, Peter Sewell
+Hongjin Liang, Xinyu Feng
+Thomas Williams, Didier Rémy
+William J. Bowman, Youyou Cong, Nick Rioux, Amal Ahmed
+Andreas Abel, Joakim Öhman, Andrea Vezzosi
+Ondrej Kuncar, Andrei Popescu
+Michael Emmi, Constantin Enea
+Oded Padon, Jochen Hoenicke, Giuliano Losa, Andreas Podelski, Mooly Sagiv, Sharon Shoham
+Gowtham Kaki, Kartik Nagar, Mahsa Najafzadeh, Suresh Jagannathan
+Ilya Sergey, James R. Wilcox, Zachary Tatlock
+Leandro T. C. Melo, Rodrigo Geraldo Ribeiro, Marcus R. de Araújo, Fernando Magno Quintão Pereira
+Krishnendu Chatterjee, Bhavya Choudhary, Andreas Pavlogiannis
+Marek Chalupa, Krishnendu Chatterjee, Andreas Pavlogiannis, Nishant Sinha, Kapil Vaidya
+Wenlei Bao, Sriram Krishnamoorthy, Louis-Noël Pouchet, P. Sadayappan
+Annabelle McIver, Carroll Morgan, Benjamin Lucien Kaminski, Joost-Pieter Katoen
+Sheshansh Agrawal, Krishnendu Chatterjee, Petr Novotný
+Yangjia Li, Mingsheng Ying
+Ivan Radicek, Gilles Barthe, Marco Gaboardi, Deepak Garg, Florian Zuleger
+Siddharth Krishna, Dennis E. Shasha, Thomas Wies
+Dominique Devriese, Marco Patrignani, Frank Piessens
+Pierre Clairambault, Charles Grellois, Andrzej S. Murawski
+Stephen Chang, Alex Knauth, Emina Torlak
+Hsiang-Shang Ko, Zhenjiang Hu
+Martin Odersky, Olivier Blanvillain, Fengyun Liu, Aggelos Biboudis, Heather Miller, Sandro Stucki
+Nils Anders Danielsson
+Paolo Capriotti, Nicolai Kraus
+Leonidas Lampropoulos, Zoe Paraskevopoulou, Benjamin C. Pierce
+Rupak Majumdar, Filip Niksic
+Wonyeol Lee, Rahul Sharma, Alex Aiken
+Shelly Grossman, Ittai Abraham, Guy Golan-Gueta, Yan Michalevsky, Noam Rinetzky, Mooly Sagiv, Yoni Zohar
+Olivier Flückiger, Gabriel Scherer, Ming-Ho Yee, Aviral Goel, Amal Ahmed, Jan Vitek
+José Fragoso Santos, Petar Maksimovic, Daiva Naudziuniene, Thomas Wood, Philippa Gardner
+Phuc C. Nguyen, Thomas Gilray, Sam Tobin-Hochstadt, David Van Horn
+Nada Amin, Tiark Rompf
+Niki Vazou, Anish Tondwalkar, Vikraman Choudhury, Ryan G. Scott, Ryan R. Newton, Philip Wadler, Ranjit Jhala
+Zachary Kincaid, John Cyphert, Jason Breck, Thomas W. Reps
+Gagandeep Singh, Markus Püschel, Martin T. Vechev
+Yuepeng Wang, Isil Dillig, Shuvendu K. Lahiri, William R. Cook
+Gilles Barthe, Thomas Espitau, Benjamin Grégoire, Justin Hsu, Pierre-Yves Strub
+Aws Albarghouthi, Justin Hsu
+Thomas Ehrhard, Michele Pagani, Christine Tasson
+Adam Scibior, Ohad Kammar, Matthijs Vákár, Sam Staton, Hongseok Yang, Yufei Cai, Klaus Ostermann, Sean K. Moss, Chris Heunen, Zoubin Ghahramani
+Azadeh Farzan, Zachary Kincaid
+Kartik Chandra, Rastislav Bodík
+Xinyu Wang, Isil Dillig, Rishabh Singh
+Amin Timany, Léo Stefanesco, Morten Krogh-Jespersen, Lars Birkedal
+Danel Ahman, Cédric Fournet, Catalin Hritcu, Kenji Maillard, Aseem Rastogi, Nikhil Swamy
+Ralf Jung, Jacques-Henri Jourdan, Robbert Krebbers, Derek Dreyer

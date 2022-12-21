@@ -1,0 +1,32 @@
+John Hannan, Patrick Hicks
+Saumya K. Debray, Robert Muth, Matthew Weippert
+Bruno Blanchet
+David A. Schmidt
+Simon L. Peyton Jones, Mark Shields, John Launchbury, Andrew P. Tolmach
+Zena M. Ariola, Amr Sabry
+Yasuhiko Minamide
+J. Gregory Morrisett, David Walker, Karl Crary, Neal Glew
+Denis Barthou, Albert Cohen, Jean-Francois Collard
+Kathleen Knobe, Vivek Sarkar
+Rakesh Ghiya, Laurie J. Hendren
+Thomas Ball, Peter Mataga, Shmuel Sagiv
+Raymie Stata, Martín Abadi
+Tobias Nipkow, David von Oheimb
+Matthew Flatt, Shriram Krishnamurthi, Matthias Felleisen
+Christian S. Collberg, Clark D. Thomborson, Douglas Wai Kok Low
+Jens Palsberg, Christina Pavlopoulou
+Thomas P. Jensen
+Greg DeFouw, David Grove, Craig Chambers
+Rastislav Bodík, Sadun Anik
+Benjamin C. Pierce, David N. Turner
+Susumu Nishimura
+Aleksy Schubert
+Mark Shields, Tim Sheard, Simon L. Peyton Jones
+Andrea Asperti, Harry G. Mairson
+Zhenjiang Hu, Masato Takeichi, Wei-Ngan Chin
+Suresh Jagannathan, Peter Thiemann, Stephen Weeks, Andrew K. Wright
+Alexander Aiken, David Gay
+Geoffrey Smith, Dennis M. Volpano
+Nevin Heintze, Jon G. Riecke
+James Riely, Matthew Hennessy
+Xavier Leroy, François Rouaix

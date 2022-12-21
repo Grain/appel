@@ -1,0 +1,77 @@
+Evan Cavallo, Robert Harper
+Ambrus Kaposi, András Kovács, Thorsten Altenkirch
+Gaëtan Gilbert, Jesper Cockx, Matthieu Sozeau, Nicolas Tabareau
+Rasmus Ejlers Møgelberg, Niccolò Veltri
+Yizhou Zhang, Andrew C. Myers
+Dariusz Biernacki, Maciej Piróg, Piotr Polesiuk, Filip Sieczkowski
+Ugo Dal Lago, Marc de Visme, Damiano Mazza, Akira Yoshimizu
+Andrej Dudenhefner, Jakob Rehof
+Jana Dunfield, Neelakantan R. Krishnaswami
+Karl Crary
+Gyunghee Park, Jaemin Hong, Guy L. Steele Jr., Sukyoung Ryu
+J. Garrett Morris, James McKinna
+Di Wang, Jan Hoffmann
+Cyrus Omar, Ian Voysey, Ravi Chugh, Matthew A. Hammer
+Max S. New, Daniel R. Licata, Amal Ahmed
+Giuseppe Castagna, Victor Lanvin, Tommaso Petrucciani, Jeremy G. Siek
+Matías Toro, Elizabeth Labrada, Éric Tanter
+Yusuke Miyazaki, Taro Sekiyama, Atsushi Igarashi
+Lau Skorstengaard, Dominique Devriese, Lars Birkedal
+G. A. Kavvos
+Tom Hirschowitz
+Jasmin Christian Blanchette, Lorenzo Gheri, Andrei Popescu, Dmitriy Traytel
+Paul-André Melliès
+Wen Kokke, Fabrizio Montesi, Marco Peressotti
+Filippo Bonchi, Joshua Holland, Robin Piedeleu, Pawel Sobocinski, Fabio Zanasi
+Paolo Baldan, Barbara König, Christina Mika-Michalski, Tommaso Padoan
+Simon Castellan, Nobuko Yoshida
+Simon Fowler, Sam Lindley, J. Garrett Morris, Sára Decova
+David Castro-Perez, Raymond Hu, Sung-Shik Jongmans, Nicholas Ng, Nobuko Yoshida
+Alceste Scalas, Nobuko Yoshida
+Shih-Han Hung, Kesha Hietala, Shaopeng Zhu, Mingsheng Ying, Michael Hicks, Xiaodi Wu
+Pierre Clairambault, Marc de Visme, Glynn Winskel
+Dominique Unruh
+Kevin Batz, Benjamin Lucien Kaminski, Joost-Pieter Katoen, Christoph Matheja, Thomas Noll
+Maria I. Gorinova, Andrew D. Gordon, Charles Sutton
+Matthijs Vákár, Ohad Kammar, Sam Staton
+Feras A. Saad, Marco F. Cusumano-Towner, Ulrich Schaechtle, Martin C. Rinard, Vikash K. Mansinghka
+Tetsuya Sato, Alejandro Aguirre, Gilles Barthe, Marco Gaboardi, Deepak Garg, Justin Hsu
+Calvin Smith, Justin Hsu, Aws Albarghouthi
+Uri Alon, Meital Zilberstein, Omer Levy, Eran Yahav
+Gagandeep Singh, Timon Gehr, Markus Püschel, Martin T. Vechev
+Patrick Cousot, Roberto Giacobazzi, Francesco Ranzato
+John Toman, Dan Grossman
+Martin Bodin, Philippa Gardner, Thomas P. Jensen, Alan Schmitt
+John Cyphert, Jason Breck, Zachary Kincaid, Thomas W. Reps
+Umang Mathur, P. Madhusudan, Mahesh Viswanathan
+Oana Fabiana Andreescu, Thomas P. Jensen, Stéphane Lescuyer, Benoît Montagu
+Johannes Späth, Karim Ali, Eric Bodden
+Taolue Chen, Matthew Hague, Anthony W. Lin, Philipp Rümmer, Zhilin Wu
+Rajeev Alur, Konstantinos Mamouras, Caleb Stanford
+Kyungmin Bae, Jia Lee
+Luca Aceto, Antonis Achilleos, Adrian Francalanza, Anna Ingólfsdóttir, Karoliina Lehtinen
+Krishnendu Chatterjee, Amir Kafshdar Goharshady, Nastaran Okati, Andreas Pavlogiannis
+Valentin Touzeau, Claire Maïza, David Monniaux, Jan Reineke
+Zachary Kincaid, Jason Breck, John Cyphert, Thomas W. Reps
+Xin Yi, Liqian Chen, Xiaoguang Mao, Tao Ji
+Nikos Gorogiannis, Peter W. O'Hearn, Ilya Sergey
+Roland Meyer, Sebastian Wolff
+Klaus Gleissenthall, Rami Gökhan Kici, Alexander Bakst, Deian Stefan, Ranjit Jhala
+Michael Emmi, Constantin Enea
+Spencer P. Florence, Shu-Hung You, Jesse A. Tov, Robert Bruce Findler
+Yuting Wang, Pierre Wilke, Zhong Shao
+Aymeric Fromherz, Nick Giannarakis, Chris Hawblitzel, Bryan Parno, Aseem Rastogi, Nikhil Swamy
+Joseph Tassarotti, Robert Harper
+Ales Bizjak, Daniel Gratzer, Robbert Krebbers, Lars Birkedal
+José Fragoso Santos, Petar Maksimovic, Gabriela Sampaio, Philippa Gardner
+Kayvan Memarian, Victor B. F. Gomes, Brooks Davis, Stephen Kell, Alexander Richardson, Robert N. M. Watson, Peter Sewell
+Azalea Raad, Marko Doko, Lovro Rozic, Ori Lahav, Viktor Vafeiadis
+Anton Podkopaev, Ori Lahav, Viktor Vafeiadis
+Soham Chakraborty, Viktor Vafeiadis
+Alasdair Armstrong, Thomas Bauereiss, Brian Campbell, Alastair Reid, Kathryn E. Gray, Robert M. Norton, Prashanth Mundkur, Mark Wassell, Jon French, Christopher Pulte, Shaked Flur, Ian Stark, Neel Krishnaswami, Peter Sewell
+Nadia Polikarpova, Ilya Sergey
+Kensen Shi, Jacob Steinhardt, Percy Liang
+Farzin Houshmand, Mohsen Lesani
+James Parker, Niki Vazou, Michael Hicks
+Marco Vassena, Alejandro Russo, Deepak Garg, Vineet Rajani, Deian Stefan
+Conrad Watt, John Renner, Natalie Popescu, Sunjay Cauligi, Deian Stefan

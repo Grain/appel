@@ -1,0 +1,29 @@
+Xavier Rival
+Nick Benton
+Ganesh Sittampalam, Oege de Moor, Ken Friis Larsen
+Dachuan Yu, Andrew Kennedy, Don Syme
+Jerome Vouillon, Paul-André Melliès
+Vincent Balat, Roberto Di Cosmo, Marcelo P. Fiore
+Marcelo P. Fiore
+François Pottier, Nadji Gauthier
+Patricia Johann, Janis Voigtländer
+Bryan Ford
+Denis Caromel, Ludovic Henrio, Bernard P. Serpette
+Silvano Dal-Zilio, Denis Lugiez, Charles Meyssonnier
+Nobuko Yoshida
+Eijiro Sumii, Benjamin C. Pierce
+Patrick Cousot, Radhia Cousot
+Roberto Giacobazzi, Isabella Mastroeni
+Karthikeyan Bhargavan, Cédric Fournet, Andrew D. Gordon
+Hans-Juergen Boehm
+Lars Birkedal, Noah Torp-Smith, John C. Reynolds
+Thomas A. Henzinger, Ranjit Jhala, Rupak Majumdar, Kenneth L. McMillan
+Shaz Qadeer, Sriram K. Rajamani, Jakob Rehof
+Cormac Flanagan, Stephen N. Freund
+Peter W. O'Hearn, Hongseok Yang, John C. Reynolds
+Jana Dunfield, Frank Pfenning
+Derek Dreyer
+Davide Ancona, Elena Zucca
+Sriram Sankaranarayanan, Henny Sipma, Zohar Manna
+Markus Müller-Olm, Helmut Seidl
+Sumit Gulwani, George C. Necula

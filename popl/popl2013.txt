@@ -1,0 +1,43 @@
+Steffen Lösch, Andrew M. Pitts
+Ross Tate
+Andreas Abel, Brigitte Pientka, David Thibodeau, Anton Setzer
+Guy E. Blelloch, Robert Harper
+Amir M. Ben-Amram, Samir Genaim
+Richard Mayr, Lorenzo Clemente
+Hiroshi Unno, Tachio Terauchi, Naoki Kobayashi
+Robert Atkey, Patricia Johann, Andrew Kennedy
+Véronique Benzaken, Giuseppe Castagna, Kim Nguyen, Jérôme Siméon
+Pavol Cerný, Thomas A. Henzinger, Arjun Radhakrishna
+Azadeh Farzan, Zachary Kincaid, Andreas Podelski
+VijayVictor D'Silva, Leopold Haller, Daniel Kroening
+Alexis Goyet
+Ugo Dal Lago, Barbara Petit
+Sam Staton, Paul Blain Levy
+Chung-Kil Hur, Georg Neis, Derek Dreyer, Viktor Vafeiadis
+Benjamin Delaware, BrunoC.d.S. Oliveira, Tom Schrijvers
+Jonghyun Park, Jeongbong Seo, Sungwoo Park
+Mark Batty, Mike Dodds, Alexey Gotsman
+Ganesan Ramalingam, Kapil Vaswani
+Marco Carbone, Fabrizio Montesi
+Luís Caires, João Costa Seco
+Thomas Dinsdale-Young, Lars Birkedal, Philippa Gardner, Matthew J. Parkinson, Hongseok Yang
+Jonas Braband Jensen, Nick Benton, Andrew Kennedy
+Thomas A. Henzinger, Christoph M. Kirsch, Hannes Payer, Ali Sezgin, Ana Sokolova
+Delphine Demange, Vincent Laporte, Lei Zhao, Suresh Jagannathan, David Pichardie, Jan Vitek
+Aaron Joseph Turon, Jacob Thamsborg, Amal Ahmed, Lars Birkedal, Derek Dreyer
+Marco Gaboardi, Andreas Haeberlen, Justin Hsu, Arjun Narayan, Benjamin C. Pierce
+Cédric Fournet, Nikhil Swamy, Juan Chen, Pierre-Évariste Dagand, Pierre-Yves Strub, Benjamin Livshits
+Benjamin Livshits, Stephen Chong
+Andrew D. Gordon, Mihhail Aizatulin, Johannes Borgström, Guillaume Claret, Thore Graepel, Aditya V. Nori, Sriram K. Rajamani, Claudio V. Russo
+Kohei Suenaga, Hiroyoshi Sekine, Ichiro Hasuo
+Dimitrios Vytiniotis, Simon L. Peyton Jones, Koen Claessen, Dan Rosén
+Matko Botincan, Domagoj Babic
+Filippo Bonchi, Damien Pous
+Ali Sinan Köksal, Yewen Pu, Saurabh Srivastava, Rastislav Bodík, Jasmin Fisher, Nir Piterman
+Ramakrishna Upadrasta, Albert Cohen
+Tiark Rompf, Arvind K. Sujeeth, Nada Amin, Kevin J. Brown, Vojin Jovanovic, HyoukJoong Lee, Manohar Jonnalagedda, Kunle Olukotun, Martin Odersky
+Michael D. Adams
+Aquinas Hobor, Jules Villard
+Nishant Totla, Thomas Wies
+Earl T. Barr, Thanh Vo, Vu Le, Zhendong Su
+Ruy Ley-Wild, Aleksandar Nanevski

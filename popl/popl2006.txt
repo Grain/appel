@@ -1,0 +1,36 @@
+James McKinna
+Kathleen Fisher, Yitzhak Mandelbaum, David Walker
+Chengliang Zhang, Chen Ding, Mitsunori Ogihara, Yutao Zhong, Youfeng Wu
+Gautam Gupta, Sanjay V. Rajopadhye
+Xavier Leroy
+Steve Bishop, Matthew Fairbairn, Michael Norrish, Peter Sewell, Michael Smith, Keith Wansbrough
+Mads Dam
+Sebastian Hunt, David Sands
+Torben Amtoft, Sruthi Bandhakavi, Anindya Banerjee
+Jerome Vouillon
+Shuvendu K. Lahiri, Shaz Qadeer
+Matthew Might, Olin Shivers
+Vasileios Koutavas, Mitchell Wand
+Rajeev Alur, Swarat Chaudhuri, P. Madhusudan
+Martin Odersky
+Norman Danner, James S. Royer
+Albert Cohen, Marc Duranton, Christine Eisenbeis, Claire Pagetti, Florence Plateau, Marc Pouzet
+Guangyu Chen, Feihui Li, Mahmut T. Kandemir
+Nils Anders Danielsson, John Hughes, Patrik Jansson, Jeremy Gibbons
+Philippe Meunier, Robert Bruce Findler, Matthias Felleisen
+François Pottier, Yann Régis-Gianas
+Cormac Flanagan
+Ik-Soon Kim, Kwangkeun Yi, Cristiano Calcagno
+Tim Sweeney
+Erik Ernst, Klaus Ostermann, William R. Cook
+Jed Liu, Aaron Kimball, Andrew C. Myers
+Gabriel Dos Reis, Bjarne Stroustrup
+Hayo Thielecke
+Zhaozhong Ni, Zhong Shao
+Mandana Vaziri, Frank Tip, Julian Dolby
+Bill McCloskey, Feng Zhou, David Gay, Eric A. Brewer
+Yi Lu, John Potter
+Zhendong Su, Gary Wassermann
+Daniel S. Dantas, David Walker
+Vijay Menon, Neal Glew, Brian R. Murphy, Andrew McCreight, Tatiana Shpeisman, Ali-Reza Adl-Tabatabai, Leaf Petersen
+Reuben Olinsky, Christian Lindig, Norman Ramsey

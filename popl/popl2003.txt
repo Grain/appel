@@ -1,0 +1,25 @@
+Jérôme Siméon, Philip Wadler
+Umut A. Acar, Guy E. Blelloch, Robert Harper
+Walid Taha, Michael Florentin Nielsen
+Ole Høgh Jensen, Robin Milner
+Alan Schmitt, Jean-Bernard Stefani
+Ahmed Bouajjani, Javier Esparza, Tayssir Touili
+Sumit Gulwani, George C. Necula
+Sriraman Tallam, Rajiv Gupta
+Thomas Ball, Mayur Naik, Sriram K. Rajamani
+Larry Carter, Jeanne Ferrante, Clark D. Thomborson
+Venkatesan T. Chakaravarthy
+Yoav Zibin, Joseph Gil
+Hayo Thielecke
+Gang Chen
+Yoav Zibin, Joseph Gil, Jeffrey Considine
+Leaf Petersen, Robert Harper, Karl Crary, Frank Pfenning
+Martin Hofmann, Steffen Jost
+Karl Crary
+Chandrasekhar Boyapati, Barbara Liskov, Liuba Shrira
+Hongwei Xi, Chiyan Chen, Gang Chen
+Derek Dreyer, Karl Crary, Robert Harper
+Gilles Barthe, Horatiu Cirstea, Claude Kirchner, Luigi Liquori
+Hans-Juergen Boehm
+Ovidiu Gheorghioiu, Alexandru Salcianu, Martin C. Rinard
+David F. Bacon, Perry Cheng, V. T. Rajan

@@ -1,0 +1,25 @@
+John C. Cherniavsky, Samuel N. Kamin
+Edmund M. Clarke
+Alfred V. Aho, Stephen C. Johnson, Jeffrey D. Ullman
+William H. Harrison
+Barry K. Rosen
+Amelia C. Fong
+Robert Paige, Jacob T. Schwartz
+Ken Kennedy, Linda Zucconi
+Anton Nijholt
+Charles N. Fischer, D. R. Milton, S. B. Quiring
+John H. Reif, Harry R. Lewis
+Jeffrey M. Barth
+Norihisa Suzuki, Kiyoshi Ishihata
+Nachum Dershowitz, Zohar Manna
+Thomas W. Doeppner Jr.
+Alan J. Demers
+Eljas Soisalon-Soininen
+Vaughan R. Pratt
+Eric C. R. Hehner
+Richard A. DeMillo, Richard J. Lipton, Alan J. Perlis
+Gérard Berry, Jean-Jacques Lévy
+Bernard Lang
+Patrick Cousot, Radhia Cousot
+Harry R. Lewis
+Russell R. Atkinson, Carl Hewitt

@@ -1,0 +1,52 @@
+Paul-André Melliès, Noam Zeilberger
+Neelakantan R. Krishnaswami, Pierre Pradic, Nick Benton
+Kristina Sojakova
+Minh Ngo, Fabio Massacci, Dimiter Milushev, Frank Piessens
+Gilles Barthe, Marco Gaboardi, Emilio Jesús Gallego Arias, Justin Hsu, Aaron Roth, Pierre-Yves Strub
+Hamid Ebadi, David Sands, Gerardo Schneider
+Hao Tang, Xiaoyin Wang, Lingming Zhang, Bing Xie, Lu Zhang, Hong Mei
+Krishnendu Chatterjee, Rasmus Ibsen-Jensen, Andreas Pavlogiannis, Prateesh Goyal
+Veselin Raychev, Martin T. Vechev, Andreas Krause
+Rajeev Alur, Loris D'Antoni, Mukund Raghothaman
+Margus Veanes, Todd Mytkowicz, David Molnar, Benjamin Livshits
+Adam Chlipala
+Aseem Rastogi, Nikhil Swamy, Cédric Fournet, Gavin M. Bierman, Panagiotis Vekris
+Michael Greenberg
+Taro Sekiyama, Yuki Nishida, Atsushi Igarashi
+Viktor Vafeiadis, Thibaut Balabonski, Soham Chakraborty, Robin Morisset, Francesco Zappa Nardelli
+Julien Lange, Emilio Tuosto, Nobuko Yoshida
+Mike Dodds, Andreas Haas, Christoph M. Kirsch
+Jacques-Henri Jourdan, Vincent Laporte, Sandrine Blazy, Xavier Leroy, David Pichardie
+Roberto Giacobazzi, Francesco Logozzo, Francesco Ranzato
+Gordon Stewart, Lennart Beringer, Santiago Cuellar, Andrew W. Appel
+Giuseppe Castagna, Kim Nguyen, Zhiwu Xu, Pietro Abate
+Ronald Garcia, Matteo Cimini
+Luísa Lourenço, Luís Caires
+Mila Dalla Preda, Roberto Giacobazzi, Arun Lakhotia, Isabella Mastroeni
+Nate Foster, Dexter Kozen, Mae Milano, Alexandra Silva, Laure Thompson
+Damien Pous
+Vilhelm Sjöberg, Stephanie Weirich
+Kazunori Tobisawa
+Sam Staton
+Azadeh Farzan, Zachary Kincaid, Andreas Podelski
+Davide Sangiorgi
+Ashutosh Gupta, Thomas A. Henzinger, Arjun Radhakrishna, Roopsha Samanta, Thorsten Tarrach
+Denis Bogdanas, Grigore Rosu
+Michael D. Adams
+Matt Brown, Jens Palsberg
+Luis María Ferrer Fioriti, Holger Hermanns
+Fei He, Xiaowei Gao, Bow-Yaw Wang, Lijun Zhang
+Filippo Bonchi, Pawel Sobocinski, Fabio Zanasi
+Ralf Hinze, Nicolas Wu, Jeremy Gibbons
+Krishnendu Chatterjee, Andreas Pavlogiannis, Yaron Velner
+Osbert Bastani, Saswat Anand, Alex Aiken
+Venmugil Elango, Fabrice Rastello, Louis-Noël Pouchet, J. Ramanujam, P. Sadayappan
+Pieter Agten, Bart Jacobs, Frank Piessens
+Ronghui Gu, Jérémie Koenig, Tahina Ramananandro, Zhong Shao, Xiongnan (Newman) Wu, Shu-Chun Weng, Haozhong Zhang, Yu Guo
+Adam Chlipala
+Karl Crary, Michael J. Sullivan
+Ralf Jung, David Swasey, Filip Sieczkowski, Kasper Svendsen, Aaron Turon, Lars Birkedal, Derek Dreyer
+Ahmed Bouajjani, Michael Emmi, Constantin Enea, Jad Hamza
+Oded Padon, Neil Immerman, Aleksandr Karbyshev, Ori Lahav, Mooly Sagiv, Sharon Shoham
+Robert A. Cochran, Loris D'Antoni, Benjamin Livshits, David Molnar, Margus Veanes
+Benjamin Delaware, Clément Pit-Claudel, Jason Gross, Adam Chlipala

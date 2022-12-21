@@ -1,0 +1,36 @@
+Marc Shapiro, Susan Horwitz
+Erik Ruf
+Pascal Fradet, Daniel Le Métayer
+Didier Rémy, Jerome Vouillon
+Chih-Ping Chen, Paul Hudak
+Krzysztof R. Apt, Andrea Schaerf
+Michael Hanus
+Aart Middeldorp
+George C. Necula
+Michael P. Plezbert, Ron Cytron
+Andrew C. Myers, Joseph A. Bank, Barbara Liskov
+Martin Odersky, Philip Wadler
+Karin Högstedt, Larry Carter, Jeanne Ferrante
+Patrice Godefroid
+Pedro C. Diniz, Martin C. Rinard
+Amy W. Lim, Monica S. Lam
+C.-H.Luke Ong, Charles A. Stewart
+Gérard Boudol
+Benjamin C. Pierce, Davide Sangiorgi
+Catuscia Palamidessi
+Luca Cardelli
+Jakob Rehof
+Amokrane Saïbi
+François Bourdoncle, Stephan Merz
+Hanne Riis Nielson, Flemming Nielson
+David Lesens, Nicolas Halbwachs, Pascal Raymond
+Alain Deutsch
+Sandip K. Biswas
+Mitchell Wand, Gregory T. Sullivan
+Helmut Seidl, Morten Heine Sørensen
+Alberto Pettorossi, Maurizio Proietti, Sophie Renault
+David Sands
+Andrew Kennedy
+Robert Paige, Zhe Yang
+Patrik Jansson, Johan Jeuring
+Mark P. Jones

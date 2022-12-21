@@ -1,0 +1,24 @@
+Keith Wansbrough, Simon L. Peyton Jones
+Naoki Kobayashi
+Andrew Moran, David Sands
+Phillip M. Yelland
+Robert O'Callahn
+Luca Cardelli, Andrew D. Gordon
+James Riely, Matthew Hennessy
+Shmuel Sagiv, Thomas W. Reps, Reinhard Wilhelm
+G. Ramalingam, John Field, Frank Tip
+Ramkrishna Chatterjee, Barbara G. Ryder, William Landi
+Martín Abadi, Anindya Banerjee, Nevin Heintze, Jon G. Riecke
+A. J. Kfoury, J. B. Wells
+Andrzej Filinski
+Vineet Gupta, Radha Jagadeesan, Prakash Panangaden
+Oscar Waddell, R. Kent Dybvig
+Hongwei Xi, Frank Pfenning
+Andrew C. Myers
+M. Anton Ertl
+Neal Glew, J. Gregory Morrisett
+Karl Crary, David Walker, J. Gregory Morrisett
+François Pessaux, Xavier Leroy
+Mitchell Wand, Igor Siveroni
+Martin Ruckert
+Christian S. Collberg, Clark D. Thomborson
