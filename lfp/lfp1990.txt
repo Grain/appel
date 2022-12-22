@@ -1,0 +1,32 @@
+Andrew P. Tolmach, Andrew W. Appel
+Pavel Curtis, James Rauen
+Mark A. Sheldon, David K. Gifford
+Luca Cardelli, Giuseppe Longo
+Val Tannen, Carl A. Gunter, Andre Scedrov
+Philip Wadler
+Douglas Johnson
+Benjamin G. Zorn
+Gregor Kiczales, Luis Rodriguez
+Chris Hanson
+Marc Feeley, James S. Miller
+Clifford Walinsky, Deb Banerjee
+Andrew A. Berlin
+Olivier Danvy, Andrzej Filinski
+Dorai Sitaram, Matthias Felleisen
+Morry Katz, Daniel Weise
+Eric Mohr, David A. Kranz, Robert H. Halstead Jr.
+Randy B. Osborne
+J.-F. Giorgi, Daniel Le Métayer
+Henry G. Baker
+Geoffrey Livingston Burn
+M. Draghicescu, S. Purushothaman
+Hanne Riis Nielson, Flemming Nielson
+Charles Consel
+Laurence Puel, Ascánder Suárez
+Carsten K. Gomard
+Daniel Leivant
+Brian T. Howard, John C. Mitchell
+John Field, Tim Teitelbaum
+John Hannan, Dale Miller
+Pierre Crégut
+Gopalan Nadathur, Debra Sue Wilson

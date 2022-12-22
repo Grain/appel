@@ -27,6 +27,7 @@ def L(p):
         print("hm")
     return prob
 
+# total area under the curve
 def area():
     total = 0.0
     i = 0
@@ -36,6 +37,24 @@ def area():
 
     return total
 
+# Only uses given name and surname
+def isalphabetical(names):
+    for name in names:
+        d = pp.tag(name, "person")[0]
+        if "Surname" not in d.keys():
+            print("Surname not found: " + name)
+            exit()
+
+    surnames = [pp.tag(name, "person")[0]["Surname"] for name in names]
+
+    for i in range(len(names) - 1):
+        if surnames[i] > surnames[i+1]:
+            return False
+        elif surnames[i] == surnames[i+1]:
+            if pp.tag(names[i], "person")[0]["GivenName"] > pp.tag(names[i+1], "person")[0]["GivenName"]:
+                return False
+    return True
+
 with open(sys.argv[1]) as f:
     lines = f.readlines()
     for line in lines:
@@ -43,26 +62,15 @@ with open(sys.argv[1]) as f:
         numauthors = len(names)
         maxauthors = max(maxauthors, numauthors)
 
-        ## For debugging when someone doesn't have a surname assigned...
-        # print(names)
-        # for name in names:
-        #     d = pp.tag(name, "person")[0]
-        #     for k, v in d.items():
-        #         print(k, v)
-
-        surnames = [pp.tag(name, "person")[0]["Surname"] for name in names]
-
-        # TODO: handle when surnames are equal and we have to look at first name too
-        if all(surnames[i] <= surnames[i+1] for i in range(numauthors-1)):
+        if isalphabetical(names):
             alpha[numauthors] = alpha.get(numauthors, 0) + 1
         else:
             nonalpha[numauthors] = nonalpha.get(numauthors, 0) + 1
-            # print(surnames)
 
 for i in range(2, maxauthors + 1):
     alpha[i] = alpha.get(i, 0)
     nonalpha[i] = nonalpha.get(i, 0)
-    # print("%d: %d %d" % (i, alpha[i], nonalpha[i]))
+    print("%d: %d %d" % (i, alpha[i], nonalpha[i]))
 
 p = 0.0
 maxp = p
@@ -80,8 +88,7 @@ errorarea = area() / 3
 
 lowp = maxp
 area = 0
-# second conjunct is for issue where lowp goes below 0 and this goes into infinite loop.
-# TODO: might be needed on highp loop too?
+# second conjunct is for issue where lowp goes below 0 and L(lowp) becomes negative too, going into an infinite loop
 while area < errorarea and lowp >= STEP:
     area += L(lowp) * STEP
     lowp -= STEP
@@ -89,7 +96,7 @@ while area < errorarea and lowp >= STEP:
 
 highp = maxp
 area = 0
-while area < errorarea:
+while area < errorarea and highp <= 1 - STEP:
     area += L(highp) * STEP
     highp += STEP
 

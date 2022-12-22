@@ -1,0 +1,30 @@
+Tobias Nipkow, Gregor Snelting
+Dennis M. Volpano, Geoffrey S. Smith
+Satish R. Thatte
+Klaus E. Schauser, David E. Culler, Thorstenvon Eicken
+Kenneth R. Traub
+Luc Maranget
+Erik Meijer, Maarten M. Fokkinga, Ross Paterson
+John Launchbury
+Daniel Weise, Roland Conybeare, Erik Ruf, Scott Seligman
+Vipin Swarup, Uday S. Reddy, Evan Ireland
+David Wakeling, Colin Runciman
+Pascal Fradet
+David J. Lillie, Peter G. Harrison
+Gudmund Skovbjerg Frandsen, Carl Sturtivant
+Harry G. Mairson
+Allen Leung, Prateek Mishra
+Thomas P. Jensen
+Gebreselassie Baraki
+Shail Aditya, Rishiyur S. Nikhil
+Xavier Leroy, Michel Mauny
+Alexander Aiken, Brian R. Murphy
+Fritz Henglein
+Carsten Kehler Holst
+Charles Consel, Olivier Danvy
+Tzi-cker Chiueh
+Paul S. Barth, Rishiyur S. Nikhil, Arvind Arvind
+Michael L. Heytens, Rishiyur S. Nikhil
+Sjaak Smetsers, Eric Nöcker, John H. G. van Groningen, Marinus J. Plasmeijer
+John Hannan
+Simon L. Peyton Jones, John Launchbury

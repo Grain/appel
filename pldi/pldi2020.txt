@@ -1,0 +1,77 @@
+Anders Miltner, Saswat Padhi, Todd D. Millstein, David Walker
+Georgios Sakkas, Madeline Endres, Benjamin Cosman, Westley Weimer, Ranjit Jhala
+Chandrakana Nandi, Max Willsey, Adam Anderson, James R. Wilcox, Eva Darulova, Dan Grossman, Zachary Tatlock
+Matthew Flatt, R. Kent Dybvig
+Kaan Genç, Michael D. Bond, Guoqing Harry Xu
+Kavon Farvardin, John H. Reppy
+Miltiadis Allamanis, Earl T. Barr, Soline Ducousso, Zheng Gao
+Jianan Yao, Gabriel Ryan, Justin Wong, Suman Jana, Ronghui Gu
+Ke Wang, Zhendong Su
+Fraser Brown, John Renner, Andres Nötzli, Sorin Lerner, Hovav Shacham, Deian Stefan
+Gregory J. Duck, Xiang Gao, Abhik Roychoudhury
+Chris Porter, Girish Mururu, Prithayan Barua, Santosh Pande
+Siddharth Krishna, Nisarg Patel, Dennis E. Shasha, Thomas Wies
+Jacob R. Lorch, Yixuan Chen, Manos Kapritsos, Bryan Parno, Shaz Qadeer, Upamanyu Sharma, James R. Wilcox, Xueyuan Zhao
+Ori Lahav, Udi Boker
+Bernhard Kragl, Constantin Enea, Thomas A. Henzinger, Suha Orhun Mutluergil, Shaz Qadeer
+Thomas Bourgeat, Clément Pit-Claudel, Adam Chlipala, Arvind Alastname
+Fabian Schuiki, Andreas Kurth, Tobias Grosser, Luca Benini
+Shaopeng Zhu, Shih-Han Hung, Shouvanik Chakrabarti, Xiaodi Wu
+Benjamin Bichsel, Maximilian Baader, Timon Gehr, Martin T. Vechev
+Albert Mingkun Yang, Erik Österlund, Tobias Wrigstad
+Jeehoon Kang, Jaehwang Jung
+Brian Suchy, Simone Campanoni, Nikos Hardavellas, Peter A. Dinda
+Conrad Watt, Christopher Pulte, Anton Podkopaev, Guillaume Barbier, Stephen Dolan, Shaked Flur, Jean Pichon-Pharabod, Shu-yu Guo
+Sung-Hwan Lee, Minki Cho, Anton Podkopaev, Soham Chakraborty, Chung-Kil Hur, Ori Lahav, Viktor Vafeiadis
+Michal Friedman, Naama Ben-David, Yuanhao Wei, Guy E. Blelloch, Erez Petrank
+Rachit Nigam, Sachille Atapattu, Samuel Thomas, Zhijing Li, Theodore Bauer, Yuwei Ye, Apurva Koti, Adrian Sampson, Zhiru Zhang
+David Durst, Matthew Feldman, Dillon Huff, David Akeley, Ross G. Daly, Gilbert Louis Bernstein, Marco Patrignani, Kayvon Fatahalian, Pat Hanrahan
+Frank Emrich, Sam Lindley, Jan Stolarek, James Cheney, Jonathan Coates
+Ao Li, JeminAndrew Choi, Fan Long
+Lexi Brent, Neville Grech, Sifis Lagouvardos, Bernhard Scholz, Yannis Smaragdakis
+SidiMohamed Beillahi, Gabriela F. Ciocarlie, Michael Emmi, Constantin Enea
+Qiaochu Chen, Xinyu Wang, Xi Ye, Greg Durrett, Isil Dillig
+DongKwon Lee, Woosuk Lee, Hakjoo Oh, Kwangkeun Yi
+Pepe Vila, Pierre Ganty, Marco Guarnieri, Boris Köpf
+Gérard Berry, Manuel Serrano
+Roshan Dathathri, Blagovesta Kostova, Olli Saarikivi, Wei Dai, Kim Laine, Madan Musuvathi
+Hans-Juergen Boehm
+Stefan K. Muller, Kyle Singer, Noah Goldstein, Umut A. Acar, Kunal Agrawal, I-TingAngelina Lee
+Youwei Zhuo, Jingji Chen, Qinyi Luo, Yanzhi Wang, Hailong Yang, Depei Qian, Xuehai Qian
+Fabian Ritter, Sebastian Hack
+Zhenwei Wu, Kai Lu, Andrew Nisbet, Wenzhe Zhang, Mikel Luján
+Sotiris Apostolakis, Ziyang Xu, Zujun Tan, Greg Chan, Simone Campanoni, David I. August
+Sandeep Dasgupta, Sushant Dinesh, Deepan Venkatesh, Vikram S. Adve, Christopher W. Fletcher
+Krishnendu Chatterjee, Hongfei Fu, Amir Kafshdar Goharshady, EhsanKafshdar Goharshady
+Jason Breck, John Cyphert, Zachary Kincaid, Thomas W. Reps
+Jason R. Koenig, Oded Padon, Neil Immerman, Alex Aiken
+Dominik Winterer, Chengyu Zhang, Zhendong Su
+Sangeeta Chowdhary, Jay P. Lim, Santosh Nagarakatte
+Jake Roemer, Kaan Genç, Michael D. Bond
+Boqin Qin, Yilun Chen, Zeming Yu, Linhai Song, Yiying Zhang
+Yuanbo Li, Qirun Zhang, Thomas W. Reps
+Anastasios Antoniadis, Nikos Filippakis, Paddy Krishnan, Raghavendra Ramesh, Nicholas Allen, Yannis Smaragdakis
+Auguste Olivry, Julien Langou, Louis-Noël Pouchet, P. Sadayappan, Fabrice Rastello
+Stephen Chou, Fredrik Kjolstad, Saman P. Amarasinghe
+Ankush Phulia, Vaibhav Bhagee, Sorav Bansal
+Rodrigo C. O. Rocha, Pavlos Petoumenos, Zheng Wang, Murray Cole, Hugh Leather
+Jianhui Chen, Fei He
+Timon Gehr, Samuel Steffen, Martin T. Vechev
+Guillaume Baudart, Louis Mandel, Eric Atkinson, Benjamin Sherman, Marc Pouzet, Michael Carbin
+Sunjay Cauligi, Craig Disselkoen, Klausvon Gleissenthall, Dean M. Tullsen, Deian Stefan, Tamara Rezk, Gilles Barthe
+José Fragoso Santos, Petar Maksimovic, Sacha-Élie Ayoun, Philippa Gardner
+Parosh Aziz Abdulla, Mohamed Faouzi Atig, Yu-Fang Chen, Bui Phi Diep, Julian Dolby, Petr Janku, Hsin-Hung Lin, Lukás Holík, Wei-Cheng Wu
+Nick Giannarakis, Devon Loehr, Ryan Beckett, David Walker
+Kausik Subramanian, Anubhavnidhi Abhashkumar, Loris D'Antoni, Aditya Akella
+Hongjune Kim, Jianping Zeng, Qingrui Liu, Mohammad Abdel-Majeed, Jaejin Lee, Changhee Jung
+Kiwan Maeng, Brandon Lucia
+Grzegorz Herman
+Romain Edelmann, Jad Hamza, Viktor Kuncak
+Yuanbo Li, Shuo Ding, Qirun Zhang, Davide Italiano
+Varot Premtoon, James Koppel, Armando Solar-Lezama
+Samuel Drews, Aws Albarghouthi, Loris D'Antoni
+Muhammad Usman, Wenxi Wang, Marko Vasic, Kaiyuan Wang, Haris Vikalo, Sarfraz Khurshid
+Jingxuan He, Gagandeep Singh, Markus Püschel, Martin T. Vechev
+Qinheping Hu, John Cyphert, Loris D'Antoni, Thomas W. Reps
+Ruyi Ji, Jingjing Liang, Yingfei Xiong, Lu Zhang, Zhenjiang Hu
+Kangjing Huang, Xiaokang Qiu, Peiyuan Shen, Yanjun Wang

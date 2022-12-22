@@ -1,0 +1,27 @@
+Robert Cohn, Thomas R. Gross, Monica S. Lam, P. S. Tseng
+Gurindar S. Sohi, Sriram Vajapeyam
+James C. Dehnert, Peter Y.-T. Hsu, Joseph P. Bratt
+Forbes J. Burkowski, Gordon V. Cormack, G. D. P. Dueck
+Rajiv Gupta
+James R. Goodman, Mary K. Vernon, Philip J. Woest
+John M. Mellor-Crummey, Thomas J. LeBlanc
+Ziya Aral, Ilya Gertner, Greg Schaffer
+Mark E. Staknis
+Mark A. Holliday
+David L. Black, Richard F. Rashid, David B. Golub, Charles R. Hill, Robert V. Baron
+Garth A. Gibson, Lisa Hellerstein, Richard M. Karp, Randy H. Katz, David A. Patterson
+Norman P. Jouppi, Jonathan Bertoni, David W. Wall
+Hans M. Mulder
+Thomas L. Adams, Richard E. Zimmerman
+Joachim Roos
+Steven R. Vegdahl, Uwe F. Pleban
+Scott McFarling
+Paul A. Karger
+Emmanuel A. Arnould, Francois J. Bitz, Eric C. Cooper, H. T. Kung, Robert D. Sansom, Peter Steenkiste
+Sergio A. Delgado-Rannauro, T. J. Reynolds
+Susan S. Owicki, Anant Agarwal
+Wolf-Dietrich Weber, Anoop Gupta
+Susan J. Eggers, Randy H. Katz
+Norman P. Jouppi, David W. Wall
+William J. Dally
+Michael D. Smith, Mike Johnson, Mark Horowitz

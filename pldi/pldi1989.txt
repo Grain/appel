@@ -1,0 +1,31 @@
+G. A. Venkatesh
+Robert Cartwright, Matthias Felleisen
+Susan Horwitz, Phil Pfeiffer, Thomas W. Reps
+Vasanth Balasundaram, Ken Kennedy
+Ron Cytron, Michael Hind, Wilson C. Hsieh
+Anne Rogers, Keshav Pingali
+David A. Kranz, Robert H. Halstead Jr., Eric Mohr
+Thomas R. Gross, Angelika Zobel, Markus Zolg
+Waldemar Horwat, Andrew A. Chien, William J. Dally
+Philip J. Koopman Jr., Peter Lee
+Rodney Farrow, Alec G. Stanculescu
+Harald Vogt, S. Doaitse Swierstra, Matthijs F. Kuiper
+Craig Chambers, David M. Ungar
+Gordon V. Cormack
+Daniel J. Salomon, Gordon V. Cormack
+Jan Heering, Paul Klint, J. Rekers
+Hans-Juergen Boehm
+James W. O'Toole Jr., David K. Gifford
+Pierre Jouvelot, David K. Gifford
+Helmut Emmelmann, Friedrich-Wilhelm Schröer, Rudolf Landwehr
+Christopher W. Fraser
+Wen-mei W. Hwu, Pohua P. Chang
+David Bernstein, Dina Q. Goldin, Martin Golumbic, Hugo Krawczyk, Yishay Mansour, Itai Nahshon, Ron Y. Pinter
+Rajiv Gupta, Mary Lou Soffa, Tim Steele
+Preston Briggs, Keith D. Cooper, Ken Kennedy, Linda Torczon
+Edith Schonberg
+Vivek Sarkar
+Benjamin Goldberg
+Russell R. Atkinson, Alan J. Demers, Carl Hauser, Christian Jacobi, Peter Kessler, Mark D. Weiser
+Paul R. Wilson, Thomas G. Moher
+Chi-Hung Chi, Henry G. Dietz

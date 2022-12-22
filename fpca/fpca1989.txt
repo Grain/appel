@@ -1,0 +1,31 @@
+Sebastian Hunt
+Torben Æ. Mogensen
+Adrienne G. Bloss
+Peter Sestoft
+Simon B. Jones, Daniel Le Métayer
+Kenneth R. Traub
+John Peterson
+Guy Argo
+David R. Lester
+Hanne Riis Nielson, Flemming Nielson
+Mads Rosendahl
+Bror Bjerner, S. Holmström
+Colin Runciman, Ian Toyn
+Mikael Rittri
+Simon L. Peyton Jones, Jon Salkild
+Lennart Augustsson, Thomas Johnsson
+Lal George
+Zena M. Ariola, Arvind Arvind
+Shlomit Weiss, Ilan Y. Spillinger, Gabriel M. Silberman
+Tsung-Min Kuo, Prateek Mishra
+Peter S. Canning, William R. Cook, Walter L. Hill, Walter G. Olthoff, John C. Mitchell
+Atsushi Ohori
+Mitchell Wand, Patrick O'Keefe
+Yukihide Takayama
+Frank S. K. Silbermann, Bharat Jayaraman
+Erik Ruf, Daniel Weise
+F. Warren Burton
+Philip Wadler
+Michel Mauny
+Andrew Dwelly
+Kavi Arya

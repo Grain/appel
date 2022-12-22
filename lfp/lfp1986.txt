@@ -1,0 +1,32 @@
+Simon J. Thompson
+Dominique Clément, Joëlle Despeyroux, Th. Despeyroux, Gilles Kahn
+David K. Gifford, John M. Lucassen
+Cyril N. Alberga, Chris Bosman-Clark, Martin Mikelsons, Mary S. Van Deusen, Julian A. Padget
+Julian A. Padget
+Rodney A. Brooks, David B. Posner, James L. McDonald, Jon L. White, Eric Benson, Richard P. Gabriel
+David H. Bartley, John C. Jensen
+Jon Fairbairn, Stuart Wray
+Thomas F. Knight
+Michel Lemaître, Michel Castan, M.-H. Durand, Guy Durrieu, Bernard Lécussan
+John D. Ramsdell
+Adrienne G. Bloss, Paul Hudak
+R. Kent Dybvig, Daniel P. Friedman, Christopher T. Haynes
+Eugene E. Kohlbecker, Daniel P. Friedman, Matthias Felleisen, Bruce F. Duba
+Hans-Juergen Boehm, Robert Cartwright, Mark Riggle, Michael J. O'Donnell
+Jon L. White
+Peter Steenkiste, John L. Hennessy
+Vivek Sarkar, John L. Hennessy
+Mark Scheevel
+Chris D. Clack, Simon L. Peyton Jones
+Peter Lee, Uwe F. Pleban
+Hanne Riis Nielson, Flemming Nielson
+Alan Bawden
+Michel Mauny, Ascánder Suárez
+Guy L. Steele Jr., W. Daniel Hillis
+Mitchell Wand, Daniel P. Friedman
+John C. Mitchell
+Bharat Jayaraman, Frank S. K. Silbermann
+Satish R. Thatte
+Claus-Werner Lermen, Dieter Maurer
+Paul Hudak
+Martin Rudalics

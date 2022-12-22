@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+import sys
 import matplotlib.pyplot as plt
 
 labels = []
@@ -8,7 +9,7 @@ p = []
 pl = []
 ph = []
 
-with open("out.txt") as f:
+with open(sys.argv[1]) as f:
     lines = f.readlines()
     lines.reverse()
 

@@ -1,0 +1,33 @@
+Gerald J. Sussman, Matthew Halfant
+Gerald Roylance
+Jean Vuillemin
+Pete Tinker, Morry Katz
+Benjamin Goldberg
+Matthias Felleisen, Mitchell Wand, Daniel P. Friedman, Bruce F. Duba
+Albert R. Meyer, Jon G. Riecke
+Matthias Felleisen
+Alan Bawden, Jonathan Rees
+Annika Aasa, Kent Petersson, Dan Synek
+R. Kent Dybvig, Robert Hieb
+Andrew A. Berlin, Henry M. Wu
+William D. Clinger, Anne Hartheimer, Eric Ost
+Mark R. Swanson, Robert R. Kessler, Gary Lindstrom
+Ron Goldman, Richard P. Gabriel
+Frank Pfenning
+Simon Martini
+Atsushi Ohori, Peter Buneman
+Fritz Henglein
+Lalita Jategaonkar, John C. Mitchell
+David B. MacQueen
+Paul Hudak, Eric Mohr
+A. C. Norman
+Geoffrey Livingston Burn, Simon L. Peyton Jones, J. D. Robson
+Kourosh Gharachorloo, Vivek Sarkar, John L. Hennessy
+William W. Pugh
+Norman Adams, Jonathan Rees
+Uday S. Reddy
+Christian Queinnec, Pierre Cointe
+Daniel G. Bobrow, Gregor Kiczales
+John Lamping
+Olivier Danvy, Karoline Malmkjær
+Alan Bawden

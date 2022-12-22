@@ -1,0 +1,30 @@
+Gary Brooks, Gilbert J. Hansen, Steve Simmons
+Rok Sosic
+Norman Ramsey, David R. Hanson
+Urs Hölzle, Craig Chambers, David M. Ungar
+Kazuhiro Ogata, Satoshi Kurihara, Mikio Inari, Norihisa Doi
+Suresh Jagannathan, James Philbin
+David B. Wortman, Michael D. Junkin
+Steven W. K. Tjiang, John L. Hennessy
+Marina C. Chen, James R. Cowie
+Jichang Tan, I-Peng Lin
+Young Gil Park, Benjamin Goldberg
+Joxan Jaffar, Spiro Michaylov, Peter J. Stuckey, Roland H. C. Yap
+William W. Pugh, David Wonnacott
+Vadim Maslov
+Michael Wolfe
+Vivek Sarkar, Radhika Thekkath
+Reinhard von Hanxleden, Ken Kennedy
+Steven Lucco
+Dhananjay M. Dhamdhere, Barry K. Rosen, F. Kenneth Zadeck
+Jens Knoop, Oliver Rüthing, Bernhard Steffen
+William Landi, Barbara G. Ryder
+Laurie J. Hendren, Joseph Hummel, Alexandru Nicolau
+Roger Hoover
+Amer Diwan, J. Eliot B. Moss, Richard L. Hudson
+B. Ramakrishna Rau, Meng Lee, Parthasarathy P. Tirumalai, Michael S. Schlansker
+Todd A. Proebsting, Charles N. Fischer
+Preston Briggs, Keith D. Cooper, Linda Torczon
+Frank Mueller, David B. Whalley
+Todd A. Proebsting
+Torbjörn Granlund, Richard Kenner

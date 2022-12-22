@@ -1,0 +1,30 @@
+Robert Giegerich
+Alan L. Wendt
+Karl Pettis, Robert C. Hansen
+Vatsa Santhanam, Daryl Odnert
+Brian R. Nickerson
+David Callahan, Steve Carr, Ken Kennedy
+Robert Hieb, R. Kent Dybvig, Carl Bruggeman
+Peter B. Kessler
+William W. Pugh, Grant E. Weddell
+William D. Clinger
+Vernon A. Lee Jr., Hans-Juergen Boehm
+Guy L. Steele Jr., Jon L. White
+Gordon V. Cormack, Andrew K. Wright
+Steven Anderson, Paul Hudak
+Craig Chambers, David M. Ungar
+Dean Jacobs
+Saumya K. Debray, Nai-Wei Lin, Manuel V. Hermenegildo
+Thanasis Mitsolides, Malcolm Harrison
+Tim Teitelbaum, Richard Chapman
+Martin Jourdan, Didier Parigot, Catherine Julié, Olivier Durin, Carole Le Bellec
+Robert R. Henry, Kenneth M. Whaley, Bruce Forstall
+Susan Horwitz
+Hiralal Agrawal, Joseph Robert Horgan
+Robert A. Ballance, Arthur B. Maccabe, Karl J. Ottenstein
+Rajiv Gupta
+Zahira Ammarguellat, Williams Ludwell Harrison III
+David R. Chase, Mark N. Wegman, F. Kenneth Zadeck
+Ping-Sheng Tseng
+Vivek Sarkar
+Ron Cytron, Jeanne Ferrante, Vivek Sarkar

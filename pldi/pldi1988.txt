@@ -1,0 +1,33 @@
+David R. Chase
+Andrew W. Appel, John R. Ellis, Kai Li
+James R. Larus, Paul N. Hilfinger
+Susan Horwitz, Thomas W. Reps, David W. Binkley
+David Callahan
+Keith D. Cooper, Ken Kennedy
+David W. Wall
+Christopher W. Fraser, Alan L. Wendt
+Fred C. Chow
+Kurt Keutzer, Wayne H. Wolf
+Kristy Andrews, Robert R. Henry, Wayne K. Yamamoto
+Daniel M. Yellin, Robert E. Strom
+Deborah S. Coutant, Sue Meloy, Michelle Ruscetta
+Barton P. Miller, Jong-Deok Choi
+Janice M. Stone
+Suneel Jain, Carol L. Thompson
+Olin Shivers
+Birgit Schwarz, Walter Kirchgässner, Rudolf Landwehr
+Robert A. Ballance, Jacob Butcher, Susan L. Graham
+Frank Pfenning, Conal Elliott
+Janet A. Walz, Gregory F. Johnson
+Uwe F. Pleban, Peter Lee
+V. Seshadri, David B. Wortman, Michael D. Junkin, S. Weber, C. P. Yu, I. Small
+Randy Allen, Steve Johnson
+John H. Reppy
+Barbara Liskov, Liuba Shrira
+Joseph Pallas, David M. Ungar
+John R. Rose
+J. L. Weiner, S. Ramakrishnan
+Saumya K. Debray
+Alexander Aiken, Alexandru Nicolau
+Monica S. Lam
+Manuel E. Benitez, Jack W. Davidson

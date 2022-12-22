@@ -1,0 +1,24 @@
+Carlos A. Ruggiero, John Sargeant
+T. J. W. Clarke
+Jon Fairbairn, Stuart Wray
+David R. Lester
+Rafael Dueire Lins
+Paul Watson, Ian Watson
+Simon L. Peyton Jones, Chris D. Clack, Jon Salkild, Mark Hardie
+Stephen C. North, John H. Reppy
+David S. Wise
+Thomas Johnsson
+Martine D. F. Schlag
+Bharat Jayaraman, David A. Plaisted
+Patrick Bellot, Véronique Jay
+Paul Hudak, Steven Anderson
+Thierry Gautier, Paul Le Guernic
+John Darlington, Lyndon While
+Andrew W. Appel, David B. MacQueen
+Ian Toyn, Alan J. Dix, Colin Runciman
+Thomas R. Gross, Alan Sussman
+T. H. Brus, MarkoC.J.D.van Eekelen, M.O.van Leer, Marinus J. Plasmeijer
+Philip Wadler, R. J. M. Hughes
+Benjamin Goldberg
+Chris Martin, Chris Hankin
+Geoffrey Livingston Burn

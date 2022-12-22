@@ -1,0 +1,28 @@
+Andrew Wolfe, John Paul Shen
+Manolis Katevenis, Nestoras Tzartzanis
+Roland L. Lee, Alex Y. Kwok, Faye A. Briggs
+David Callahan, Ken Kennedy, Allan Porterfield
+Gurindar S. Sohi, Manoj Franklin
+Monica S. Lam, Edward E. Rothberg, Michael E. Wolf
+Jeffrey C. Mogul, Anita Borg
+David Keppel
+Andrew W. Appel, Kai Li
+Thomas E. Anderson, Henry M. Levy, Brian N. Bershad, Edward D. Lazowska
+David G. Bradlee, Susan J. Eggers, Robert R. Henry
+Manuel E. Benitez, Jack W. Davidson
+Rajive L. Bagrodia, Sharad Mathur
+William H. Mangione-Smith, Santosh G. Abraham, Edward S. Davidson
+David E. Culler, Anurag Sah, Klaus E. Schauser, Thorsten vonEicken, John Wawrzynek
+David W. Wall
+Edward K. Lee, Randy H. Katz
+Vincent Cate, Thomas R. Gross
+William J. Bolosky, Michael L. Scott, Robert P. Fitzgerald, Robert J. Fowler, Alan L. Cox
+David Chaiken, John Kubiatowicz, Anant Agarwal
+Sang Lyul Min, Jong-Deok Choi
+Kourosh Gharachorloo, Anoop Gupta, John L. Hennessy
+Eric Freudenthal, Allan Gottlieb
+John M. Mellor-Crummey, Michael L. Scott
+Douglas Johnson
+Robert F. Cmelik, Shing I. Kong, David R. Ditzel, Edmund J. Kelly
+C. Brian Hall, Kevin O'Brien
+Dileep Bhandarkar, Douglas W. Clark

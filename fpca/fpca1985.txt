@@ -1,0 +1,25 @@
+D. A. Turner
+Stephen K. Skedzielewski, M. L. Welcome
+Chris D. Clack, Simon L. Peyton Jones
+Guy Cousineau, Pierre-Louis Curien, Michel Mauny
+Patrick Bellot
+Samson Abramsky, R. Sykes
+Chris Hankin, Peter Osmon, Malcolm J. Shute
+Philip Wadler
+John Hughes
+David A. Plaisted
+John T. O'Donnell
+Thomas Johnsson
+Saumya K. Debray
+Mary Sheeran
+Dorab Patel, Martine D. F. Schlag, Milos D. Ercegovac
+John Hughes
+David R. Brownbridge
+David S. Wise
+Mark F. Young
+Rishiyur S. Nikhil
+Peter Dybjer
+V. J. Bush, John R. Gurd
+Lennart Augustsson
+Paul Hudak, Benjamin Goldberg
+Richard B. Kieburtz

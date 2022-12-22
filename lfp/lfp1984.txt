@@ -1,0 +1,37 @@
+Rodney A. Brooks, Richard P. Gabriel
+Robert H. Halstead Jr.
+Christopher T. Haynes, Daniel P. Friedman
+Richard P. Gabriel, John McCarthy
+Philip Wadler
+Allen Goldberg, Robert Paige
+Françoise Bellegarde
+John S. Givler, Richard B. Kieburtz
+Pierre Cointe, Xavier Rodet
+Roger B. Dannenberg
+Mary Sheeran
+Jérôme Chailloux, Matthieu Devin, Jean-Marie Hullot
+Gheorghe Stefan, Aurel Paun, Virgil Bistriceanu, Andy Birnbaum
+Raymond L. Bates, David Dyer, Mark Feber
+Hiroshi G. Okuno, Ikuo Takeuchi, Nobuyasu Ohsato, Yasushi Hibino, Kazufumi Watanabe
+Skef Wholey, Scott E. Fahlman
+W. R. Stoye, T. J. W. Clarke, A. C. Norman
+Paul Hudak, Benjamin Goldberg
+Ralph E. Griswold
+Robin Milner
+David B. MacQueen
+Luca Cardelli
+Lennart Augustsson
+Emmanuel Saint-James
+David A. Moon
+Henry Lieberman
+Rodney A. Brooks
+Takuya Katayama
+Alberto Pettorossi
+Walter Dosch, Bernhard Möller
+Christopher T. Haynes, Daniel P. Friedman, Mitchell Wand
+Herbert Stoyan
+Gert Smolka
+Yonathan Malachi, Zohar Manna, Richard J. Waldinger
+Jim des Rivières, Brian Cantwell Smith
+Daniel P. Friedman, Mitchell Wand
+William D. Clinger

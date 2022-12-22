@@ -1,0 +1,28 @@
+Dror E. Maydan, John L. Hennessy, Monica S. Lam
+Gina Goff, Ken Kennedy, Chau-Wen Tseng
+Michael E. Wolf, Monica S. Lam
+W. G. Morris
+David W. Wall
+Scott McFarling
+John Launchbury
+Charles Consel, Siau-Cheng Khoo
+G. A. Venkatesh
+Deborah Whitfield, Mary Lou Soffa
+Siddhartha Chatterjee, Guy E. Blelloch, Allan L. Fisher
+Mark Bromley, Steven Heller, Timothy S. McNerney, Guy L. Steele Jr.
+Hans-Juergen Boehm, Alan J. Demers, Scott Shenker
+Benjamin Goldberg
+Paul R. Wilson, Michael S. Lam, Thomas G. Moher
+David Callahan, Brian D. Koblenz
+Guang R. Gao, Yue-Bong Wong, Qi Ning
+Suneel Jain
+David G. Bradlee, Robert R. Henry, Susan J. Eggers
+David Bernstein, Michael Rodeh
+Todd A. Proebsting, Charles N. Fischer
+Timothy S. Freeman, Frank Pfenning
+Robert Cartwright, Mike Fagan
+John H. Reppy
+Joxan Jaffar, Spiro Michaylov, Roland H. C. Yap
+Peter Fritzson, Tibor Gyimóthy, Mariam Kamkar, Nahid Shahmehri
+Yves Bertot
+Amir Kishon, Paul Hudak, Charles Consel

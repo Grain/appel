@@ -1,0 +1,68 @@
+Will Crichton, Marco Patrignani, Maneesh Agrawala, Pat Hanrahan
+Sankha Narayan Guria, Niki Vazou, Marco Guarnieri, James Parker
+Nikhil Swamy, Tahina Ramananandro, Aseem Rastogi, Irina Spiridonova, Haobin Ni, Dmitry Malloy, Juan Vazquez, Michael Tang, Omar Cardona, Arti Gupta
+Karuna Grewal, Loris D'Antoni, Justin Hsu
+Daniel Anderson, Guy E. Blelloch, Yuanhao Wei
+Wenyu Zhao, Stephen M. Blackburn, Kathryn S. McKinley
+Haoran Ma, Shi Liu, Chenxi Wang, Yifan Qiao, Michael D. Bond, Stephen M. Blackburn, Miryung Kim, Guoqing Harry Xu
+Laxman Dhulipala, Guy E. Blelloch, Yan Gu, Yihan Sun
+Zheng Guo, David Cao, Davin Tjong, Jean Yang, Cole Schlesinger, Nadia Polikarpova
+Yanju Chen, Xifeng Yan, Yu Feng
+Rui Dong, Zhicheng Huang, Ian Iong Lam, Yan Chen, Xinyu Wang
+Xiangyu Zhou, Rastislav Bodík, Alvin Cheung, Chenglong Wang
+Stefanos Chaliasos, Thodoris Sotiropoulos, Diomidis Spinellis, Arthur Gervais, Benjamin Livshits, Dimitris Mitropoulos
+Mathieu Fehr, Jeff Niu, River Riddle, Mehdi Amini, Zhendong Su, Tobias Grosser
+Minki Cho, Sung-Hwan Lee, Dongjae Lee, Chung-Kil Hur, Ori Lahav
+Wonhyuk Choi, Bernd Finkbeiner, Ruzica Piskac, Mark Santolucito
+Azadeh Farzan, Danya Lette, Victor Nicolet
+Bachir Bendrissou, Rahul Gopinath, Andreas Zeller
+Peter Ahrens, Fredrik Kjolstad, Saman P. Amarasinghe
+Rohan Yadav, Alex Aiken, Fredrik Kjolstad
+Yishen Chen, Charith Mendis, Saman P. Amarasinghe
+Canberk Morelli, Jan Reineke
+Vimala Soundarapandian, Adharsh Kamath, Kartik Nagar, K. C. Sivaramakrishnan
+Farzin Houshmand, Javad Saberlatibari, Mohsen Lesani
+Gowtham Kaki, Prasanth Prahladan, Nicholas V. Lewchenko
+Wolf Honoré, Ji-Yong Shin, Jieung Kim, Zhong Shao
+Eddie Jones, Luke Ong, Steven J. Ramsay
+Daniel Lehmann, Michael Pradel
+Roberto Bruni, Roberto Giacobazzi, Roberta Gori, Francesco Ranzato
+Dorde Zikelic, Bor-Yuh Evan Chang, Pauline Bolignano, Franco Raimondi
+Mae Milano, Joshua Turcotti, Andrew C. Myers
+Milind Chabbi, MuraliKrishna Ramanathan
+Hamed Gorjiara, Weiyu Luo, Alex Lee, Guoqing Harry Xu, Brian Demsky
+Azadeh Farzan, Dominik Klumpp, Andreas Podelski
+Ian Briggs, Pavel Panchekha
+Raven Beutner, Luke Ong, Fabian Zaiser
+Mridul Aanjaneya, Jay P. Lim, Santosh Nagarakatte
+Philipp Schuster, Jonathan Immanuel Brachthäuser, Marius Müller, Klaus Ostermann
+Ben Greenman
+Michael Greenberg, Ryan Beckett, Eric Hayden Campbell
+Daniel Patterson, Noble Mushtak, Andrew Wagner, Amal Ahmed
+Mingkuan Xu, Zikun Li, Oded Padon, Sina Lin, Jessica Pointing, Auguste Hirth, Henry Ma, Jens Palsberg, Alex Aiken, Umut A. Acar, Zhihao Jia
+Runzhou Tao, Yunong Shi, Jianan Yao, Xupeng Li, Ali Javadi-Abhari, Andrew W. Cross, Frederic T. Chong, Ronghui Gu
+Yuxiang Peng, Mingsheng Ying, Xiaodi Wu
+Michael Christensen, Georgios Tzimpragos, Harlan Kringen, Jennifer Volk, Timothy Sherwood, Ben Hardekopf
+Jackson Woodruff, Jordi Armengol-Estapé, Sam Ainsworth, Michael F. P. O'Boyle
+Yuka Ikarashi, Gilbert Louis Bernstein, Alex Reinking, Hasan Genc, Jonathan Ragan-Kelley
+Drew Zagieboylo, Charles Sherk, Gookwon Edward Suh, Andrew C. Myers
+Lingkun Kong, Qixuan Yu, Agnishom Chattopadhyay, Alexis Le Glaunec, Yi Huang, Konstantinos Mamouras, Kaiyuan Yang
+Olivier Flückiger, Jan Jecmen, Sebastián Krynski, Jan Vitek
+Chenhao Zhang, Jason D. Hartline, Christos Dimoulas
+Vito Kortbeek, Souradip Ghosh, Josiah D. Hester, Simone Campanoni, Przemyslaw Pawelczak
+Hoang-Hai Dang, Jaehwang Jung, Jaemin Choi, Duc-Than Nguyen, William Mansky, Jeehoon Kang, Derek Dreyer
+Ike Mulder, Robbert Krebbers, Herman Geuvers
+Michael Sammler, Angus Hammond, Rodolphe Lepigre, Brian Campbell, Jean Pichon-Pharabod, Derek Dreyer, Deepak Garg, Peter Sewell
+Yusuke Matsushita, Xavier Denis, Jacques-Henri Jourdan, Derek Dreyer
+Ali Ahmadi, Majid Daliri, Amir Kafshdar Goharshady, Andreas Pavlogiannis
+Shizhi Tang, Jidong Zhai, Haojie Wang, Lin Jiang, Liyan Zheng, Zhenhao Yuan, Chen Zhang
+Rodrigo C. O. Rocha, Dennis Sprokholt, Martin Fink, Redha Gouicem, Tom Spink, Soham Chakraborty, Pramod Bhatotia
+Junpeng Zha, Hongjin Liang, Xinyu Feng
+Clément Pit-Claudel, Jade Philipoom, Dustin Jamner, Andres Erbsen, Adam Chlipala
+Freek Verbeek, Joshua A. Bockenek, Zhoulai Fu, Binoy Ravindran
+Ryan Doenges, Tobias Kappé, John Sarracino, Nate Foster, Greg Morrisett
+Zoe Paraskevopoulou, Aaron Eline, Leonidas Lampropoulos
+Guillermo Polito, Stéphane Ducasse, Pablo Tesone
+Suresh Parthasarathy, Lincy Pattanaik, Anirudh Khatry, Arun Shankar Iyer, Arjun Radhakrishna, Sriram K. Rajamani, Mohammad Raza
+Mingzhe Wang, Jie Liang, Chijin Zhou, Zhiyong Wu, Xinyi Xu, Yu Jiang
+Liam O'Connor, Oskar Wickström
