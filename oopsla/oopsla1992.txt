@@ -1,0 +1,31 @@
+William R. Cook
+Roland Ducournau, Michel Habib, Marianne Huchard, Marie-Laure Mugnier
+Harold Ossher, William H. Harrison
+Dennis de Champeaux, Doug Lea, Penelope Faure
+Ralph E. Johnson
+Chamond Liu, Stephen Goetze, Bill Glynn
+Antony L. Hosking, J. Eliot B. Moss, Darko Stefanovic
+Pascal André, Jean-Claude Royer
+Hidehiko Masuhara, Satoshi Matsuoka, Takuo Watanabe, Akinori Yonezawa
+Michael F. Wangler, Peeter Hansen
+Paul R. Calder, Mark A. Linton
+Thomas Eggenschwiler, Erich Gamma
+James F. Walsh
+Brad A. Myers, Dario A. Giuse, Brad T. Vander Zanden
+Christophe Dony, Jacques Malenfant, Pierre Cointe
+Bruce Horn
+Phillip M. Yelland
+Michael J. Feeley, Henry M. Levy
+Joel E. Richardson, Peter M. Schwarz, Luis-Felipe Cabrera
+Kazunori Takashio, Mario Tokoro
+Yutaka Ishikawa
+Ichiro Satoh, Mario Tokoro
+Klaus-Peter Löhr
+Mehmet Aksit, Lodewijk Bergmans
+Bernd Bruegge, Jim Blythe, Jeffrey C. Jackson, Jeff Shufelt
+Dennis de Champeaux, Al Anderson, Ed Feldhousen
+Jeffrey S. Chase, Henry M. Levy, Edward D. Lazowska, Miche Baker-Harvey
+Yasuhiko Yokote
+Gregor Kiczales, John Lamping
+Stephen W. Clyde, David W. Embley, Scott N. Woodfield
+Raymond J. A. Buhr, Ronald S. Casselman

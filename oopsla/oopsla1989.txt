@@ -1,0 +1,46 @@
+Kent L. Beck, Ward Cunningham
+Mary Beth Rosson, Eric Gold
+Karl J. Lieberherr, Arthur J. Riel
+Paul R. Wilson, Thomas G. Moher
+Marcel Schelvis
+Craig Chambers, David M. Ungar, Elgin Lee
+Rebecca Wirfs-Brock, Brian Wilkerson
+Walter C. Dietrich Jr., Lee R. Nackman, Franklin Gracer
+William H. Harrison, John J. Shilling, Peter F. Sweeney
+Jan van den Bos, Chris Laffra
+Chris Tomlinson, Vineet Singh
+José Alves Marques, Paulo Guedes
+Jay Fenton, Kent L. Beck
+Sam S. Adams, Abdul K. Nabi
+F. P. Block, N. C. Chan
+Sandra S. Walther, Richard L. Peskin
+Max E. Jerrell
+John Alan McDonald
+Patrick J. Ferrel, Robert F. Meyer
+Ashwin V. Shah, James E. Rumbaugh, Jung H. Hamel, Renee E. Borsari
+Bhavani M. Thuraisingham
+R. Dixon, T. McKee, Paul Schweizer, M. Vaughan
+Patrick H. Dussud
+Andreas Paepcke
+Hans Muller, John R. Rose, James Kempf, Tayloe Stansbury
+Brian M. Barry
+Vincent F. Russo, Roy H. Campbell
+Richard C. H. Connor, Alan Dearle, Ronald Morrison, Alfred L. Brown
+Thomas W. Page Jr., Steven Berson, William C. Cheng, Richard R. Muntz
+William R. Rosenblatt, Jack C. Wileden, Alexander L. Wolf
+Nicolas Graube
+Jacques Ferber
+Brian Foote, Ralph E. Johnson
+Trygve Reenskaug, Anna Lise Skaar
+Yen-Ping Shan
+John J. Shilling, Peter F. Sweeney
+Jay Almarode
+Naftaly H. Minsky, David Rozenshtein
+John Maloney, Alan Borning, Bjørn N. Freeman-Benson
+Bjørn N. Freeman-Benson
+Ole Lehrmann Madsen, Birger Møller-Pedersen
+Claus H. Pedersen
+Jean-Pierre Briot, Pierre Cointe
+William R. Cook, Jens Palsberg
+Atsushi Ohori, Peter Buneman
+Peter S. Canning, William R. Cook, Walter L. Hill, Walter G. Olthoff

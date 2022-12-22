@@ -1,0 +1,50 @@
+Don Coppersmith, Shmuel Winograd
+Andrew V. Goldberg, Robert Endre Tarjan
+Greg N. Frederickson
+Pravin M. Vaidya
+Alok Aggarwal, Leonidas J. Guibas, James B. Saxe, Peter W. Shor
+Kazuo Iwano, Kenneth Steiglitz
+Kenneth L. Clarkson
+Bernard Chazelle, Herbert Edelsbrunner, Leonidas J. Guibas
+Roman Smolensky
+Paul Beame, Johan Håstad
+Wolfgang Maass, Georg Schnitger, Endre Szemerédi
+David A. Mix Barrington, Denis Thérien
+Lane A. Hemachandra
+Samuel R. Buss
+Miklós Ajtai, János Komlós, Endre Szemerédi
+H. Venkateswaran
+Eric Allender
+Umesh V. Vazirani
+David Lichtenstein, Nathan Linial, Michael E. Saks
+Martin Fürer
+Oded Goldreich
+Martín Abadi, Joan Feigenbaum, Joe Kilian
+Lance Fortnow
+Uriel Feige, Amos Fiat, Adi Shamir
+Oded Goldreich, Silvio Micali, Avi Wigderson
+Baruch Awerbuch
+Johan Håstad, Frank Thomson Leighton, Brian Rogoff
+Gary L. Miller, Shang-Hua Teng
+David Peleg, Eli Upfal
+Johan Håstad, Frank Thomson Leighton, Mark Newman
+Michael J. Kearns, Ming Li, Leonard Pitt, Leslie G. Valiant
+B. K. Natarajan
+Alok Aggarwal, Bowen Alpern, Ashok K. Chandra, Marc Snir
+Andrew V. Goldberg, Serge A. Plotkin, Gregory E. Shannon
+Alok Aggarwal, Richard J. Anderson
+Gary L. Miller, Vijaya Ramachandran
+Ketan Mulmuley, Umesh V. Vazirani, Vijay V. Vazirani
+Joseph Naor, Moni Naor, Alejandro A. Schäffer
+Paul F. Dietz, Daniel Dominic Sleator
+Allan Borodin, Nathan Linial, Michael E. Saks
+J. Ian Munro
+Lenwood S. Heath, Sorin Istrail
+Lajos Rónyai
+László Babai, Eugene M. Luks, Ákos Seress
+Saharon Shelah, Joel Spencer
+Phokion G. Kolaitis, Moshe Y. Vardi
+Gianfranco Bilardi, Franco P. Preparata
+Erich Kaltofen
+Eric Bach
+Leonard M. Adleman, Ming-Deh A. Huang

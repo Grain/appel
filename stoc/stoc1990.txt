@@ -1,0 +1,59 @@
+Michael L. Fredman, Dan E. Willard
+Richard Cole
+Rajamani Sundar, Robert Endre Tarjan
+Greg N. Frederickson
+Johannes A. La Poutré
+Wayne Goddard, Valerie King, Leonard J. Schulman
+Raymond A. Board, Leonard Pitt
+Avrim Blum
+Manuel Blum, Michael Luby, Ronitt Rubinfeld
+Andrew Chi-Chih Yao
+Shimon Even, Sergio Rajsbaum
+Michael J. Fischer, Shlomo Moran, Steven Rudich, Gadi Taubenfeld
+Martin Dietzfelbinger, Friedhelm MeyeraufderHeide
+Uriel Feige, David Peleg, Prabhakar Raghavan, Eli Upfal
+Zvi M. Kedem, Krishna V. Palem, Paul G. Spirakis
+Sanjeev Arora, Frank Thomson Leighton, Bruce M. Maggs
+Jeffrey Scott Vitter, Elizabeth A. M. Shriver
+Uzi Vishkin
+Ming-Yang Kao, Philip N. Klein
+Robert Cypher, C. Greg Plaxton
+Noam Nisan
+Joseph Naor, Moni Naor
+Jeanette P. Schmidt, Alan Siegel
+Yishay Mansour, Noam Nisan, Prasoon Tiwari
+Joseph Gil, Friedhelm MeyeraufderHeide, Avi Wigderson
+David Zuckerman
+Nathan Linial, Noam Nisan
+Richard Cleve
+Mario Szegedy
+Ran Raz, Avi Wigderson
+Noga Alon, Paul D. Seymour, Robin Thomas
+Gary L. Miller, William P. Thurston
+Philip N. Klein, Clifford Stein, Éva Tardos
+Ketan Mulmuley
+Alok Aggarwal, Mark Hansen, Frank Thomson Leighton
+David G. Kirkpatrick, Bhubaneswar Mishra, Chee-Keng Yap
+Richard M. Karp, Umesh V. Vazirani, Vijay V. Vazirani
+Marshall W. Bern, Daniel H. Greene, Arvind Raghunathan, Madhu Sudan
+Don Coppersmith, Peter Doyle, Prabhakar Raghavan, Marc Snir
+Shai Ben-David, Allan Borodin, Richard M. Karp, Gábor Tardos, Avi Wigderson
+John Rompel
+Johan Håstad
+A. W. Schrift, Adi Shamir
+Uriel Feige, Adi Shamir
+Moni Naor, Moti Yung
+Christos H. Papadimitriou, Alejandro A. Schäffer, Mihalis Yannakakis
+Alessandro Panconesi, Desh Ranjan
+Mitsunori Ogiwara, Osamu Watanabe
+A. J. Kfoury, Jerzy Tiuryn, Pawel Urzyczyn
+Tero Harju, Juhani Karhumäki
+Mihir Bellare, Silvio Micali, Rafail Ostrovsky
+Mihir Bellare, Silvio Micali, Rafail Ostrovsky
+Donald Beaver, Silvio Micali, Phillip Rogaway
+Rafail Ostrovsky
+William M. Kantor, Eugene M. Luks
+Allan Borodin, Prasoon Tiwari
+Victor Shoup
+Yagati N. Lakshman
+Arjen K. Lenstra, Hendrik W. Lenstra Jr., Mark S. Manasse, John M. Pollard

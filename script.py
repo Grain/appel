@@ -70,7 +70,7 @@ with open(sys.argv[1]) as f:
 for i in range(2, maxauthors + 1):
     alpha[i] = alpha.get(i, 0)
     nonalpha[i] = nonalpha.get(i, 0)
-    print("%d: %d %d" % (i, alpha[i], nonalpha[i]))
+    # print("%d: %d %d" % (i, alpha[i], nonalpha[i]))
 
 p = 0.0
 maxp = p

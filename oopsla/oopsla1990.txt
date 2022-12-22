@@ -1,0 +1,29 @@
+Grady Booch, Michael Vilot
+Sanjiv Gossain, Bruce Anderson
+Stephen Bear, Phillip Allen, Derek Coleman, Fiona Hayes
+Oscar Nierstrasz, Michael Papathomas
+Jean-Marc Andreoli, Remo Pareschi
+Kenneth M. Kahn, Vijay A. Saraswat
+Barbara Staudt Lerner, A. Nico Habermann
+Bjørn N. Freeman-Benson
+Hans-Dieter Böcker, Jürgen Herczeg
+José Meseguer
+Jan A. Purchase, Russel L. Winder
+Dennis G. Kafura, Douglas Washabaugh, Jeff Nelson
+Ole Lehrmann Madsen, Boris Magnusson, Birger Møller-Pedersen
+Jens Palsberg, Michael I. Schwartzbach
+Pierre America, Frank van der Linden
+Richard Helm, Ian M. Holland, Dipayan Gangopadhyay
+Lucy M. Berlin
+Andreas Paepcke
+Gary T. Leavens, William E. Weihl
+Dave D. Straube, M. Tamer Özsu
+Volker Haarslev, Ralf Möller
+John Alan McDonald, Werner Stuetzle, Andreas Buja
+Yen-Ping Shan
+Sabine Habert, Vadim Abrossimov
+John E. Faust, Henry M. Levy
+Yutaka Ishikawa, Hideyuki Tokuda, Clifford W. Mercer
+Gilad Bracha, William R. Cook
+Bernard Carré, Jean-Marc Geib
+Christophe Dony

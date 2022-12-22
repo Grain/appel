@@ -48,7 +48,7 @@ Andrei Z. Broder, Anna R. Karlin
 David Eppstein, Zvi Galil, Raffaele Giancarlo
 Alok Aggarwal, James K. Park
 Michael L. Fredman, Deborah L. Goldsmith
-Martin Dietzfelbinger, Anna R. Karlin, Kurt Mehlhorn, Friedhelm Meyer, Hans Rohnert, Robert Endre Tarjan
+Martin Dietzfelbinger, Anna R. Karlin, Kurt Mehlhorn, Friedhelm MeyeraufderHeide, Hans Rohnert, Robert Endre Tarjan
 Amir M. Ben-Amram, Zvi Galil
 Bernard Chazelle, Joel Friedman
 Mark H. Overmars, Chee-Keng Yap

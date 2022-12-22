@@ -1,0 +1,21 @@
+Anne Dinning, Edith Schonberg
+Wenwey Hseush, Gail E. Kaiser
+David Callahan, Ken Kennedy, Jaspal Subhlok
+Evan Tick, Nobuyuki Ichiyoshi
+Vincenzo Ambriola, Paolo Ciancarini, Marco Danelutto
+Masakazu Furuichi, Kazuo Taki, Nobuyuki Ichiyoshi
+Howard P. Katseff, Robert D. Gaglianello, Bethany S. Robinson
+Michael L. Scott, Thomas J. LeBlanc, Brian D. Marsh
+Kai Li, Jeffrey F. Naughton, James S. Plank
+David M. Nicol
+Balkrishna Ramkumar, Laxmikant V. Kalé
+Pau S. Chang, Gregory K. Egan
+Rajiv Gupta
+Robert Hieb, R. Kent Dybvig
+Deborah Whitfield, Mary Lou Soffa
+Michael Factor
+Wilson A. Harvey, Dirk Kalp, Milind Tambe, David M. McKeown, Allen Newell
+John K. Bennett, John B. Carter, Willy Zwaenepoel
+Charles Koelbel, Piyush Mehrotra, John Van Rosendale
+Andrew A. Chien, William J. Dally
+Maurice Herlihy

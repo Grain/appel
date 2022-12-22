@@ -1,0 +1,55 @@
+László Babai, Noam Nisan, Mario Szegedy
+Russell Impagliazzo, Leonid A. Levin, Michael Luby
+Oded Goldreich, Leonid A. Levin
+Moni Naor, Moti Yung
+Russell Impagliazzo, Steven Rudich
+Benny Chor, Eyal Kushilevitz
+Tal Rabin, Michael Ben-Or
+Manuel Blum, Sampath Kannan
+Brigitte Vallée
+Stephen A. Cook, Alasdair Urquhart
+Foto N. Afrati, Stavros S. Cosmadakis
+Shmuel Safra, Moshe Y. Vardi
+Doug Ierardi
+Stuart A. Kurtz, Stephen R. Mahaney, James S. Royer
+Alexander A. Razborov
+Nader H. Bshouty
+Andrew Chi-Chih Yao
+Paul Beame
+Shai Ben-David, Benny Chor, Oded Goldreich, Michael Luby
+Tak Wah Lam, Prasoon Tiwari, Martin Tompa
+Richard R. Koch, Frank Thomson Leighton, Bruce M. Maggs, Satish Rao, Arnold L. Rosenberg
+Eli Upfal
+Johan Håstad, Frank Thomson Leighton, Mark Newman
+John H. Reif, Stephen R. Tate
+Noga Alon, Amotz Bar-Noy, Nathan Linial, David Peleg
+Ming-Yang Kao, Gregory E. Shannon
+Alok Aggarwal, Richard J. Anderson, Ming-Yang Kao
+Omer Berkman, Dany Breslauer, Zvi Galil, Baruch Schieber, Uzi Vishkin
+Ravi B. Boppana
+Noam Nisan
+Amos Fiat, Moni Naor
+Michael L. Fredman, Michael E. Saks
+Jeanette P. Schmidt, Alan Siegel
+Claire Kenyon-Mathieu, Valerie King
+Martin E. Dyer, Alan M. Frieze, Ravi Kannan
+Bernard Chazelle, Herbert Edelsbrunner, Leonidas J. Guibas, Micha Sharir
+John H. Reif, Sandeep Sen
+Jacob E. Goodman, Richard Pollack, Bernd Sturmfels
+Ronald L. Rivest, Robert E. Schapire
+Leonard Pitt, Manfred K. Warmuth
+Michael J. Kearns, Leslie G. Valiant
+Jean-Camille Birget
+Danny Dolev, Nir Shavit
+Ronald L. Graham, Andrew Chi-Chih Yao
+Baruch Awerbuch, Amotz Bar-Noy, Nathan Linial, David Peleg
+Baruch Awerbuch
+Michael R. Fellows, Michael A. Langston
+Tomás Feder
+Edith Cohen, Nimrod Megiddo
+Avrim Blum
+Andrei Z. Broder, Anna R. Karlin, Prabhakar Raghavan, Eli Upfal
+Rajeev Motwani
+Allan Borodin, Walter L. Ruzzo, Martin Tompa
+Ashok K. Chandra, Prabhakar Raghavan, Walter L. Ruzzo, Roman Smolensky, Prasoon Tiwari
+Joel Friedman, Jeff Kahn, Endre Szemerédi

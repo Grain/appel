@@ -1,0 +1,29 @@
+Akihiko Takano
+Alexander Romanenko
+Dan Sahlin
+Björn Lisper
+Timothy J. Hickey, Donald A. Smith
+Agostino Cortesi, Gilberto Filé
+Donald A. Smith
+David J. Sherman, Robert Strandh, Irène Durand
+R. S. Sundaresh
+Uwe Meyer
+Timothy S. McNerney
+Zena M. Ariola, Arvind Arvind
+John Hannan
+Anne De Niel, Eddy Bevers, Karel De Vlaminck
+Sebastian Hunt, David Sands
+Carsten K. Gomard, Peter Sestoft
+Young Gil Park, Benjamin Goldberg
+Olin Shivers
+Andrei V. Klimov
+Siau-Cheng Khoo, R. S. Sundaresh
+Carsten Kehler Holst, Carsten K. Gomard
+Robert Muller
+Torben Amtoft Hansen
+Philip Wadler
+Maurizio Proietti, Alberto Pettorossi
+Spiro Michaylov, Frank Pfenning
+Ian A. Mason, Carolyn L. Talcott
+Robert Glück
+Erik Ruf, Daniel Weise

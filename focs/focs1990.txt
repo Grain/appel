@@ -1,0 +1,91 @@
+Carsten Lund, Lance Fortnow, Howard J. Karloff, Noam Nisan
+Adi Shamir
+László Babai, Lance Fortnow, Carsten Lund
+László Babai, Lance Fortnow
+Danny Dolev, Cynthia Dwork, Orli Waarts, Moti Yung
+Noga Alon, Moni Naor
+Hagit Attiya, Nancy A. Lynch, Nir Shavit
+Baruch Awerbuch, Michael E. Saks
+Ding-Zhu Du, Frank K. Hwang
+Michael Formann, Torben Hagerup, James Haralambides, Michael Kaufmann, Frank Thomson Leighton, Antonios Symvonis, Emo Welzl, Gerhard J. Woeginger
+Siu-Wing Cheng, Ravi Janardan
+John H. Reif, J. D. Tygar, Akitoshi Yoshida
+William I. Chang, Eugene L. Lawler
+Ming Li
+Livio Colussi, Zvi Galil, Raffaele Giancarlo
+Moshe Dubiner, Zvi Galil, Edith Magen
+C. Andrew Neff
+S. Rao Kosaraju, Arthur L. Delcher
+Jens Lagergren
+Dana Angluin, Michael Frazier, Leonard Pitt
+Sally A. Goldman, Michael J. Kearns, Robert E. Schapire
+Wolfgang Maass, György Turán
+Avrim Blum
+Bernard Chazelle
+Marshall W. Bern, David Eppstein, John R. Gilbert
+Bernard Chazelle, Herbert Edelsbrunner, Leonidas J. Guibas, Richard Pollack, Raimund Seidel, Micha Sharir, Jack Snoeyink
+Mark de Berg, Mark H. Overmars
+Frank Thomson Leighton, C. Greg Plaxton
+Shay Assaf, Eli Upfal
+Christos Kaklamanis, Anna R. Karlin, Frank Thomson Leighton, Victor Milenkovic, Prabhakar Raghavan, Satish Rao, Clark D. Thomborson, A. Tsantilas
+Paul Bay, Gianfranco Bilardi
+Uriel Feige, Dror Lapidot, Adi Shamir
+Oded Goldreich, Russell Impagliazzo, Leonid A. Levin, Ramarathnam Venkatesan, David Zuckerman
+Carl Sturtivant, Zhi-Li Zhang
+Benny Chor, Mihály Geréb-Graus, Eyal Kushilevitz
+László Lovász, Miklós Simonovits
+Xiaotie Deng, Christos H. Papadimitriou
+Sampath Kannan, Tandy J. Warnow
+Faith E. Fich, J. Ian Munro, Patricio V. Poblete
+Michael J. Kearns, Robert E. Schapire
+David J. Aldous, Umesh V. Vazirani
+Ramamohan Paturi, Michael E. Saks
+Mark A. Fulk
+Karl R. Abrahamson
+Paul Beame, Martin Tompa, Peiyuan Yan
+Paul Beame, Allan Borodin, Prabhakar Raghavan, Walter L. Ruzzo, Martin Tompa
+Sorin Istrail
+Amos Fiat, Yuval Rabani, Yiftach Ravid
+Sundar Vishwanathan
+Sandy Irani
+Richard Cole, Arvind Raghunathan
+Baruch Awerbuch, Israel Cidon, Shay Kutten
+Baruch Awerbuch, David Peleg
+Baruch Awerbuch, David Peleg
+David Zuckerman
+Noga Alon, Oded Goldreich, Johan Håstad, René Peralta
+Avrim Blum
+Mihir Bellare, Oded Goldreich, Shafi Goldwasser
+Noga Alon, Nimrod Megiddo
+Pravin M. Vaidya
+Charles U. Martel, Ramesh Subramonian, Arvin Park
+Bowen Alpern, Larry Carter, Ephraim Feig
+Johan Håstad, Mikael Goldmann
+Andrew Chi-Chih Yao
+Roman Smolensky
+Jehoshua Bruck, Roman Smolensky
+Mike Paterson, Nicholas Pippenger, Uri Zwick
+David Harel, Danny Raz
+Patrick Lincoln, John C. Mitchell, Andre Scedrov, Natarajan Shankar
+Oded Maler, Amir Pnueli
+Michael Kaminski, Nissim Francez
+James F. Lynch
+Dalit Naor, Dan Gusfield, Charles U. Martel
+András Frank
+Michael L. Fredman, Dan E. Willard
+Philip N. Klein, Ajit Agrawal, R. Ravi, Satish Rao
+Shimon Even, Ami Litman, Peter Winkler
+Amir Pnueli, Roni Rosner
+Zhi-Quan Luo, John N. Tsitsiklis
+Ran Canetti, Oded Goldreich
+Seinosuke Toda
+Samuel R. Buss, Christos H. Papadimitriou, John N. Tsitsiklis
+Christos H. Papadimitriou
+Yuri Gurevich
+Russell Impagliazzo, Leonid A. Levin
+Antoni Koscielski, Leszek Pacholski
+Brigitte Vallée, Philippe Flajolet
+Dima Grigoriev, Marek Karpinski, Michael F. Singer
+Gwoboa Horng, Ming-Deh A. Huang
+László Babai, Gábor Hetyei, William M. Kantor, Alexander Lubotzky, Ákos Seress
+Omer Berkman, Joseph F. JáJá, Sridhar Krishnamurthy, Ramakrishna Thurimella, Uzi Vishkin

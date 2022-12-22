@@ -1,0 +1,21 @@
+Brian N. Bershad, Edward D. Lazowska, Henry M. Levy, David B. Wagner
+David Notkin, Lawrence Snyder, David Socha, Mary L. Bailey, Bruce Forstall, Kevin Gates, Raymond Greenlaw, William G. Griswold, Thomas J. Holman, Richard Korry, Gemini Lasswell, Robert Mitchell, Philip A. Nelson
+Ziya Aral, Ilya Gertner
+Bernd Bruegge
+Eugene Albert, Kathleen Knobe, Joan D. Lukas, Guy L. Steele Jr.
+Michael J. Quinn, Philip J. Hatcher, Karen C. Jourdennais
+Howard P. Katseff
+Michael G. Burke, Ron Cytron, Jeanne Ferrante, Wilson C. Hsieh, Vivek Sarkar, David Shields
+Zhiyuan Li, Pen-Chung Yew
+James R. Larus, Paul N. Hilfinger
+Ron Goldman, Richard P. Gabriel
+David M. Nicol
+Jonathan Rose
+Milind Tambe, Dirk Kalp, Anoop Gupta, Charles Forgy, Brian Milnes, Allen Newell
+Thomas J. LeBlanc, Michael L. Scott, Christopher M. Brown
+Nicholas Carriero, David Gelernter
+Ching-Cheng Lee, Stephen K. Skedzielewski, John Feo
+Helen Davis, John L. Hennessy
+Anoop Gupta, Andrew Tucker
+Bernd Stramm, Francine Berman
+Rajiv Gupta, Mary Lou Soffa

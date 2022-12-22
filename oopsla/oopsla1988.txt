@@ -1,35 +1,30 @@
-    David M. Ungar, Frank Jackson
-    Ralph E. Johnson, Justin O. Graver, Lawrence W. Zurawski
-    John R. Rose
-    Pedro A. Szekely, Brad A. Myers
-    André Weinand, Erich Gamma, Rudolph Marty
-    Martha R. Szczur, Philip Miller
-    Rebecca Wirfs-Brock
-    Danny Epstein, Wilf R. LaLonde
-    S. Sridhar
-    Wilf R. LaLonde, Mark Van Gulik
-    Allen Wirfs-Brock, Brian Wilkerson
-    Dave A. Thomas, Kent Johnson
-    Won Kim, Nat Ballou, Hong-Tai Chou, Jorge F. Garza, Darrell Woelk, Jay Banerjee
-    Joshua Duhl, Craig Damon
-    David Beech
-    Dan Ingalls, Scott Wallace, Yu-Ying Chow, Frank Ludolph, Ken Doyle
-    Michael F. Kleyn, Paul C. Gingrich
-    Anders Björnerstedt, Stefan Britts
-    Carla A. Scaletti, Ralph E. Johnson
-    Kenneth S. Rubin, Patricia M. Jones, Christine M. Mitchell, Theodore C. Goldstein
-    Vincent F. Russo, Gary Johnston, Roy H. Campbell
-    Norihiko Yoshida, Kouji Hino
-    Mehmet Aksit, Anand R. Tripathi
-    Satoshi Matsuoka, Satoru Kawai
-    James E. Rumbaugh
-    Etsuya Shibayama
-    Takuo Watanabe, Akinori Yonezawa
-    Edward H. Bensley, Thomas J. Brando, Myra Jean Prelle
-    Karl J. Lieberherr, Ian M. Holland, Arthur J. Riel
-    Bruno Alabiso
-    David M. Ungar, Henry Lieberman, Lynn Stein, Daniel Halbert
-    Rao V. Mikkilineni, W. T. Tsai, Gordon Kotik, Mohammad A. Ketabchi, Gerhard Fischer
-    Kent L. Beck, Raghu Raghavan, Wilf R. LaLonde, Daniel Weinreb
-    Jeff McKenna, Jim Anderson, Rae Conrad, Karen Norby, Gregory Powell, Roy Smith
-    Dan Shafer, David A. Wilson, Jeff McKenna, John R. Pugh, Adele Goldberg
+David M. Ungar, Frank Jackson
+Ralph E. Johnson, Justin O. Graver, Lawrence W. Zurawski
+John R. Rose
+Pedro A. Szekely, Brad A. Myers
+André Weinand, Erich Gamma, Rudolph Marty
+Martha R. Szczur, Philip Miller
+Rebecca Wirfs-Brock
+Danny Epstein, Wilf R. LaLonde
+S. Sridhar
+Wilf R. LaLonde, Mark Van Gulik
+Allen Wirfs-Brock, Brian Wilkerson
+Dave A. Thomas, Kent Johnson
+Won Kim, Nat Ballou, Hong-Tai Chou, Jorge F. Garza, Darrell Woelk, Jay Banerjee
+Joshua Duhl, Craig Damon
+David Beech
+Dan Ingalls, Scott Wallace, Yu-Ying Chow, Frank Ludolph, Ken Doyle
+Michael F. Kleyn, Paul C. Gingrich
+Anders Björnerstedt, Stefan Britts
+Carla A. Scaletti, Ralph E. Johnson
+Kenneth S. Rubin, Patricia M. Jones, Christine M. Mitchell, Theodore C. Goldstein
+Vincent F. Russo, Gary Johnston, Roy H. Campbell
+Norihiko Yoshida, Kouji Hino
+Mehmet Aksit, Anand R. Tripathi
+Satoshi Matsuoka, Satoru Kawai
+James E. Rumbaugh
+Etsuya Shibayama
+Takuo Watanabe, Akinori Yonezawa
+Edward H. Bensley, Thomas J. Brando, Myra Jean Prelle
+Karl J. Lieberherr, Ian M. Holland, Arthur J. Riel
+Bruno Alabiso

@@ -1,0 +1,44 @@
+R. K. Kerr, Donald B. Percival
+Renate Kempf, Marilyn Stelzner
+Steven Lucco
+Andrew S. Grimshaw, Jane W.-S. Liu
+Alan Borning, Robert Duisberg, Bjørn N. Freeman-Benson, Axel Kramer, Michael Woolf
+Jim Diederich, Jack Milton
+Robert L. Young
+Patrick D. O'Brien, Daniel C. Halbert, Michael F. Kilian
+Thomas Merrow, Jane Laursen
+D. Jason Penney, Jacob Stein
+Won Kim, Jay Banerjee, Hong-Tai Chou, Jorge F. Garza, Darrell Woelk
+Michael A. Caplinger
+LynnAndrea Stein
+Pattie Maes
+Pierre Cointe
+Peter Wegner
+Ivar Jacobson
+Brian M. Barry, John R. Altoft, Dave A. Thomas, Mike Wilson
+Ed Seidewitz
+James Kempf, Warren Harris, Roy D'Souza, Alan Snyder
+David M. Ungar, Randall B. Smith
+Oscar Nierstrasz
+Gail E. Kaiser, David Garlan
+Lars-Erik Thorelli
+Lisa A. Call, David L. Cohrs, Barton P. Miller
+James H. Alexander
+Mark Grossman, Raimund K. Ege
+Steven H. Gutfreund
+John K. Bennett
+Paul L. McCullough
+Robert E. Filman
+Eliot E. Miranda
+Pieter S. van der Meulen
+Jane Laursen, Robert G. Atkinson
+John Hogg, Steven Weiser
+Jean Bézivin
+Yasuhiko Yokote, Mario Tokoro
+Karl Freburger
+Brad J. Cox, Kurt J. Schmucker
+Tim Andrews, Craig Harris
+Toby Bloom, Stanley B. Zdonik
+Karen E. Smith, Stanley B. Zdonik
+James E. Rumbaugh
+Naftaly H. Minsky, David Rozenshtein

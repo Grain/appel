@@ -1,0 +1,54 @@
+Michael Ben-Or, Shafi Goldwasser, Avi Wigderson
+David Chaum, Claude Crépeau, Ivan Damgård
+Joe Kilian
+Mihir Bellare, Silvio Micali
+David Peleg, Eli Upfal
+Joseph Y. Halpern, Moshe Y. Vardi
+Piotr Berman, Janos Simon
+Danny Dolev, Eli Gafni, Nir Shavit
+Danny Krizanc, David Peleg, Eli Upfal
+Manuel Blum, Paul Feldman, Silvio Micali
+Michael Ben-Or, Shafi Goldwasser, Joe Kilian, Avi Wigderson
+Joseph Y. Halpern, Yoram Moses, Mark R. Tuttle
+Paul Feldman, Silvio Micali
+Bernd Halstenberg, Rüdiger Reischuk
+Alok Aggarwal, Ashok K. Chandra
+András Hajnal, Wolfgang Maass, György Turán
+Sandeep N. Bhatt, Fan R. K. Chung, Jia-Wei Hong, Frank Thomson Leighton, Arnold L. Rosenberg
+Alok Aggarwal, Ashok K. Chandra, Prabhakar Raghavan
+Ramarathnam Venkatesan, Leonid A. Levin
+Mihalis Yannakakis
+Christos H. Papadimitriou, Mihalis Yannakakis
+Mark Jerrum, Alistair Sinclair
+Ker-I Ko
+Michael Ben-Or, Richard Cleve
+Bala Kalyanasundaram, Georg Schnitger
+Michael J. Kearns, Ming Li
+Yuri Gurevich, Saharon Shelah
+Richard M. Karp, Yanjun Zhang
+Michael Ben-Or, Prasoon Tiwari
+Howard J. Karloff, Prabhakar Raghavan
+Mark S. Manasse, Lyle A. McGeoch, Daniel Dominic Sleator
+Sampath Kannan, Moni Naor, Steven Rudich
+Amos Fiat, Moni Naor, Alejandro A. Schäffer, Jeanette P. Schmidt, Alan Siegel
+George S. Lueker, Mariko Molodowitch
+Martin Loebl, Jaroslav Nesetril
+Amos Fiat, Moni Naor, Jeanette P. Schmidt, Alan Siegel
+James B. Orlin
+Andrew V. Goldberg, Robert Endre Tarjan
+S. Rao Kosaraju, Gregory F. Sullivan
+Harold N. Gabow, Herbert H. Westermann
+Pravin M. Vaidya
+Hubert de Fraysseix, János Pach, Richard Pollack
+Tomás Feder, Daniel H. Greene
+Steven Fortune, Gordon T. Wilfong
+John F. Canny
+Valerie King
+Stavros S. Cosmadakis, Haim Gaifman, Paris C. Kanellakis, Moshe Y. Vardi
+Sorin Istrail
+Janos Pintz, William L. Steiger, Endre Szemerédi
+Christos H. Papadimitriou, Mihalis Yannakakis
+Harold N. Gabow, Robert Endre Tarjan
+Leonard M. Adleman, Kireeti Kompella
+Mauricio Karchmer, Avi Wigderson
+Andrei Z. Broder

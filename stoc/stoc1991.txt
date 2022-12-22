@@ -1,0 +1,58 @@
+Richard Beigel, Nick Reingold, Daniel A. Spielman
+Ker-I Ko
+László Babai, Lance Fortnow, Leonid A. Levin, Mario Szegedy
+Peter Gemmell, Richard J. Lipton, Ronitt Rubinfeld, Madhu Sudan, Avi Wigderson
+Greg Barnes, Walter L. Ruzzo
+Erich Kaltofen
+Leonard M. Adleman
+Johannes A. Buchmann, Victor Shoup
+Alfred Menezes, Scott A. Vanstone, Tatsuaki Okamoto
+László Babai, Gene Cooperman, Larry Finkelstein, Eugene M. Luks, Ákos Seress
+Frank Thomson Leighton, Fillia Makedon, Serge A. Plotkin, Clifford Stein, Éva Tardos, Spyros Tragoudas
+Harold N. Gabow
+Tomás Feder, Rajeev Motwani
+Ajit Agrawal, Philip N. Klein, R. Ravi
+Edith Cohen, Nimrod Megiddo
+David L. Applegate, Ravi Kannan
+László Babai
+Graham R. Brightwell, Peter Winkler
+Andrei Z. Broder, Alan M. Frieze, Eli Shamir
+Richard M. Karp
+Ehud Shapiro
+Serge Abiteboul, Victor Vianu
+David Harel
+Edward G. Coffman Jr., Costas Courcoubetis, M. R. Garey, David S. Johnson, Lyle A. McGeoch, Peter W. Shor, Richard R. Weber, Mihalis Yannakakis
+Edward G. Coffman Jr., M. R. Garey
+Allan Borodin, Sandy Irani, Prabhakar Raghavan, Baruch Schieber
+Edward F. Grove
+Simon Kahan
+Howard J. Karloff, Yuval Rabani, Yiftach Ravid
+Xiaotie Deng, Sanjeev Mahajan
+Torben Hagerup
+Yossi Matias, Uzi Vishkin
+Zvi Galil, Giuseppe F. Italiano
+Avrim Blum, Tao Jiang, Ming Li, John Tromp, Mihalis Yannakakis
+Hristo N. Djidjev, John H. Reif
+James Aspnes, Maurice Herlihy, Nir Shavit
+Hagit Attiya, Cynthia Dwork, Nancy A. Lynch, Larry J. Stockmeyer
+Richard J. Anderson, Heather Woll
+Zvi M. Kedem, Krishna V. Palem, A. Raghunathan, Paul G. Spirakis
+Joseph Cheriyan, Ramakrishna Thurimella
+James Aspnes, Richard Beigel, Merrick L. Furst, Steven Rudich
+Noam Nisan
+Noam Nisan, Avi Wigderson
+Michael Luby, Boban Velickovic
+Dany Breslauer, Zvi Galil
+Dana Angluin, Michael Kharitonov
+Eyal Kushilevitz, Yishay Mansour
+Nick Littlestone, Philip M. Long, Manfred K. Warmuth
+Mihalis Yannakakis, David Lee
+Javed A. Aslam, Aditi Dhagat
+Avrim Blum, Prabhakar Raghavan, Baruch Schieber
+Jirí Matousek
+Ketan Mulmuley
+Michael T. Goodrich, Roberto Tamassia
+Amos Fiat, Moni Naor
+Danny Dolev, Cynthia Dwork, Moni Naor
+Joe Kilian
+Ueli M. Maurer

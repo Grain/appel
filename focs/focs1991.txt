@@ -1,0 +1,86 @@
+Uriel Feige, Shafi Goldwasser, László Lovász, Shmuel Safra, Mario Szegedy
+Dror Lapidot, Adi Shamir
+Richard Beigel, Mihir Bellare, Joan Feigenbaum, Shafi Goldwasser
+Bernard Chazelle
+Frank Hoffmann, Michael Kaufmann, Klaus Kriegel
+Jirí Matousek, Nathaly Miller, János Pach, Micha Sharir, Shmuel Sifrony, Emo Welzl
+Oded Goldreich, Erez Petrank
+Joan Boyar, Gilles Brassard, René Peralta
+David Zuckerman
+Manuel Blum, William S. Evans, Peter Gemmell, Sampath Kannan, Moni Naor
+Sanjoy K. Baruah, Gilad Koren, Bhubaneswar Mishra, Arvind Raghunathan, Louis E. Rosier, Dennis E. Shasha
+Anja Feldmann, Jirí Sgall, Shang-Hua Teng
+Jeffrey Scott Vitter, P. Krishnan
+David B. Shmoys, Joel Wein, David P. Williamson
+Manfred Kunde
+I-Chen Wu, H. T. Kung
+Christos H. Papadimitriou
+Howard Aizenstein, Leonard Pitt
+Ketan Mulmuley
+Otfried Schwarzkopf
+Jirí Matousek
+Ketan Mulmuley
+Alon Orlitsky
+Tomás Feder, Eyal Kushilevitz, Moni Naor
+Jeff Edmonds, Steven Rudich, Russell Impagliazzo, Jirí Sgall
+Baruch Awerbuch, George Varghese
+Baruch Awerbuch, Boaz Patt-Shamir, George Varghese
+Weiguo Wang
+Amos Fiat, Dean P. Foster, Howard J. Karloff, Yuval Rabani, Yiftach Ravid, Sundar Vishwanathan
+Xiaotie Deng, Tiko Kameda, Christos H. Papadimitriou
+Rolf Klein
+Jaikumar Radhakrishnan
+Mike Paterson, Uri Zwick
+Nader H. Bshouty, Richard Cleve, Wayne Eberly
+Bruce M. Kapron, Stephen A. Cook
+Rakesh M. Verma
+Nils Klarlund
+E. Allen Emerson, Charanjit S. Jutla
+Victor Shoup, Roman Smolensky
+Joachim von zur Gathen
+Moshe Morgenstern
+Nabil Kahalé
+Ioannis Z. Emiris, John F. Canny
+Herbert Edelsbrunner, Tiow Seng Tan
+Jirí Matousek, Emo Welzl, Lorenz Wernisch
+Ding-Zhu Du, Yanjun Zhang, Qing Feng
+Yonatan Aumann, Michael Ben-Or
+Oded Goldreich, Shafi Goldwasser, Nathan Linial
+Frank Thomson Leighton, Yuan Ma, C. Greg Plaxton
+Frank Thomson Leighton, Eric J. Schwabe
+Ilan Adler, Peter A. Beling
+David Eppstein
+Serge A. Plotkin, David B. Shmoys, Éva Tardos
+Baruch Awerbuch, Leonard J. Schulman
+Moni Naor, Ron M. Roth
+Maurice Herlihy, Nir Shavit, Orli Waarts
+Gary L. Miller, Shang-Hua Teng, Stephen A. Vavasis
+Tsan-sheng Hsu, Vijaya Ramachandran
+David R. Karger, Daphne Koller, Steven J. Phillips
+Noga Alon, Zvi Galil, Oded Margalit
+László Lovász, Moni Naor, Ilan Newman, Avi Wigderson
+Noga Alon
+Anna Gál
+Rüdiger Reischuk, Bernd Schmeltz
+Rajamani Sundar
+Amir M. Ben-Amram, Zvi Galil
+Greg N. Frederickson
+Arne Andersson, Thomas Ottmann
+Bruce Randall Donald, Davied Renpan Chang
+Dima Grigoriev, Marek Karpinski
+Johannes Blömer
+Ming-Deh A. Huang, Doug Ierardi
+Donald B. Johnson, Panagiotis Takis Metaxas
+Joseph Gil, Yossi Matias, Uzi Vishkin
+Michael T. Goodrich
+Hillel Gazit
+László Babai, Katalin Friedl
+Huzur Saran, Vijay V. Vazirani
+Peter W. Shor
+Amihood Amir, Martin Farach
+Wolfgang Maass, Georg Schnitger, Eduardo D. Sontag
+Matthias Krause, Stephan Waack
+Richard Beigel, Jun Tarui
+Arkady Kanevsky, Roberto Tamassia, Giuseppe Di Battista, Jianer Chen
+Arvind Gupta, Russell Impagliazzo
+Harold N. Gabow
