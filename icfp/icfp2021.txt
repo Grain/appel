@@ -1,0 +1,35 @@
+Shivam Handa, Konstantinos Kallas, Nikos Vasilakis, Martin C. Rinard
+Adam Paszke, Daniel D. Johnson, David Duvenaud, Dimitrios Vytiniotis, Alexey Radul, Matthew J. Johnson, Jonathan Ragan-Kelley, Dougal Maclaurin
+Manuel Serrano
+Ningning Xie, Daan Leijen
+Conal Elliott
+Donnacha Oisín Kidney, Nicolas Wu
+Zhixuan Yang, Nicolas Wu
+Zoe Paraskevopoulou, John M. Li, Andrew W. Appel
+Nikita Zyuzin, Aleksandar Nanevski
+Alejandro Aguirre, Gilles Barthe, Marco Gaboardi, Deepak Garg, Shin-ya Katsumata, Tetsuya Sato
+Kimball Germane, Jay McCarthy
+Chaitanya Koparkar, Mike Rainey, Michael Vollmer, Milind Kulkarni, Ryan R. Newton
+Glen Mével, Jacques-Henri Jourdan
+Aymeric Fromherz, Aseem Rastogi, Nikhil Swamy, Sydney Gibson, Guido Martínez, Denis Merigoux, Tahina Ramananandro
+Sandro Stucki, Paolo G. Giarrusso
+Pedro Rocha, Luís Caires
+Lars Birkedal, Thomas Dinsdale-Young, Armaël Guéneau, Guilhem Jaber, Kasper Svendsen, Nikos Tzevelekos
+Yannick Zakowski, Calvin Beck, Irene Yoon, Ilia Zaichuk, Vadim Zaliva, Steve Zdancewic
+Denis Merigoux, Nicolas Chataing, Jonathan Protzenko
+Nicolas Krauter, Patrick Raaf, Peter Braam, Reza Salkhordeh, Sebastian Erdweg, André Brinkmann
+Taro Sekiyama, Takeshi Tsukada
+Nick Giannarakis, Alexandra Silva, David Walker
+Lukas Lazarek, Ben Greenman, Matthias Felleisen, Christos Dimoulas
+Joshua Yanovski, Hoang-Hai Dang, Ralf Jung, Derek Dreyer
+Xuejing Huang, BrunoC.d.S. Oliveira
+David M. Kahn, Jan Hoffmann
+Martin Avanzini, Gilles Barthe, Ugo Dal Lago
+Adam Chlipala
+Mitchell Pickard, Graham Hutton
+Farzin Houshmand, Mohsen Lesani, Keval Vora
+Richard A. Eisenberg, Guillaume Duboc, Stephanie Weirich, Daniel Lee
+Zesen Qian, G. A. Kavvos, Lars Birkedal
+Yasunari Watanabe, Kiran Gopinathan, George Pîrlea, Nadia Polikarpova, Ilya Sergey
+John M. Li, Andrew W. Appel
+Yao Li, Li-yao Xia, Stephanie Weirich

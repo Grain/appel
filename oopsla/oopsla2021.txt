@@ -1,0 +1,71 @@
+Jialu Zhang, Ruzica Piskac, Ennan Zhai, Tianyin Xu
+Zhe Zhou, Robert Dickerson, Benjamin Delaware, Suresh Jagannathan
+Aviral Goel, Pierre Donat-Bouillud, Filip Krikava, Christoph M. Kirsch, Jan Vitek
+Kevin De Porre, Carla Ferreira, Nuno M. Preguiça, Elisa Gonzalez Boix
+Son Tuan Vu, Albert Cohen, Arnaud de Grandmaison, Christophe Guillon, Karine Heydemann
+Rawn Henry, Olivia Hsu, Rohan Yadav, Stephen Chou, Kunle Olukotun, Saman P. Amarasinghe, Fredrik Kjolstad
+Tian Tan, Yue Li, Xiaoxing Ma, Chang Xu, Yannis Smaragdakis
+Angelica Aparecida Moreira, Guilherme Ottoni, Fernando Magno Quintão Pereira
+Milod Kazerounian, Jeffrey S. Foster, Bonan Min
+Kasra Ferdowsifard, Shraddha Barke, Hila Peleg, Sorin Lerner, Nadia Polikarpova
+Malte Viering, Raymond Hu, Patrick Eugster, Lukasz Ziarek
+Wolf Honoré, Jieung Kim, Ji-Yong Shin, Zhong Shao
+Georgios Karachalias, Filip Koprivec, Matija Pretnar, Tom Schrijvers
+Haoran Xu, Fredrik Kjolstad
+Nader AlAwar, Kush Jain, Christopher J. Rossbach, Milos Gligoric
+Ziqiao Zhou, Michael K. Reiter
+Yuyan Bao, Guannan Wei, Oliver Bracevac, Yuxuan Jiang, Qiyang He, Tiark Rompf
+Chandrakana Nandi, Max Willsey, Amy Zhu, Yisu Remy Wang, Brett Saiki, Adam Anderson, Adriana Schulz, Dan Grossman, Zachary Tatlock
+Artem Pelenitsyn, Julia Belyakova, Benjamin Chung, Ross Tate, Jan Vitek
+Kia Rahmani, Mohammad Raza, Sumit Gulwani, Vu Le, Daniel Morris, Arjun Radhakrishna, Gustavo Soares, Ashish Tiwari
+Ting Su, Yichen Yan, Jue Wang, Jingling Sun, Yiheng Xiong, Geguang Pu, Ke Wang, Zhendong Su
+Pengbo Yan, Toby Murray
+Jiwon Park, Dominik Winterer, Chengyu Zhang, Zhendong Su
+Fabian Wolff, Aurel Bílý, Christoph Matheja, Peter Müller, Alexander J. Summers
+Angello Astorga, Shambwaditya Saha, Ahmad Dinkins, Felicia Wang, P. Madhusudan, Tao Xie
+Stefanos Chaliasos, Thodoris Sotiropoulos, Georgios-Petros Drosos, Charalambos Mitropoulos, Dimitris Mitropoulos, Diomidis Spinellis
+Tyler Sorensen, Lucas F. Salvador, Harmit Raval, Hugues Evrard, John Wickerson, Margaret Martonosi, Alastair F. Donaldson
+Ori Roth
+Xiaodong Jia, Ashish Kumar, Gang Tan
+Satyajit Gokhale, Alexi Turcotte, Frank Tip
+Mohamad Barbar, Yulei Sui
+Sebastian Burckhardt, Chris Gillum, David Justo, Konstantinos Kallas, Connor McMahon, Christopher S. Meiklejohn
+Gust Verbruggen, Vu Le, Sumit Gulwani
+Guoqiang Zhang, Yuanchao Xu, Xipeng Shen, Isil Dillig
+Karl Cronburg, Samuel Z. Guyer
+Christian Bräm, Marco Eilers, Peter Müller, Robin Sierra, Alexander J. Summers
+Ori Lahav, Egor Namakonov, Jonas Oberhauser, Anton Podkopaev, Viktor Vafeiadis
+Dan Iorga, Alastair F. Donaldson, Tyler Sorensen, John Wickerson
+Xipeng Shen, Guoqiang Zhang, Irene Dea, Samantha Andow, Emilio Arroyo-Fang, Neal Gafter, Johann George, Melissa Grueter, Erik Meijer, Olin Grigsby Shivers, Steffi Stumpos, Alanna Tempest, Christy Warden, Shannon Yang
+Xiang Gao, Arjun Radhakrishna, Gustavo Soares, Ridwan Shariffdeen, Sumit Gulwani, Abhik Roychoudhury
+Fabian Muehlboeck, Ross Tate
+Ruyi Ji, Jingtao Xia, Yingfei Xiong, Zhenjiang Hu
+Sándor Bartha, James Cheney, Vaishak Belle
+Truc Lam Bui, Krishnendu Chatterjee, Tushar Gautam, Andreas Pavlogiannis, Viktor Toman
+Alexandru Dura, Christoph Reichenbach, Emma Söderberg
+Justin Lubin, Sarah E. Chasins
+Florian Lanzinger, Alexander Weigl, Mattias Ulbrich, Werner Dietl
+Peisen Yao, Qingkai Shi, Heqing Huang, Charles Zhang
+Didier Ishimwe, KimHao Nguyen, ThanhVu Nguyen
+Zoe Paraskevopoulou, Anvay Grover
+Aviral Goel, Jan Jecmen, Sebastián Krynski, Olivier Flückiger, Jan Vitek
+Luke Anderson, Andrew Adams, Karima Ma, Tzu-Mao Li, Tian Jin, Jonathan Ragan-Kelley
+Rohan Bavishi, Caroline Lemieux, Koushik Sen, Ion Stoica
+Nouraldin Jaber, Christopher Wagner, Swen Jacobs, Milind Kulkarni, Roopsha Samanta
+Robert Brotzman, Danfeng Zhang, Mahmut Taylan Kandemir, Gang Tan
+Weili Fu, Fabian Krause, Peter Thiemann
+Michael D. Brown, Matthew Pruett, Robert Bigelow, Girish Mururu, Santosh Pande
+Arjun Pitchanathan, Christian Ulmann, Michel Weber, Torsten Hoefler, Tobias Grosser
+Mehmet Emre, Ryan Schroeder, Kyle Dewey, Ben Hardekopf
+Magnus Madsen, Jaco van de Pol
+Guy L. Steele Jr., Sebastiano Vigna
+Natalie Popescu, Ziyang Xu, Sotiris Apostolakis, David I. August, Amit Levy
+Nisarg Patel, Siddharth Krishna, Dennis E. Shasha, Thomas Wies
+Yann Herklotz, James D. Pollard, Nadesh Ramanathan, John Wickerson
+Masaomi Yamaguchi, Kazutaka Matsuda, Cristina David, Meng Wang
+Eric Atkinson, Guillaume Baudart, Louis Mandel, Charles Yuan, Michael Carbin
+Luna Phipps-Costin, Carolyn Jane Anderson, Michael Greenberg, Arjun Guha
+Yannis Smaragdakis, Neville Grech, Sifis Lagouvardos, Konstantinos Triantafyllou, Ilias Tsatiris
+Paul He, Eddy Westbrook, Brent Carmer, Chris Phifer, Valentin Robert, Karl Smeltzer, Andrei Stefanescu, Aaron Tomb, Adam Wick, Matthew Yacavone, Steve Zdancewic
+Stefan Malewski, Michael Greenberg, Éric Tanter
+Ranadeep Biswas, Diptanshu Kakwani, Jyothi Vedurada, Constantin Enea, Akash Lal

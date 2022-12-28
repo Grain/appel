@@ -1,0 +1,37 @@
+Xiaohong Chen, Grigore Rosu
+Alejandro Serrano, Jurriaan Hage, Simon Peyton Jones, Dimitrios Vytiniotis
+Andreas Abel, Jean-Philippe Bernardy
+Matus Tejiscak
+Bastian Hagedorn, Johannes Lenfers, Thomas Koehler, Xueying Qin, Sergei Gorlatch, Michel Steuwer
+Philipp Schuster, Jonathan Immanuel Brachthäuser, Klaus Ostermann
+Matthew Weidner, Heather Miller, Christopher Meiklejohn
+Nick Rioux, Steve Zdancewic
+Glen Mével, Jacques-Henri Jourdan, François Pottier
+Joseph W. Cutler, Daniel R. Licata, Norman Danner
+Nándor Licker, Timothy M. Jones
+Ningning Xie, Jonathan Immanuel Brachthäuser, Daniel Hillerström, Philipp Schuster, Daan Leijen
+Daniel Hillerström, Sam Lindley, John Longley
+András Kovács
+Zachary Palmer, Theodore Park, Scott F. Smith, Shiwei Weng
+Gabriel Radanne, Hannes Saffrich, Peter Thiemann
+Paul Downen, Zena M. Ariola, Simon Peyton Jones, Richard A. Eisenberg
+Nadia Polikarpova, Deian Stefan, Jean Yang, Shachar Itzhaky, Travis Hance, Armando Solar-Lezama
+Tristan Knoth, Di Wang, Adam Reynolds, Jan Hoffmann, Nadia Polikarpova
+Sebastian Graf, Simon Peyton Jones, Ryan G. Scott
+Pierce Darragh, Michael D. Adams
+Justin Lubin, Nick Collins, Cyrus Omar, Ravi Chugh
+Di Wang, David M. Kahn, Jan Hoffmann
+Vikraman Choudhury, Neel Krishnaswami
+Timothée Haudebourg, Thomas Genet, Thomas P. Jensen
+K. C. Sivaramakrishnan, Stephen Dolan, Leo White, Sadiq Jaffer, Tom Kelly, Anmol Sahoo, Sudha Parimala, Atul Dhiman, Anil Madhavapeddy
+Paolo G. Giarrusso, Léo Stefanesco, Amin Timany, Lars Birkedal, Robbert Krebbers
+Daniel Selsam, Simon Hudon, Leonardo de Moura
+Arthur Charguéraud
+Taro Sekiyama, Takeshi Tsukada, Atsushi Igarashi
+Kazutaka Matsuda, Meng Wang
+Benoît Montagu, Thomas P. Jensen
+Jamie Willis, Nicolas Wu, Matthew Pickering
+Nikhil Swamy, Aseem Rastogi, Aymeric Fromherz, Denis Merigoux, Danel Ahman, Guido Martínez
+Aaron Stump, Christopher Jenkins, Stephan Spahn, Colin McDonald
+Jeremiah Griffin, Mohsen Lesani, Narges Shadab, Xizhe Yin
+Lionel Parreaux

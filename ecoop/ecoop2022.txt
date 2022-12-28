@@ -1,0 +1,35 @@
+Heiko Becker, Robert Rabe, Eva Darulova, Magnus O. Myreen, Zachary Tatlock, Ramana Kumar, Yong Kiam Tan, Anthony C. J. Fox
+Jinxu Zhao, BrunoC.d.S. Oliveira
+Madhurima Chakraborty, Renzo Olivares, Manu Sridharan, Behnaz Hassanshahi
+Nicolas Lagaillardie, Rumyana Neykova, Nobuko Yoshida
+Daniel Marshall, Dominic Orchard
+Shuyang Liu, John Bender, Jens Palsberg
+André Pacak, Sebastian Erdweg
+Lorenzo Gheri, Ivan Lanese, Neil Sayers, Emilio Tuosto, Nobuko Yoshida
+Daniel Schemmel, Julian Büning, Frank Busse, Martin Nowack, Cristian Cadar
+Martin Kellogg, Narges Shadab, Manu Sridharan, Michael D. Ernst
+Filipe Marques, José Fragoso Santos, Nuno Santos, Pedro Adão
+Vlad Rusu, David Nowak
+Zachary Grannan, Niki Vazou, Eva Darulova, Alexander J. Summers
+Rajdeep Mukherjee, Omer Tripp, Ben Liblit, Michael Wilson
+Anxhelo Xhebraj, Oliver Bracevac, Guannan Wei, Tiark Rompf
+Brian Hempel, Ravi Chugh
+Abhiroop Sarkar, Bo Joel Svensson, Mary Sheeran
+Andong Fan, Xuejing Huang, Han Xu, Yaozhu Sun, BrunoC.d.S. Oliveira
+Lukás Holík, Petr Peringer, Adam Rogalewicz, Veronika Soková, Tomás Vojnar, Florian Zuleger
+Giorgio Audrito, Roberto Casadei, Ferruccio Damiani, Guido Salvaneschi, Mirko Viroli
+Hehao Li, Yizhuo Wang, Yiwei Zhang, Juanru Li, Dawu Gu
+Ruofei Chen, Stephanie Balzer, Bernardo Toninho
+Jules Jacobs
+Manuel Serrano
+Baber Rehman, Xuejing Huang, Ningning Xie, BrunoC.d.S. Oliveira
+Luca Ciccone, Francesco Dagnino, Luca Padovani
+Guillermina Cledou, Luc Edixhoven, Sung-Shik Jongmans, José Proença
+Andreas Stadelmeier, Martin Plümicke, Peter Thiemann
+François Gauthier, Behnaz Hassanshahi, Benjamin Selwyn-Smith, Trong Nhan Mai, Max Schlüter, Micah Williams
+Dongjie He, Jingbo Lu, Jingling Xue
+Andrew Lumsdaine, Luke D'Alessandro, Kevin Deweese, Jesun Firoz, Tony Liu, Scott McMillan, John Phillip Ratzloff, Marcin Zalewski
+Kenan Liu, Khaled Mahmoud, Joonhwan Yoo, YuDavid Liu
+Amir Shaikhha, Mahdi Ghorbani, Hesam Shahrokhi
+Marcelo Navarro, Federico Olmedo
+David Richter, David Kretzler, Pascal Weisenburger, Guido Salvaneschi, Sebastian Faust, Mira Mezini

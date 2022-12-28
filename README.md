@@ -1,5 +1,6 @@
 # Analyzing Author Ordering
 
+For example,
 ```
 cd popl
 rm out.txt
@@ -8,4 +9,4 @@ python3 ../plot.py out.txt
 ```
 will run the script on all the author lists for POPL over the years, and plot the results:
 
-![plot of results](popl/results.png)
+![plot of results](popl/popl.png)

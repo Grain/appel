@@ -1,0 +1,35 @@
+Norman Ramsey
+James Koppel, Zheng Guo, Edsko de Vries, Armando Solar-Lezama, Nadia Polikarpova
+Marek Materzok
+Patrick Bahr, Graham Hutton
+Malgorzata Biernacka, Witold Charatonik, Tomasz Drab
+Arnaud Spiwack, Csongor Kiss, Jean-Philippe Bernardy, Nicolas Wu, Richard A. Eisenberg
+Joseph Eremondi, Ronald Garcia, Éric Tanter
+Steven Keuchel, Sander Huyghebaert, Georgy Lukyanov, Dominique Devriese
+Hsiang-Shang Ko, Liang-Ting Chen, Tzu-Chi Lin
+Irene Yoon, Yannick Zakowski, Steve Zdancewic
+Simon Spies, Lennard Gäher, Joseph Tassarotti, Ralf Jung, Robbert Krebbers, Lars Birkedal, Derek Dreyer
+Yao Li, Stephanie Weirich
+Elijah Rivera, Shriram Krishnamurthi
+Anton Lorenzen, Daan Leijen
+Minh Nguyen, Roly Perera, Meng Wang, Nicolas Wu
+Cas van der Rest, Wouter Swierstra
+Klaus Ostermann, David Binder, Ingo Skupin, Tim Süberkrüb, Paul Downen
+Jules Jacobs, Stephanie Balzer, Robbert Krebbers
+Patrick Thomson, Rob Rix, Nicolas Wu, Tom Schrijvers
+Sebastian Ullrich, Leonardo de Moura
+András Kovács
+Frank Emrich, Jan Stolarek, James Cheney, Sam Lindley
+Elizaveta Vasilenko, Niki Vazou, Gilles Barthe
+Lucas Escot, Jesper Cockx
+Benjamin Quiring, John H. Reppy, Olin Shivers
+Sam Westrick, Jatin Arora, Umut A. Acar
+Son Ho, Jonathan Protzenko
+James Koppel, Jackson Kearl, Armando Solar-Lezama
+Nachiappan Valliappan, Fabian Ruch, Carlos Tomé Cortiñas
+Beniamino Accattoli, Ugo Dal Lago, Gabriele Vanoni
+Gilles Barthe, Raphaëlle Crubillé, Ugo Dal Lago, Francesco Gavazzo
+Beniamino Accattoli, Giulio Guerrieri
+Tram Hoang, Anton Trunov, Leonidas Lampropoulos, Ilya Sergey
+Shin-ya Katsumata, Dylan McDermott, Tarmo Uustalu, Nicolas Wu
+Kenji Maillard, Meven Lennon-Bertrand, Nicolas Tabareau, Éric Tanter

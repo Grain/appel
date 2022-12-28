@@ -1,0 +1,33 @@
+Davide Ancona, Pietro Barbieri, Francesco Dagnino, Elena Zucca
+Hila Peleg, Nadia Polikarpova
+Abel Nieto, Marianna Rapoport, Gregor Richards, Ondrej Lhoták
+Julia Gabet, Nobuko Yoshida
+Evgenii Moiseenko, Anton Podkopaev, Ori Lahav, Orestis Melkonian, Viktor Vafeiadis
+Lukas Diekmann, Laurence Tratt
+Liyi Li, Elsa L. Gunter
+Yuya Tsuda, Atsushi Igarashi, Tomoya Tabuchi
+Keigo Imai, Rumyana Neykova, Nobuko Yoshida, Shoji Yuen
+Colin S. Gordon
+Sadegh Dalvandi, Simon Doherty, Brijesh Dongol, Heike Wehrheim
+Magnus Madsen, Ondrej Lhoták, Frank Tip
+David Maciver, Alastair F. Donaldson
+Simon Fowler
+Sifis Lagouvardos, Julian Dolby, Neville Grech, Anastasios Antoniadis, Yannis Smaragdakis
+Benjamin Barslev Nielsen, Anders Møller
+Raphaël Monat, Abdelraouf Ouadjaout, Antoine Miné
+Vlastimil Dort, Ondrej Lhoták
+Sam Van den Vonder, Thierry Renaux, Bjarno Oeyen, Joeri De Koster, Wolfgang De Meuter
+Jan de Muijnck-Hughes, Edwin C. Brady, Wim Vanderbauwhede
+Shale Xiong, Andrea Cerone, Azalea Raad, Philippa Gardner
+Alastair F. Donaldson, Hugues Evrard, Paul Thomson
+Colin S. Gordon
+Mohamad Barbar, Yulei Sui, Shiping Chen
+Abel Nieto, Yaoyu Zhao, Ondrej Lhoták, Angela Chang, Justin Pu
+Xuejing Huang, BrunoC.d.S. Oliveira
+Ningning Xie, BrunoC.d.S. Oliveira, Xuan Bi, Tom Schrijvers
+Gabriela Sampaio, José Fragoso Santos, Petar Maksimovic, Philippa Gardner
+BrunoC.d.S. Oliveira, Shaobo Cui, Baber Rehman
+Chris Fallin
+Alexandros Tasos, Juliana Franco, Sophia Drossopoulou, Tobias Wrigstad, Susan Eisenbach
+Davide Ancona, Francesco Dagnino, Jurriaan Rot, Elena Zucca
+Matías Toro, Éric Tanter

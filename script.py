@@ -21,10 +21,8 @@ def L(p):
         prob *= pow(p - c, nonalpha[i])
         prob *= math.comb(alpha[i] + nonalpha[i], alpha[i])
 
-    if prob < 0:
-        print("hm")
-    if prob > 1:
-        print("hm")
+    if prob < 0 or prob > 1:
+        print("Probability out of bounds", file=sys.stderr)
     return prob
 
 # total area under the curve
@@ -42,7 +40,7 @@ def isalphabetical(names):
     for name in names:
         d = pp.tag(name, "person")[0]
         if "Surname" not in d.keys():
-            print("Surname not found: " + name)
+            print("Surname not found: " + name, file=sys.stderr)
             exit()
 
     surnames = [pp.tag(name, "person")[0]["Surname"] for name in names]
@@ -51,7 +49,26 @@ def isalphabetical(names):
         if surnames[i] > surnames[i+1]:
             return False
         elif surnames[i] == surnames[i+1]:
-            if pp.tag(names[i], "person")[0]["GivenName"] > pp.tag(names[i+1], "person")[0]["GivenName"]:
+            d1 = pp.tag(names[i], "person")[0]
+            if "GivenName" not in d1.keys():
+                if "FirstInitial" not in d1.keys():
+                    print("Given name and first initial not found: " + names[i], file=sys.stderr)
+                    exit()
+                else:
+                    v1 = d1["FirstInitial"]
+            else:
+                v1 = d1["GivenName"]
+
+            d2 = pp.tag(names[i+1], "person")[0]
+            if "GivenName" not in d2.keys():
+                if "FirstInitial" not in d2.keys():
+                    print("Given name and first initial not found: " + names[i+1], file=sys.stderr)
+                    exit()
+                else:
+                    v2 = d2["FirstInitial"]
+            else:
+                v2 = d2["GivenName"]
+            if v1 > v2:
                 return False
     return True
 
