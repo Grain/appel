@@ -1,5 +1,9 @@
 # Analyzing Author Ordering
 
+See [this blog post](https://paulhe.com/2022/12/28/mathematics-or-science.html) for details.
+
+## Usage
+
 For example,
 ```
 cd popl
